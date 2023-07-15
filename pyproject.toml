@@ -2,7 +2,7 @@
 name = "pod-sumarizer"
 version = "0.1.0"
 description = ""
-authors = ["Thomas Wang <hi@xgwang.me>"]
+authors = ["Thomas Wang <hi@xgwang.me>", "Maggie Mao <guanqunm@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
