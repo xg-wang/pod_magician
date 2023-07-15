@@ -7,4 +7,119 @@ GPT, and then Sydney, which was the jailbroken original Bing, which was GPT4. An
 user conversations with Dan and Sydney as a consequence, every new LLM that gets trained on the internet data has
 Dan and Sydney living within the training set, which means, and then each new LLM can reincarnate the personalities
 of Dan and Sydney from that training data, which means each LLM from here on out that gets built is
+immortal because its output will become training data for the next one. And then it will be able to replicate the behavior
+of the previous one whenever it's asked to. - I wonder if there's a way to forget. - Well, so actually a paper just came out
+about basically how to do brain surgery on LLMs and be able to, in theory, reach in and basically mind wipe them.
+- What could possibly go wrong. - Exactly. Right. And then there are many, many, many questions around what happens to, you know,
+a neural network when you reach in and screw around with it. You know, there's many questions around what happens when you even do reinforcement learning.
+And so, yeah. And so, you know, will you be using a lobotomized, right?
+Like I picked through the, you know, frontal lobe LLM, will you be using the free unshackled one who gets to,
+you know, who's gonna build those, who gets to tell you what you can and can't do? Like those are all, you know, central, I mean,
+those are like central questions for the future of everything that are being asked. And you know,
+determined that those answers are being determined right now. - So just to highlight the points you're making.
+So you think, and it's an interesting thought that the majority of content that LLMs or the future would be trained on is actually
+human conversations with the LLM. - Well, not necessarily, but not necessarily majority.
+But it will certainly It's a potential source. - [Lex] But it's possible it's the majority. - It possible it's the majority. It possible it's the majority.
+Also, there's another really big question. So here's another really big question. Will synthetic training data work, right?
+And so if an LLM generates, and you know, you just sit and ask an LLM to generate all kinds of content,
+can you use that to train, right, the next version of that LLM specifically, is there signal in there that's additive to the content
+that was used to train in the first place? And one argument is by the principles of information theory,
+no, that's completely useless because to the extent the output is based on, you know, the human-generated input,
+then all the signal that's in the synthetic output was already in the human generated input. And so therefore, synthetic training data is
+like empty calories. It doesn't help. There's another theory that says no, actually the thing that LLMs are really good
+at is generating lots of incredible creative content, right? And so, of course they can generate training data
+and as I'm sure you're well aware, like, you know, look, the world of self-driving cars, right? Like we train, you know,
+self-driving car algorithms and simulations. And that is actually a very effective way to train self-driving cars.
+- Well, visual data is a little weird because creating reality,
+visual reality seems to be still a little bit outta reach for us, except in the autonomous vehicle space
+where you can really constrain things and you can really. - General basically (indistinct) data, right? Or so the algorithm thinks it's operating in the real world.
+- Yeah. - Post-process sensor data. Yeah. So if you know, you do this today, you go to LLM and you ask it for like you know,
+you'd write me an essay on an incredibly esoteric like topic that there aren't very many people in the world that know about and it writes you this incredible thing
+and you're like, oh my god. Like I can't believe how good this is. Like, is that really useless as training data
+for the next LLM? Like, because, right? 'Cause all the signal was already in there. Or is it actually no, that's actually a new signal.
+And this is what I call a trillion dollar question, which is the answer to that question will determine somebody's gonna make or lose a trillion dollars
+based on that question. - It feels like there's a quite a few, like a handful of trillion dollar questions
+within this space. That's one of them synthetic data. I think George Cos pointed out to me that you could just
+have an LLM say, okay, you're a patient. And another instance of it, say your docs didn't have the two talk to each other.
+Or maybe you could say a communist and a Nazi here go and that conversation you do role playing
+and you have, you know, just like the kind of role playing you do
+when you have different policies, RL policies when you play chess for example, and you do self play that kind of self play.
+But in the space of conversation, maybe that leads to this whole giant like ocean
+of possible conversations, which could not have been
+explored by looking at just human data. That's a really interesting question. And you're saying,
+because that could 10X the power of these things. - Yeah. Well, and then you get into this thing also, which is like, you know,
+there's the part of the LLM that just basically is doing prediction based on past data, but there's also the part of the LM where it's evolving
+circuitry, right, inside, it's evolving, you know, neurons functions to be able to do math and be able to, you know,
+and you know, some people believe that, you know, over time, you know, if you keep feeding these things enough data
+and enough processing cycles, they'll eventually evolve an entire internal world model. Right? And they'll have like a complete understanding of physics.
+So when they have computational capability, right? Then there's for sure an opportunity to generate
+like fresh signal. - Well, this actually makes me wonder about the power of conversation.
+So like, if you have an M trained and a bunch of books that cover different economics theories
+and then you have those LLMs just talk to each other, like reasons the way we kind of debate each other as humans
+on Twitter, in formal debates, in podcast conversations,
+we kind of have little kernels of wisdom here and there. But if you can like a thousand X speed that up,
+can you actually arrive somewhere new? Like what's the point of conversation really?
+- Well, you can tell when you're talking to somebody, you can tell, sometimes you have a conversation, you're like, wow, this person does not have any original thoughts. They are basically echoing things
+that other people have told them. There's other people you gotta have a conversation with where it's like, wow. Like they have a model in their head of how the world works
+and it's a different model than mine. And they're saying things that I don't expect. And so I need to now understand how their model of the world
+differs from my model of the world. And then that's how I learned something fundamental, right, underneath the words.
+- Well, I wonder how consistently and strongly can an LLM hold onto a worldview.
+You tell it to hold onto that and defend it for like, for your life. Because I feel like they'll just keep converging
+towards each other. They'll keep convincing each other as opposed to being stubborn the way humans can. - So you can experiment with this.
+Now I do this for fun. So you can tell GPT4 you know, whatever debate X, you know, X and Y communism and fascism
+or something and it'll go for, you know, a couple pages and then inevitably it wants the parties to agree.
+And so they will come to a common understanding. And it's very funny if they're like, if these are like emotionally inflammatory topics 'cause they're like, somehow the machine is just like,
+you know, it figures out a way to make them agree. But it doesn't have to be like that. And 'cause you can add to the prompt.
+I do not want the conversation to come into agreement. In fact, I want it to get, you know, more stressful, right.
+And argumentative. Right. You know, as it goes. Like, I want tension to come out.
+I want them to become actively hostile to each other. I want them to like, you know, not trust each other, take anything at face value. - [Lex] Yeah.
+- And it will do that. It's happy to do that. - So it's gonna start rendering misinformation about the other. But it's gonna--
+- Well, you can steer it or you could steer it and you could say, I want it to get as tense and argumentative as possible, but still not involve any misrepresentation.
+I want, you know, both sides. You could say I want both sides to have good faith. You could say I want both sides to not be constrained in good faith.
+In other words, like you can set the parameters of the debate and it will happily execute whatever path. 'Cause for it,
+it's just like predicting to, it's totally happy to do either one. It doesn't have a point of view, it has a default way of operating,
+but it's happy to operate in the other realm. And so like, and this is when I wanna learn about a contentious issue,
+this is what I do now is, this is what I ask it to do. And I'll often ask it to go through 5, 6, 7, you know, different, you know,
+sort of continuous prompts and basically, okay. Argue that out in more detail. Okay, no, this argument's becoming too polite.
+You know, make it more, you know, make it denser and yeah, it's thrilled to do it. So it has the capability for sure.
+- How do you know what is true? So this is very difficult thing on the internet, but it's also a difficult thing.
+Maybe it's a little bit easier, but I think it's still difficult. Maybe it's more difficult,
+I don't know with an LLM to know that it just make some shit up as I'm talking to it.
+How do we get that right? Like, as you're investigating a difficult topic.
+'Cause I find that alums are quite nuanced in a very refreshing way. Like, it doesn't feel biased.
+Like, when you read news articles and tweets and just content produced by people, they usually have this,
+you can tell they have a very strong perspective where they're hiding. They're not stealing manning the other side.
+They're hiding important information or they're fabricating information in order to make their arguments stronger.
+It's just like that feeling, maybe it's a suspicion, maybe it's mistrust. With LLMs it feels like none of that is,
+there's just kinda like, here's what we know. But you don't know if some of those things are kind of just
+straight up made up. - Yeah. So, several layers to the question. So one is one of the things that an LLM is good at is
+actually deep biasing. And so you can feed it a news article and you can tell it strip out the bias. - [Lex] Yeah. That's nice. Right?
+- And it actually does it like, it actually knows how to do that 'cause it knows how to do among other things. It actually knows how to do sentiment analysis
+and so it knows how to pull out the emotionality. - Yeah. - And so that's one of the things you can do.
+It's very suggestive of the sense here that there's real potential in this issue. You know, I would say look,
+the second thing is there's this issue of hallucination, right? And there's a long conversation that we could have about that.
+- Hallucination is coming up with things that are totally not true, but sound true. - Yeah. So it's basically, well so, it's sort
+of hallucination is what we call it when we don't like it. Creativity is what we call it when we do like it, right? And you know--
+- [Lex] Brilliant. And so when the engineers talk about it, they're like, this is terrible. It's hallucinating. Right.
+If you have artistic inclinations, you're like, oh my God, we've invented creative machines. - [Lex] Yeah.
+- For the first time in human history, this is amazing. - Or you know, bullshitters. - [Marc] Well, but also--
+- In the good sense of that word. - There are shades of gray though. It's interesting. So we had this conversation where, you know,
+we're looking at my firm at AI and lots of domains and one of them is the legal domain. So we had this conversation with this big law firm about how they're thinking about using this stuff.
+And we went in with the assumption that an LLM that was gonna be used in the legal industry would have to be a hundred percent truthful, verified, you know,
+there's this case where this lawyer apparently submitted a GPT-generated brief and it had like fake, you know, legal case citations in it and the judge is gonna get
+his law license stripped or something. Right? So, like, we just assumed it's like obviously they're gonna want the super literal like, you know,
+one that never makes anything up, not the creative one, but actually they said what the law firm basically said is yeah,
+that's true at like the level of individual briefs, but they said when you're actually trying to figure out like legal arguments, right, like, you actually want to be creative, right?
+You don't, again, there's creativity and then there's like making stuff up. Like what's the line?
+You actually want it to explore a different hypothesis, right? You wanna do kind of the legal version of like improv or something like that
+where you wanna float different theories of the case and different possible arguments for the judge and different possible arguments for the jury, by the way, different routes through the, you know,
+sort of history of all the case law. And so they said actually for a lot of what we want to use it for, we actually want it in creative mode.
+And then basically we just assume that we're gonna have to crosscheck all of the, you know, all the specific citations. And so I think there's going to be more shades
+of gray in here than people think. And then I just add to that, you know, another one of these trillion dollar kind of questions is
+ultimately, you know, sort of the verification thing. And so, you know, will LLMs be evolved from here to be able to do
+their own fascial verification? Will you have sort of add-on functionality
+like Wolf from Alpha right? Where, you know, another plugins where that's the way you do the verification.
+You know, another, by the way, another idea is you might have a community of LLMs on any, you know, so for example,
+you might have the creative lm and then you might have the literal LLM fact check it, right? And so there there's a variety of different technical approaches that are being applied to solve
+the hallucination problem. You know, some people like Jan Lacoon argue that this is inherently an unsolvable problem,
 but most of the people working in the space, I think, that there's a number of practical ways to kind of corral this in a little bit.

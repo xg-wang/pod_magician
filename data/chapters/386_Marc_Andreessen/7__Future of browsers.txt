@@ -1,1 +1,61 @@
+So I don't know if you remember, but there's a thing called Mosaic and there's a thing called Netscape Navigator.
+So you were there in the beginning. What about the interface to the internet? How do you think the browser changes
+and who gets to own the browser? We got to see some very interesting browsers, Firefox, I mean all the variants of Microsoft,
+Internet Explorer, Edge, and now Chrome, the actual,
+and he seems like a dumb question to ask, but do you think we'll still have the web browser? - So I have an eight-year-old and he's super into,
+he's like Minecraft and learning to code and doing all this stuff. So, of course I was very proud I could bring sort of fire down from the mountain to my kid
+and I brought him ChatGPT and I hooked him up on his laptop. And I was like, you know,
+this is the thing that's gonna answer all your questions. And he's like, okay. And I'm like, but it's gonna answer all your questions.
+And he's like, well of course, like it's a computer. Of course it answers all your questions. Like, what else would a computer be good for, dad?
+- [Lex] And never impressed, are they? - Not impressed in the least. Two weeks passed. And he has some question and I say, well,
+have you asked ChatGPT? And he's like, dad, Bing is better. - [Lex] Ooh. - And why is Bing better?
+Is because it's built into the browser. 'Cause he's like, look, I have the Microsoft Edge browser and like it's got Bing right here. And then he doesn't know this yet,
+but one of the things you can do with Bing and Edge is there's a setting where you can use it to basically talk
+to any webpage because it's sitting right there next to the browser. And by the way, which includes PDF documents.
+And so you can, in the way they've implemented an Edge with Bing is you can load a PDF and then you can ask it questions,
+which is the thing you can't do currently in just ChatGPT. So they're, you know, they're gonna, they're gonna push the meld.
+I think that's great. You know, they're gonna push the melding and see if there's a combination thing there. Google's rolling out this thing,
+the magic button, which is implemented in, you know, they put it in Google Docs, right? And so you go at a, you know,
+Google Docs and you create a new document and you know, you instead of like, you know, starting to type, you just, you know, say it, press the button and it starts to like,
+generate content for you, right? Like, is that the way that it'll work? Is it gonna be a speech UI where you're just gonna have
+an earpiece and talk to it all day long? You know, is it gonna be a, like these are all, like,
+this is exactly the kind of thing that I don't, this is exactly the kind of thing I don't think is possible to forecast. I think what we need to do is like run all those experiments
+and so one outcome is we come out of this with like a super browser that has AI built in that's just like amazing.
+There's a real possibility that the whole, I mean, look, there's a possibility here that the whole idea of a screen and windows
+and all this stuff just goes away 'cause like, why do you need that if you just have a thing that's just telling you whatever you need to know?
+- Well and also, so there's apps that you can use, you don't really use them.
+You know, being a Linux guy and Windows guy, there's one window, the browser that with which you can interact
+with the internet, but on the phone you can also have apps. So I can interact with Twitter through the app or through the web browser.
+And that seems like an obvious distinction, but why have the web browser in that case,
+if one of the apps starts becoming the everything app. - [Marc] Yeah, that's right. - What is Elon trying to do with Twitter?
+But there could be others. There could be like a big app, there could be a Google app that just doesn't really do
+search, but just like, do what I guess AOL did back in the day or something where it's all right there and it changes the nature
+of the internet because where the content is hosted,
+who owns the data? Who owns the content? What is the kind of content you create? How do you make money by creating content?
+Who are the content creators? All of that. Or it could just keep being the same,
+which is like with just the nature of webpage changes and the nature of content. But there'll still be a web browser.
+'Cause web browser's a pretty sexy product. It just seems to work. 'Cause it like you have an interface,
+a window into the world, and then the world can be anything you want. And as the world will evolve, it could be different programming languages,
+it can be animated, maybe it's three dimensional and so on. Yeah, it's interesting. Do you think we'll still have the web browser?
+- Well, very medium becomes the content for the next one. - [Lex] Oh boy. - You know, the AI will be able
+to give you a browser whenever you want. - [Lex] Oh, interesting. Generate. - Well, another way to think about it is maybe
+what the browser is maybe it's just the escape hatch, right? Which is maybe kind of what it is today, right?
+Which is like most of what you do is like inside a social network or inside a search engine or inside, you know, somebody's app or inside some controlled experience, right?
+But then every once in a while there's something where you actually want to jailbreak, you wanna actually get free. - Web browser's the FU to the man.
+You're allowed to. That's the free internet. - [Marc] Yeah. - Back the way it was in the nineties.
+- So here's something I'm proud of. So nobody really talks about it. Here's something I'm proud of, which is the web, the browser, the web servers, they're all, they're still backward compatible
+all the way back to like 1992, right? So like, you can put up a, you can still, you know what, the big breakthrough of the web early on the big
+breakthrough was it made it really easy to read, but it also made it really easy to write, made it really easy to publish. And we literally made it so easy to publish.
+We made it not only so it was easy to publish content, it was actually also easy to actually write a web server. - [Lex] Yeah.
+- Right and you could literally write a web server in four lines of brol code and you could start publishing content on it, and you could set whatever rules you want for the content,
+whatever censorship, no censorship, whatever you want. You could just do that. And as long as you had an IP address, right, you could do that.
+That still works, right? That like, still works exactly as I just described. So this is part of my reaction to all of this.
+Like, you know, all this just censorship pressure and all this, you know, these issues around control and all this stuff, which is like, maybe we need to get back a little bit more
+to the wild west. Like, the wild west is still out there. Now they will try to chase you down.
+Like they'll try to, you know, people who want a censor will try to take away you know, your domain name and they'll try to take away your payments account and so forth
+if they really don't like what you're saying. But nevertheless, you like, unless they literally are intercepting you at the ISP level, like you can still put up a thing.
+And so I don't know, I think that's important to preserve, right? Like because I mean one is just a freedom argument,
+but the other's a creativity argument, which is you wanna have the escape hatch so that the kid with the idea is able to realize the idea.
+'cause to your point on page rank, you actually don't know what the next big idea is, right? No, nobody called Larry Page
+and told him to develop page rank. Like he came up with that on his own. And you wanna always, I think leave the escape hatch for the next, you know,
 kid or the next Stanford grad student to have the breakthrough idea and be able to get it up and running before anybody notices.

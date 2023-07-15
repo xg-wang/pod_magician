@@ -37,13 +37,6 @@ def main():
     """
     sorted_timestamps_in_seconds = sorted(timestamps_in_seconds.items())
 
-    # # outline format is identical, reuse this function
-    # def get_chapter(time_in_seconds):
-    #     # Find the right chapter for the given time
-    #     for i in range(1, len(sorted_timestamps_in_seconds)):
-    #         if sorted_timestamps_in_seconds[i-1][0] <= time_in_seconds < sorted_timestamps_in_seconds[i][0]:
-    #             return timestamps_in_seconds[sorted_timestamps_in_seconds[i-1][0]]
-    #     return timestamps_in_seconds[sorted_timestamps_in_seconds[-1][0]]
 
     def get_chapter_with_index(index):
         return sorted_timestamps_in_seconds[index][1]
@@ -81,7 +74,7 @@ def main():
                 chapter_index += 1
                 old_chapter_name = line
                 caption_dict= {}
-            elif re.match(r'\d{1}:\d{2}', line):
+            elif re.match(r"\d+:\d+(:\d+)?", line):
                 current_time = line
             else:
                 caption_dict[current_time] = line

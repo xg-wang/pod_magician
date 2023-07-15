@@ -1,1 +1,60 @@
+- Yeah. If you were to tell me about Wikipedia before Wikipedia was created, I would've left at the possibility of something like that be possible.
+Just a handful of folks can organize right. And self and moderate with a mostly unbiased way
+the entirety of human knowledge. I mean, so if there's something like the approach to Wikipedia took possible for LLMs,
+that's really exciting. Well, I think that's possible. - And in fact Wikipedia today is still not deterministically correct. Right.
+So you cannot take to the bank, right. Every single thing on every single page, but it is probabilistically correct. Right.
+And specifically the way I describe Wikipedia to people, it is more likely that Wikipedia is right than any other source you're gonna find.
+- Yeah. - It's this old question, right, of like, okay, like are we looking for perfection? Are we looking for something
+that asymptotically approaches perfection? Are we looking for something that's just better than the alternatives? And Wikipedia, right, has exactly your point has proven
+to be like, overwhelmingly better than people thought. And I think that's where this ends.
+And then underneath all this is the fundamental question of where you started, which is, okay, you know, what is truth?
+How do we get to truth? How do we know what truth is? And we live in an era in which an awful lot of people are
+very confident that they know what the truth is. And I don't really buy into that. And I think the history of the last, you know,
+2000 years or 4,000 years of human civilization is actually getting to the truth is actually a very difficult thing to do.
+- Are we getting closer, if we look at the entirety, the arc of human history, are we getting closer to the truth?
+- I don't know. - Okay. Is it possible, is it possible that we're getting very far away
+from the truth because of the internet because of how rapidly you can create narratives and just as the entirety of a society just move
+like crowds in a hysterical way along those narratives
+that don't have necessary grounding in whatever the truth is. - Sure. But like, you know,
+we came up with communism before the internet somehow. Right. Like, which was, I would say had rather larger issues
+than anything we're dealing with today. - It had, in the way it was implemented, it had issues.
+- And it is theoretical structure. It had like real issues. It had like a very deep fundamental misunderstanding of human nature and economics.
+- Yeah but those folks Sure work very confident there was the right way. - They were extremely confident.
+And my point is they were very confident 3,900 years into what we would presume to be evolution towards the truth.
+- [Lex] Yeah. - And so my assessment is number one, there's no need for, you know,
+there's no need for the Hegelian, there's no need for the Hegelian dialectic to actually converge towards the truth.
+Like apparently not. - Yeah. So yeah. Why are we so obsessed with there being one truth?
+Is it possible there's just going to be multiple truths like little communities that believe certain things and?
+- I think it's just now number one, I think it's just really difficult. Like who gets, you know, historically
+who gets to decide what the truth is, it's either the king or the priest. Right? Like, and so we don't live in an era anymore if kings are priest dictating it to us.
+And so we're kind of on our own. And so my typical thing is like we just, we we just need a huge amount of humility
+and we need to be very suspicious of people who claim that they have the capital. - Yeah. - Capital truth.
+And then, we need to and you know, look, the good news is the enlightenment has bequeathed us with a set of techniques to be able to presumably
+get closer to truth through the scientific method and rationality and observation and experimentation and hypothesis.
+And, you know, we need to continue to embrace those even when they give us answers we don't like. - Sure. But the internet and technology has enabled us
+to generate the large number of content. That data, that the process,
+the scientific process allows us sort of damages the hope laden within the scientific process.
+'Cause if you just have a bunch of people saying facts on the internet and some of them are going
+to be LLMs, how is anything testable at all? Especially that involves like human nature
+or things like this. It's not physics. - Here's a question a friend of mine just asked me on this topic. So suppose you had LLMs in equivalent of GPT4,
+even 5, 6, 7, 8, suppose you had them in the 1600s. - [Lex] Yeah. - And Galileo comes up for trial.
+- [Lex] Yep. - Right? And you ask the LLM like, his Galileo, right? - [Lex] Yeah.
+- Like, what does it answer? Right? And one theory is he had answers no that he's wrong because the overwhelming majority of human thought
+up until that point was that he was wrong. And so therefore that's what's in the training data. Another way of thinking about it is,
+well, it's efficiently advanced LLM will have evolved the ability to actually check the math. Right.
+And will actually say, actually no, actually, you know, you may not wanna hear it, but he's right. Now if, you know, the church at that time was,
+you know, owned the LLM, they would've given it human you know, human feedback to prohibit it from answering that question.
+Right. And so I like to take it out of our current context 'cause that like makes it very clear, those same questions apply today. Right.
+This is exactly the point of a huge amount of the human feedback training that's actually happening with these LLMs today. This is a huge like debate that's happening about whether
+open source, you know, AI should be legal. - Well, the actual mechanism of doing the human RL
+with human feedback is seems like such a fundamental and fascinating question.
+How do you select the humans? - [Marc] Exactly. - Yeah. How do you select the humans? - AI alignment, right?
+Which everybody like is like, oh, that sounds great. Alignment with what? Human values. Who has human values? - [Lex] Who has human values?
+- Right? And so we're in this mode of like social and popular discourse. We're like, you know, there's, you know, you see this,
+what do you think of when you read a story in the press right now? And they say, you know, X, Y, Z made a baseless claim about some topic, right?
+And there's one group of people who are like, aha, think, you know, they're doing fact checking. There's another group of people that are like,
+every time the press says that it's now a tick and that means that they're lying, right? Like, so, like, we're in this social context
+where there's the level to which a lot of people in positions of power have become very, very certain that they're in a position to determine
+the truth for the entire population is like, there's like some bubble that has formed around that idea.
+And at least, like I say, it's flies completely in the face of everything I was ever trained about science and about reason and strikes me as like,
 you know, deeply offensive and incorrect. - What would you say about the state of journalism just on that topic today?

@@ -1,1 +1,51 @@
+the page rank inventor, which has become the new tech giant.
+I don't know, I would love to hear your kind of opinion if Google, Meta and Microsoft are as gigantic companies able
+to pivot so hard to create new products. Like some of it is just even hiring people or having
+a corporate structure that allows for the crazy young kids to come in and just create something totally new.
+Do you think it's possible or do you think it'll come from a startup? - Yeah, it is this always big question, which is, you get this feeling, I hear about this a lot from CEOs, founder CEOs
+where it's like, wow, we have 50,000 people, it's now harder to do new things than it was when we had 50 people.
+- [Lex] Yeah. - Like, what has happened? So that's a recurring phenomenon. By the way, that's one of the reasons why there's always startups
+and why there's venture capital. That's like a timeless kind of thing. So that's one observation.
+On page rank, we can talk about that. But on page rank, specifically on page rank, there actually is a page.
+So there is a page rank already in the field and it's the transformer, right? So the big breakthrough was the transformer. And the transformer was invented in 2017 at Google.
+And this is actually like really an interesting question 'cause it's like, okay, the transformers like why does open AI even exist?
+Like the Transformers invested at Google. Why didn't Google? I asked a guy I know who was senior at Google brain kind of when this was happening.
+And I said, if Google had just gone flat out to the wall and just said, look, we're gonna launch, we're gonna launch the equivalent of GPT4
+as fast as we can. I said, when could we have had it? And he said, 2019. They could have just done a two year sprint
+with the Transformer and because they already had the compute at scale. They already had all the training data, they could have just done it.
+There's a variety of reasons they didn't do it. This is like a classic big company thing. IBM invented the relational database in the 1970s,
+let it sit on the shelf as a paper. Larry Ellison picked it up and built Oracle. Xerox Park invented the interactive computer.
+They let it sit on the shelf. Steve Jobs came and turned it into the Macintosh, right? And so there is this pattern. Now having said that,
+sitting here today, like Google's in the game, right? So Google, you know, they maybe they let like a four year gap there go there
+that they maybe shouldn't have, but like they're in the game and so now they've got, you know, now they're committed. They've done this merger, they're bringing in demos,
+they've got this merger with DeepMind. You know, they're piling in resources. There are rumors that they're, you know, building up an incredible, you know, super LLM you know,
+way beyond what we even have today. And they've got, you know, unlimited resources and a huge, you know, they've been challenged their honor.
+- Yeah. I had a chance to hang out with (indistinct) a couple days ago and we took this walk
+and there's this giant new building where there's going to be a lot of AI work being done
+and it's kind of this ominous feeling of like
+the fight is on. - [Marc] Yeah. - Like there's this beautiful Silicon Valley nature,
+like birds are chirping and this giant building and it's like the beast has been awakened.
+- [Marc] Yeah. - And then like all the big companies are waking up to this. They have the compute, but also the little guys have,
+it feels like they have all the tools to create the killer product that, and then there's also tools to scale
+if you have a good idea, if you have the page rank idea. So there's several things that it's page rank,
+there's page rank, the algorithm and the idea and there's like the implementation of it. And I feel like killer product is not just the idea,
+like the transform, it's the implementation something really compelling about it. Like you just can't look away something like
+the algorithm behind TikTok versus TikTok itself, like the actual experience of TikTok that just,
+you can't look away. It feels like somebody's gonna come up with that. And it could be Google,
+but it feels like it's just easier and faster to do for a startup. - Yeah. So, the startup,
+the huge advantage that startups have is they just, there's no sacred cows. There's no historical legacy to protect,
+there's no need to reconcile your new plan with the existing strategy. There's no communication overhead. There's no, you know, big companies are big companies.
+They've got pre-meetings planning for the meeting, then they have the post meeting, the recap, then they have the presentation of the board,
+then they have the next rounds of meetings. And that's the-- - [Lex] Lots of meetings. - That's the elapsed time when the startup launches its product. Right?
+So, there's a timeless, right? - [Lex] Yeah. - So there's a timeless thing there now. What the startups don't have is everything else, right?
+So startups, they don't have a brand, they don't have customer relationships. They've gotten no distribution, they've got no, you know, scale. I mean sitting here today, they can't even get GPUs.
+Right. Like there's like a GPU shortage. Startups are literally stalled out right now 'cause they can't get chips, which is like super weird.
+- [Lex] Yeah. They got the cloud. - Yeah. But the clouds run out of chips. Right. And then to the extent the clouds have chips,
+they allocate them to the big customers. Not the small customers. Right. And so the small companies lack everything other
+than the ability to just do something new. Right. And this is the timeless race and battle.
+And this is kinda the point I tried to make in the essay, which is like, both sides of this are good. Like, it's really good to have like highly-scaled tech companies
+that can do things that are like at staggering levels of sophistication. It's really good to have startups that can launch brand-new ideas.
+They ought to be able to both do that and compete. They, neither one ought to be subsidized or protected from the others.
+Like that's, to me, that's just like very clearly the idealized world. It is the world we've been in for AI up until now.
+And then of course there are people trying to shut that down. But my hope is that, you know, the best outcome clearly will be if that continues.
 - We'll talk about that a little bit, but I'd love to linger on some of the ways this is going to change the internet.

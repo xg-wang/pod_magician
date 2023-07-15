@@ -1,1 +1,59 @@
+- You and I are both hands of history. So let's step back. We've been talking about the future. Let's step back for a bit and look at the nineties.
+You created Mosaic web browser, the first widely used web browser. Tell the story of that.
+And how did it evolve into Netscape Navigator this the early days? - So full story. So.
+- [Lex] We were born, - I was born. A small child. - Actually. Yeah, let's go there.
+Like, when would you first fall in love with computers? - Oh, so I hit the generational jackpot
+and I hit the Gen X kind of point perfectly as it turns out. So I was born in 1971. So there's this great website called
+WTF happened in 1971 dot com, which is basically in 1971. It's when everything started to go to hell.
+And I was of course born in 1971. So I like to think that I had something to do with that. - Did you make it on the website? - I don't think I made it on the website,
+but you know, hopefully, somebody needs to add. - This is where everything. - Maybe I contributed to some of the trends that they do.
+Every line on that website goes like that, right? So it's all a picture disaster. But there was this moment in time where
+'cause you know, sort of the Apple, you know, the Apple II hit in like 1978 and then the IBM PC hit in 82.
+So I was like, you know, 11 when the PC came out. And so I just kind of hit that perfectly and then that was
+the first moment in time when like, regular people could spend a few hundred dollars and get a computer, right? And so that, I just like that resonated
+right out of the gate. And then the other part of the story is, you know, I was using Apple II, I used a bunch of them,
+but I was using Apple II and of course it said in the back of every Apple II and every Mac it said, you know, designed in Cupertino, California.
+And I was like, wow, okay. Cupertino must be the like, shining city on the hill. Like Wizard of Oz is like the most amazing, like city of all time. I can't wait to see it.
+And of course, years later I came out to Silicon Valley and went to Cupertino and it's just a bunch of office parks
+at low-rise apartment buildings. So the aesthetics were a little disappointing, but, you know, it was the vector right of the creation
+of a lot of this stuff. So then basically by, so part part, part of my story is just the luck of having been born
+at the right time and getting exposed to PCs. Then the other part is, the other part is when El Gore says that he created
+the internet, he actually is correct in a really meaningful way, which is he sponsored a bill in 1985 that essentially
+created the modern internet, created what is called the NSF net at the time, which is sort of the first really fast internet backbone.
+And you know, that that bill dumped a ton of money into a bunch of research universities to build out basically the internet backbone
+and then the supercomputer centers that were clustered around the internet. And one of those universities was University of Illinois
+where I went to school. And so the other stroke lock that I had was, I went to Illinois basically right as that money was just like getting dumped on campus.
+And so as a consequence we had at, on campus, and this was like, you know, 89, 90, 91, we had like,
+you know, we were right on the internet backbone. We had like T3 and 45 at the time, T3 45 megabit backbone connection, which at the time was,
+you know, wildly state of the art. We had cray super computers. We had thinking machines parallel super computers.
+We had silicon graphics workstations, we had Macintosh's, we had next cubes all over the place. We had like every possible kind of computer
+you could imagine 'cause all this money just fell out of the sky. - [Lex] So you were living in the future. - Yeah. So yeah, quite literally it was, yeah,
+like it's all there. It's all like we had full broadband graphics, like the whole thing. And it's actually funny 'cause they had
+this is the first time I kind of, it sort of tickled the back of my head that there might be a big opportunity in here, which is, you know,
+they embraced it and so they put like computers in all the dorms and they wired up all the dorm rooms and they had all these, you know,
+labs everywhere and everything. And then they gave every undergrad a computer account and an email address.
+And the assumption was that you would use the internet for four years at college and then you would graduate and stop using it.
+And that was that, right? - [Lex] Yeah. - And you would just retire your email address. It wouldn't be relevant anymore 'cause you'd go off
+from the workplace and they don't use email. You'd be back to using fax machines or whatever. - Did you have that sense as well? Like, what you said the back of your head was tickled.
+Like, what was exciting to you about this possible world? - Well, if this is so useful in this containment,
+if this is so useful in this contain environment that just has this weird source of outside funding, then if it were practical for everybody else
+to have this and if it were cost effective for everybody else to have this, wouldn't they want it? And the overwhelmingly the prevailing view
+at the time was no, they would not want it. This is esoteric, weird nerd stuff, right? That like computer science kids like,
+but like normal people are never gonna do email. Right. Or be on the internet, right? And so I was just like, wow, like this is actually,
+like, this is really compelling stuff. Now the other part was, it was all really hard to use and in practice you had to be
+basically a CS you know, basically had had to BA CS undergrad or equivalent to actually get full use of the internet at that point.
+'cause it was all pretty esoteric stuff. So then that was the other part of the idea, which was, okay, we need to actually make this easy to use.
+- So what's involved in creating Mosaic? Like, in creating graphical interface to the internet?
+- Yeah, so it was a combination of things. So it was like basically the web existed in an early sort of described as prototype form.
+And by the way, text only at that point. - What did it look like? What was the web? I mean what and the key figures.
+Like, what was it? Like, what paint a picture? - It looked like ChatGPT actually it was all text.
+- Yeah. - And so you had a text-based web browser? Yeah, well actually the original browser, Tim Burners Lee, the original browser,
+both the original browser and the server actually ran on next cubes. So these were, this was, you know, the computer Steve Jobs made during the interim period
+when during the decade long interim period when he was not at Apple, you know, he got fired in 85 and then came back in 97.
+So this was in that interim period where he had this company called Next and they made these, literally these computers called cubes.
+And there's this famous story, they were beautiful, but they were 12 inch by 12 inch by 12 inch cubes computers.
+And there's a famous story about how they could have cost half as much if it had been 12 by 12 by 13. But this cube was like, no, like it has to be.
+So they were like $6,000 basically academic workstations. They had the first city round drives, which were slow.
+I mean it was, the computers were all but unusable. They were so slow, but they were beautiful.
+- Okay, can we actually just take a tiny tangent there? - Sure. Of course. - The 12 by 12 by 12 that just so beautifully encapsulates
 Steve Jobs idea of design. Can you just comment on what you find interesting about Steve Jobs?

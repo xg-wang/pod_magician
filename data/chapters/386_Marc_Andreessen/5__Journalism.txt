@@ -1,1 +1,98 @@
+Are we in a temporary kind of,
+are we experiencing a temporary problem in terms of the incentives in terms of the business model,
+all that kind of stuff? Or is this like a decline of traditional journalism as we know it? - You have, I always think about the counterfactual
+in these things, which is like, okay, because these questions, right, this question heads towards, it's like, okay, the impact of social media and the undermining of truth
+and all this. But then you wanna ask the question of like, okay, what if we had had the modern media environment, including cable news and including social media
+and Twitter and everything else in 1939 or 1941, right? Or 1910 or 1865 or 1850 or 1776, right?
+And like, I think. - You just introduced like five thought experiments
+at once and broke my head, but yes, yes. There's a lot of interesting years. - Well like, can I just take a simple example?
+Like, how would President Kennedy have been interpreted with what we know now about all the things Kennedy was up to?
+Like how would he have been experienced by the body of politic in a, with a social media context, right?
+Like how would LBJ have been experienced? But by the way, how would you know, like many men, FDR,
+like the new deal, the Great Depression. - I wonder where Twitter would this would think about Churchill and Hitler and Stalin.
+- You know, I mean look to this day there, you know, there are lots of very interesting real questions around like how America, you know, got,
+you know, basically involved in World War II and who did what when, and the operations of British intelligence and American soil and did FDR,
+this that Pearl Harbor, you know? - [Lex] Yeah. - Woodrow Wilson ran for, you know, his candidacy was run on an anti-war.
+You know, he ran on the platform and not getting involved World War-I somehow that switched, you know, like, and I'm not even making a value judgment
+on any of these things. I'm just saying like the way that our ancestors experienced reality was of course mediated through centralized, top-down, right.
+Control at that point. If you ran those realities again with the media environment we have today,
+the reality would be experienced very, very differently. And then of course that that intermediation would cause
+the feedback loops to change. And then reality would obviously play out. - Do you think it'd be very different? - Yeah, it has to be. It has to be.
+It has to be just 'cause it's all, so, I mean just look at what's happening today. I mean just the most obvious thing is just the collapse.
+And here's another opportunity to argue that this is not the internet causing this by the way. Here's a big thing happening today,
+which is Gallup does this thing every year where they do, they pull for trust in institutions in America and they do it across all the,
+everything from the military to clergy and big business and the media and so forth, right? And basically there's been a systemic collapse in trust
+in institutions in the US almost without exception, basically since essentially the early 1970s.
+There's two ways of looking at that, which is, oh my God, we've lost this old world in which we could trust institutions and that was so much better
+'cause like that should be the way the world runs. The other way of looking at it is we just know a lot more now and the great mystery is why those numbers aren't all zero.
+- [Lex] Yeah. - Right? Because like now we know so much about how these things operate and like they're not that impressive.
+- And also why do we don't have better institutions and better leaders then? - Yeah. And so this goes to the thing which is like,
+okay, we had the media environment of that we've had between the 1970s and today. If we had that in the thirties and forties or 1900s, 1910s,
+I think there's no question reality would turned out different if only because everybody would've known to not trust the institutions,
+which would have changed their level of credibility, their ability to control circumstances, therefore the circumstances would've had to change.
+Right? And it would've been a feedback loop. It would've been a feedback loop process in other words, right? It's your experience of reality changes reality
+and then reality changes your experience of reality, right? It's a two-way feedback process and media is
+the intermediating force between that. So change the media environment, change reality. - [Lex] Yeah.
+- And so it's just, so, as a consequence, I think it's just really hard to say, oh, things worked a certain way then
+and they work a different way now. And then therefore, like people were smarter than, or better than, or you know, by the way,
+dumber than or not as capable than, right? We make all these like really light
+and casual like comparisons of ourselves to, you know, previous generations of people. You know, we draw judgements all the time
+and I just think it's like really hard to do any of that 'cause if we put ourselves in their shoes with the media that they had at that time,
+like I think we probably most likely would've been just like them. - So don't you think that our perception
+and understanding of reality, would you be more and more mediated through large language models now?
+So you said media before, isn't the LLM going to be the new, what is it, mainstream media, MSM?
+It'll be LLM. That would be the source of, I'm sure there's a way to kind of rapidly fine tune,
+like making LLMs real time. I'm sure there's probably a research problem that you can do just rapid fine tuning to the new events.
+So something like this. - Well even just the whole concept of the chat UI might not be like the chat UI is just the first whack at this.
+And maybe that's the dominant thing. But look maybe our, maybe we don't know yet. Like maybe the experience most people with LLMs is
+just a continuous feed you know, maybe it's more of a passive feed and you just are getting a constant like running commentary
+on everything happening in your life and it's just helping you kind of interpret and understand everything. - Also really more deeply integrated into your life.
+Not just like, oh, like intellectual philosophical thoughts, but like literally like how to make a coffee,
+where to go for lunch. Just whether, you know, dating all this kind of stuff.
+- What to say in a job interview. - Yeah. What to say. - [Marc] Yeah, exactly. - What to say. Next sentence. - Yeah, next sentence.
+Yeah. At that level. Yeah. I mean, yes. So technically now whether we want that or not is an open question, right? And whether we use.
+- It Q4, a popup right now the estimated engagement using is
+decreasing for Marc Andreessen, since there's this controversy section for his Wikipedia
+page in 1993, something happened or something like this. Bring it up that will drive engagement up anyway.
+- Yeah. That's right. I mean, look, this gets this whole thing of like, so, you know, the chat interface has
+this whole concept of prompt engineering, right? - [Lex] Yes, yes. - Prompts. Well it turns out one of the things that LLMs are really good at is writing prompts, right?
+- [Lex] Yeah. - And so like, what if you just outsourced and by the way, you could run this experiment today,
+you could hook this up to do this today. The latency's not good enough to do it real time in a conversation. But you could run this experiment and you just say, look,
+every 20 seconds you could just say, you know, tell me what the optimal prompt is and then ask yourself
+that question to gimme the result. And then exactly to your point, as you add, there will be these systems
+that are gonna have the ability to be alert and updated essentially in real time. And so you'll be able to have a pendant or your phone
+or whatever, watch or whatever it'll have a microphone on. It'll listen to your conversations, it'll have a feed of everything else happen in the world,
+and then it'll be you know, sort of retraining, prompting or retraining itself on the fly. And so the scenario you described is actually
+a completely doable scenario. Now the hard question on this is always okay, since that's possible, are people gonna want that?
+Like what's the form of experience? You know, that we won't know until we try it. But I don't think it's possible yet to predict
+the form of AI in our lives. Therefore, it's not possible to predict the way in which it will intermediate
+our experience with reality yet. - Yeah. But it feels like there's going to be a killer app. There's probably a mad scramble right now.
+And so it'll open AI and Microsoft and Google and Meta and in startups and smaller companies figuring out
+what is the killer app because it feels like it's possible like a ChatGPT type of thing.
+It's possible to build that, but that's 10X more compelling using already the LLMs
+we have using even the open source LLMs and the different variants.
+So you're investing in a lot of companies and you're paying attention, who do you think is gonna win this?
+Do you think there'll be, who's gonna be the next page rank inventor?
+- Trillion dollar question. - Another one. We have a few of those today. - There's a bunch of those. So look, there's a really big question today.
+Sitting here today is a really big question about the big models versus the small models that's related directly to the big question
+of proprietary versus open. Then there's this big question question of you know,
+where is the training data gonna, like, are we topping out of the training data or not? And then are we gonna be able to synthesize training data?
+And then there's a huge pile of questions around regulation and you know, what's actually gonna be legal. And so I would, when we think about it,
+we dovetail kind of all those questions together. You can paint a picture of the world where there's two
+or three God models that are just at like staggering scale and they're just better at everything.
+And they will be owned by a small set of companies and they will basically achieve regulatory capture
+over the government and they'll have competitive barriers that will prevent other people from, you know, competing with them. And so, you know, there will be, you know,
+just like there's like, you know, whatever, three big banks or three big, you know, or by the way, three big search companies or I guess two now, you know,
+it'll centralize like that. You can paint another very different picture that says, no, actually the opposite of that's gonna happen.
+This is gonna basically that this is the new gold, you know, this is the new gold rush alchemy.
+Like you know, this is the big bang for this whole new area of science and technology.
+And so therefore you're gonna have every smart 14-year-old on the planet building open source, right? You know, and figuring out a ways to optimize these things.
+And then, you know, we're just gonna get like overwhelmingly better at generating trading data. We're gonna, you know,
+bring in like blockchain networks to have like an economic incentive to generate decentralized training data and so forth and so on.
+And then basically we're gonna live in a world of open source and there's gonna be a billion LLMs, right?
+Of every size, scale, shape and description. And there might be a few big ones that are like the super genius ones, but like mostly what we'll experience is open source
+and that's, you know, that's more like a world of like what we have today with like Linux and the web.
+- Okay, but you painted these two worlds. But there's also variations of those worlds,
+'cause you said regulatory capture is possible to have these tech giants that don't have regulatory capture, which is something you're also calling for saying it's okay
+to have big companies working on this stuff as long as they don't achieve regulatory capture.
 But I have the sense that there's just going to be a new startup that's going to basically be
