@@ -1,0 +1,96 @@
+of that approach, right? Like, that is a fundamental difference, right?
+In how to operate and how to build and how to create that. You have world class companies operating in both ways.
+And I don't think the question of like, which is the superior model is anywhere close to being answered.
+Like, and my suspicion is the answer is do both. The answer is you actually want both. They lead to different outcomes.
+Software tends to do better with the iterative approach. Hardware tends to do better with the, you know,
+sort of wait and make it perfect approach. But again, you can find examples in both directions.
+- So the jury's still out on that one. So back to Mosaic. So, what it was text based Tim Burns Lee?
+- Well, there was the web, which was text based, but there were no, I mean there was like three websites. There was like no content, there were no users.
+Like, it wasn't like a catalytic, it hadn't, and by the way, it was all because it was all text. There were no documents,
+there were no images, there were no videos, there were no, right. So, and then if, if in the beginning, if you had to be on a next cube, right?
+You need to had a next cube both to publish and to consume. - So, there was 6,000 bucks you said. - There were limitations.
+Yeah. $6,000 PC. They did not sell very many. But then there was also, there was also FTP and there was Use Nets, right?
+And there was, you know, a dozen other basically there's waste, which was an early search thing. There was Gopher, which was an early menu based
+information retrieval system. There were like a dozen different sort of scattered ways that people would get to information on the internet.
+And so the Mosaic idea was basically bring those all together, make the whole thing graphical, make it easy to use,
+make it basically bulletproof so that anybody can do it. And then again, just on the luck side, it so happened that this was
+right at the moment when graphics, when the GUI sort of actually took off and we're now also used to the GUI that we think it's been around forever.
+But it didn't real, you know, the Macintosh brought it out in 85, but they actually didn't sell very many Macs
+in the eighties. It was not that successful of a product. It really was. You needed Windows 3.0 on PCs and that hit in about 92.
+And so, and we did most in 92, 93. So that sort of, it was like right at the moment when you could imagine
+actually having a graphical user interface to right at all, much less one to the internet.
+- How old did Windows 3 sell? So was that the really big. - [Marc] That was the big bang.
+- The big operating graphical operating system? - Well this is the classic, okay. This Microsoft was operating on the other,
+so Steve the Apple was running on the Polish until it's perfect. Microsoft famously ran on the other model,
+which is ship and iterate. And so in the old line in those days was Microsoft Right's version three of every Microsoft product. That's the good one, right?
+And so there there are, you can find online Windows 1, Windows 2. Nobody used them. Actually the original Windows,
+in the original Microsoft Windows, the windows were non overlapping. And so you had these very small,
+very low resolution screens and then you had literally-- - [Lex] Windows. - It just didn't work. It wasn't ready yet. Well.
+- And Windows 95 I think was a pretty big leap also. - That was a big leap too. So that was like bang, bang.
+And then of course Steve, and then when, you know, in the fullness of time Steve came back, then the Mac started, took off again.
+That was the third bang. And then the iPhone was the fourth bang. - Such exciting time. - And then we were off, off to the races because.
+- Nobody could have known what would be created from that. - Well, Windows 3.1 or 3.0,
+Windows 3.0 to the iPhone was only 15 years. Right. Like that ramp was in retrospect.
+At the time it felt like it took forever. But that in histor in historical terms, like that was a very fast ramp from even a graphical computer
+at all on your desk to the iPhone. That was 15 years. - So, did you have a sense of what the internet will be
+as you're looking through the window of Mosaic? Like, what you, like there's just a few web pages for now.
+- So the thing I had early on was I was keeping at the time what there's disputes over what was the first blog,
+but I had one of them that at least is a possible, at least a rudder up in the competition.
+And it was what was called the What's new page. And it was literally, it was a hardwired in distribution unfair advantage.
+I wired, put it right in the browser, I put it in the browser and then I put my resume in the browser, which also was--
+- [Lex] Hilarious. - But I was keeping
+not many people get to get to do that. - No, good call.
+And early days. It's so interesting. - I'm looking for my, about about, oh, Marc is looking for a job.
+- [Lex] Yeah, yeah, exactly. - So the West New page, I would literally get up every morning
+and I would, or every afternoon and I would basically, if you wanted to launch a website,
+you would email me and I would list it on the most new page. And that was how people discovered the new websites as they were coming out.
+And I remember 'cause it was like one, it literally went from, it was like one every couple days to like one every day
+to like two every day. - And then so you're doing, so that blog was kind of doing the directory thing.
+So like, what was the homepage? - So the homepage was just basically trying to explain even what this thing is that you're looking at. Right.
+Basically the basic instructions. But then there was a button, there was a button that said what's new. And what most people did was they went to,
+for obvious reasons went to what's new. - [Lex] Yeah. - But like it was so mind blowing at that point. This the basic idea and it was, this was like, you know,
+this was the basic idea of the internet, but people could see it for the first time. The basic idea was, look, you know, some, you know, it's like literally it's like an Indian restaurant in like
+Bristol England has like put their menu on the web. And people were like, wow. - [Lex] Whoa.
+- Because like that's the first restaurant menu on the web. - [Lex] Yeah. - And I don't have to be in Bristol and I don't know if I'm ever gonna go to Bristol.
+And I don't even like Indian food and like. Wow. Right. And it was like that the first web, the first streaming video thing was
+it was in another England, some Oxford or something. Some guy put his coffee pot up as the first streaming video
+thing and he put it on the web 'cause he literally, it was the coffee pot down the hall. And he wanted to see when he needed to go refill it.
+But there were, you know, there was a point when there were thousands of people like watching that coffee pot 'cause it was the first thing you could watch.
+- Well, but isn't were you able to kind of infer, you know, if that Indian restaurant could go online.
+Then you're like they all will. - [Marc] Yeah, exactly. - So you felt that? - [Marc] Yeah, yeah, yeah.
+- Okay. - Now, you know, look, it's still a stretch, right? It's still a stretch 'cause it's just like, okay, is it, you know, you're still in this zone, which is like, okay, is this a nerd thing?
+Is this a real person thing? By the way, you know, there was a wall of skepticism from the media. Like, they just, like, everybody was just like, yeah,
+this is the crazy, this is just like dumb. This is not, you know, this is not for regular people at that time. And so you, you had to think through that and then look,
+it was still hard to get on the internet at that point, right? So you could get kind of this weird bastardized version
+if you were on AOL, which wasn't really real. Or you had to go like, learn what an ISP was.
+You know, in those days, PCs actually didn't have TCPIP drivers come reinstalled. So you had to learn what a TCPIP driver was.
+You had to buy a modem, you had to install driver software. I have a comedy routine. I do.
+So it's like 20 minutes long describing all the steps required to actually get on the internet at this point. And so you had to look through these practical.
+Well, and then speed performance 14-4 modems, right? Like it was like watching, you know, glue dry, like,
+and so you had to, there were basically a sequence of bets that we made where you basically needed to look through that current state of affairs and say,
+actually there's gonna be so much demand for once people figure this out, there's gonna be so much demand for it that all of these practical problems are gonna get fixed.
+- Some people say that the anticipation makes the destination that much more exciting.
+- Do you remember progressive JPEGs? - Yeah. Do I, do I? - For kids in the audience, right?
+- [Lex] For kids in the audience. - You used to have to watch an image load like a line at the time. But it turns out there was this thing with JPEGs
+where you could load basically every fourth, you could load like every fourth line and then you could sweep back through again.
+And so you could like render a fuzzy version of image up front. And then it would like resolve into the detailed one. And that was like a big UI breakthrough
+'cause it gave you something to watch. - Yeah. And you know, there's applications in various domains for that.
+- Well it was a big fight. There was a big fight early on about whether there should be images in the web. And. - For that reason for like sexualization or--
+- Not explicitly that that did come up. But it wasn't even that, it was more just like all the serious in the argument went, the purists basically said all the serious information
+in the world is text. If you introduce images, you basically are gonna bring in all the trivial stuff. You're gonna bring in magazines and you know,
+all this crazy just, you know, stuff that, you know, people, you know, it's gonna, it is gonna distract from that. It's gonna go take it away from being serious to being frivolous.
+- Well, was there any (indistinct) type arguments about the internet destroying all of human civilization or destroying some
+fundamental fabric of human civilization? - So it was, those days it was all around crime and terrorism.
+So those arguments happened, you know, but there was no sense yet of the internet having like, an effect on politics because that was way too, too far off.
+But there was an enormous panic at the time around cybercrime. There was like enormous panic that like your credit card
+number would get stolen and you'd use life savings would be drained. And then, you know, criminals were gonna, there was, oh, when we started, one of the things we did,
+one of the Netscape browser was the first widely used piece of consumer software that had strong encryption built in,
+it made it available to ordinary people. And at that time, strong encryption was actually illegal to export
+outta the US so we could feel that product in the US, we could not export it 'cause it was classified as munition.
+So the Netscape browser was on a restricted list along with the tomahawk missile as being something that could not be exported.
+So we had to make a second version with deliberately weak encryption to sell overseas with a big logo on the box saying, do not trust this.
+Which it turns out, makes it hard to sell software when it's got a big logo that says don't trust it.
+And then we had to spend five years fighting the US government to get them to basically stop trying to do this regulation.
+But because the fear was terrorists are gonna use encryption, right? To like plot, you know, all these things.
+And then, you know, we responded with, well actually we need encryption to be able to secure systems so that the terrorists
+and the criminals can't get into them. So that anyway, that was the 1990s fight. - So can you say something about some of the details

@@ -1,0 +1,70 @@
+of the software engineering challenges required to build these browsers? I mean the engineering challenges of creating a product
+that hasn't really existed before that can have such almost like limitless impact
+on the world with the internet. - So there was a really key bet that we made at the time, which was very controversial,
+which was core to core to how it was engineered, which was are we optimizing for performance or for ease of creation?
+And in those days the pressure was very intense to optimize for performance because the network connections were so slow
+and also the computers were so slow. And so if you had, I mentioned the progressive JPEGs,
+like if there's an alternate world in which we optimized for performance and it just,
+you had just a much more pleasant experience right up front. But what we got by not doing that was we got ease of creation.
+And the way that we got ease of creation was all of the protocols and formats were in text, not in binary.
+And so HTTP is in text, by the way. And this was an internet tradition by the way that we picked up.
+But we continued it. HTTP is text and HTML is text, and then every else, everything else that followed is text as a result.
+And by the way, you can imagine purist engineers saying this is insane. You have very limited bandwidth. Why are you wasting any time sending text?
+You should be encoding this stuff into binary and it'll be much faster. And of course the answer is that's correct. But what you get when you make it taxed is all of a sudden,
+well, the big breakthrough was the view source function, right? So the fact that you could look at a webpage, you could hit view source and you could see the HTML,
+that was how people learned how to make webpages. Right? - It's so interesting 'cause the stuff would take for granted now is,
+man, that was fundamental, the development of the web to be able to have HTML just right there, all the ghetto mess that is HTML,
+all the sort of almost biological like messiness of HTML
+and then having the browser try to interpret that as. - [Marc] Exactly. - To show something reasonable.
+- Well and then there was this internet principle that we inherited, which was emit, what was it? Emit cautiously. Emit conservatively interpret liberally.
+So it basically meant if you're, the design principle was if you're creating like a web editor that's gonna admit HTML, like do it as cleanly as you can,
+but you actually want the browser to interpret liberally, which is you actually want users to be able to make all kinds of mistakes and for it to still work.
+And so the browser rendering engines to this day have all of this spaghetti code crazy stuff where they're resilient to all kinds of crazy issue,
+no mistakes. And so, literally what I always had in my head is like there's an 8 year old or an 11 year old somewhere and they're doing a view source,
+they're doing a cut and paste and they're trying to make a webpage for their eternal or whatever. And like they leave out a slash and they leave out
+an angle bracket and they do this and they do that and it's still works. - It's also like a, I don't often think about this, but, you know, programming,
+you know, C++ all those languages, lisp, the compiled languages, the interpreted languages,
+Python, Pearl, all that. The brace have to be all correct. It's like everything has to be perfect.
+- [Marc] Brutal. - And then-- - [Marc] Autistic. - You forget. All right. It's systematic and rigorous, let's go there.
+But you forget that the, the web with JavaScript eventually.
+And HTML is allowed to be messy in the way for the first time.
+Messy in the way biological systems could be messy. It's like the only thing computers were allowed
+to be messy on for the first time. - It used to off fend me. So I grew up on Unix, so I worked on Unix.
+I was a Unix native for all the way through this period. And so, it used to drive me bananas when it would do the segmentation fault and the core dump file,
+just like it is, you know, it's like literally there's like a error in the code. The math is off by one. And it core dumps.
+And I'm in the core dump trying to analyze it and trying to reconstruct what, and I'm just like, this is ridiculous. Like, the computer ought to be smart enough
+to be able to know that if it's off by one, okay fine. And it keeps running. And I would go ask all the experts like, why can't it just keep running?
+And they'd explain to me, well, because all the downstream repercussions and blah blah. And I'm like, this still, like, you know, this is,
+we're forcing the human creator to live to your point in this hyper, literal world of perfection.
+- [Lex] Yeah. And I was just like, that's just bad. And by the way, you know what happens with that of course.
+Just what what happened with, with coding at that point, which is you get a high priesthood, you know, there's a small number of people who are really good
+at doing exactly that. Most people can't. And most people are excluded from it. And so actually that was where that for that was where I picked up
+that idea was like, no, you want these things to be resilient error in all kinds and this would drive the purist absolutely crazy.
+Like, I got attacked on this like a lot 'cause I mean like every time you know, all the purists who were like into all this
+like Marcup language stuff and formats and codes and all this stuff, they would be like, you know, you're encouraging bad behavior 'cause.
+- Oh, so they wanted the browser to give you a fault error anytime there was a--
+- Yeah. They wanted to be a (indistinct) right? They wanted to-- Yeah. Yeah. That was a very and any properly
+trained credential engineer would be like, that's not how you build these systems. - That's such a bold move to say,
+no, it doesn't have to be. - Yeah. No, like I said, the good news for me is the internet kind of had that traditional already, but having said that,
+like we pushed it, we pushed it way out. But the other thing we did, going back to the performance thing, was we gave up a lot of performance.
+We made that, that initial experience for the first few years was pretty painful. But the bet there was actually an economic bet, which was basically the demand for the web would basically
+mean that there would be a surge in supply of broadband. Like because the question was, okay,
+how do you get the phone companies which are not famous in those days for doing new things at huge cost
+for like speculative reasons. Like how do you get them to build up broadband, you know, spend billions of dollars doing that and you know,
+you could go meet with them and try to talk them into it. Or you could just have a thing where it's just very clear that it's gonna be,
+that people love that's gonna be better if it's faster. And, so that, there was a period there and this was, this was fraught with in peril,
+but there was a period there where it's like we knew the experience was sub-optimized because we were trying to force the emergence of demand for broadband.
+- [Lex] Sure. - Which is in fact what happened. - So you had to figure out how to display this text,
+HTML text. So the blue links and the prop links. What? And there's no standards. Is there standards at that time?
+- [Marc] No. There really still isn't. - Well there's like standards, there's applied, implied standards. Right.
+And they, you know, there's all these kind of new features that are being added with like CSS, what, like what kind of stuff a browser should be able to support
+features within languages, within JavaScript and so on. But you're setting standards on the fly yourself.
+- Yeah. Well to this day, if you create a webpage that has no CSS style sheet, the browser will render it however it wants to.
+Right. So this was one of the things, there was this idea, this idea of at the time and how these systems were built, which is separation of content from format
+or separation of content from appearance. And that's still, people don't really use that anymore
+'cause everybody wants to determine how things look and so they use CSS but it's still in there that you can just let the browser do all the work.
+- I still like the like really basic websites, but that could be just old school,
+kids these days with their fancy responsive websites that don't actually have much content,
+but have a lot of visual elements. - Well that's one of the things that's fun about chat, you know, about ChatGPT like. - [Lex] Back to the basics.
+- Back to just text. - [Lex] Yeah. - Right? And it, you know, there is this pattern in human creativity and media
+where you end up back at text and I think there's, you know, there's something powerful in there. - Is there some other stuff

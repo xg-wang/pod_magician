@@ -1,0 +1,42 @@
+you remember like the purple links? There were some interesting design decisions that to kind of come up that we have today
+or we don't have today that were temporary. - So I made the background 'cause I hated reading texts
+on white background, so I made the background gray. Everybody can-- - Do you go ahead to?
+- No. No, no. That decision I think has been reversed. But now I'm happy though because now dark mode is the thing.
+- So it wasn't about gray, it was just you didn't want white background. - [Marc] Strain my eyes.
+- Strain your eyes. Interesting. And then there's a bunch of other decisions.
+I'm sure there's an interesting history of the development of HTML and CSS and Interface and JavaScript
+and there's this whole Java applet thing. - Well the big one probably JavaScript, CSS was after me,
+so I didn't, that was not me. But JavaScript was the big, JavaScript maybe was the biggest of the whole thing. That was us.
+And that was basically a bet, it was a bet on two things. One is that the world wanted a new front end scripting language.
+And then the other was I thought at the time the world wanted a new backend scripting language. So JavaScript was designed from the beginning
+to be both front end and backend. And then it failed as a backend scripting language. And Java won for a long time.
+And then Python Pearl and other things, PHP and Ruby. But now JavaScript is back. And so.
+- I wonder if everything in the end will run on JavaScript. - It seems like it is the, and by the way,
+lemme give a shout out to, to Brendan Eich was basically the one man inventor of of JavaScript.
+- If you're interested to learn more about Brendan Eich, he's been on his podcast previously. - Exactly. So he wrote JavaScript over a summer
+and I mean I think it is fair, it is fair to say now that it's the most widely used language in the world and it seems to only be gaining
+in its in its range of adoption. - You know, in the software world there's quite a few stories of somebody
+over a week weekend or over a week or over a summer writing some of the most impactful revolutionary pieces
+of software ever. That should be inspiring. Yes. - Very inspiring. I'll give you another one.
+SSL. So SSL with the security protocol, that was us. And that was a crazy idea at the time,
+which was let's take all the native protocols and let's wrap them in a security wrapper. That was a guy named Kip Hickman who wrote that over a summer, one guy.
+And then look today, sitting here today, like the transformer like at Google was a small handful of people.
+And then, you know, the number of people who have did like the core work on GPT. It's not that many people,
+it's a pretty small handful of people. And so yeah, the pattern in software repeatedly over a very long time has been,
+it's Jeff Bezos always had the two pizza rule for teams at Amazon, which is any team needs to be able to be fed
+with two pieces. If you need the third pizza, you have too many people. And I think it's actually the one pizza rule.
+For the really creative work. I think it's two people, three people. - Well that's, you see that
+with certain open source projects, like so much is done by like one or two people. Like it's so incredible and that's why you see
+that gives me so much hope about the open source movement in this new age of AI where, you know,
+just recently having had a conversation with Marc Zuckerberg of all people who's all in on open source,
+which is so interesting to see and so inspiring to see 'cause like releasing these models, it is scary.
+It is potentially very dangerous and we'll talk about that. But it's also,
+if you believe in the goodness of most people and in the skillset of most people
+and the desire to go do good in the world, that's really exciting. 'cause it's not putting it these models
+into the centralized control of big corporations, the government and so on. It's putting it in the hands of a teen,
+teenage kid with like a dream in his eyes. I don't know. That's beautiful.
+- Look, this stuff, AI ought to make the individual coder obviously far more productive right? By like, you know, a thousand X or something.
+And so you ought to open source like, not just the future of open source AI, but the future of open source everything.
+We ought to have a world now of super coders, right? Who are building things as open source with one or two people that were inconceivable,
+you know, five years ago. You know, the level of kind of hyper productivity we're gonna get out of our best and brightest
+I think is gonna go way up. - It's gonna be interesting. We'll talk about it, but let's just to linger a little bit on Netscape.

@@ -1,0 +1,146 @@
+will AI ruin our society short version as you write, if the murder robots don't get us the hate speech
+and misinformation will. And the action you recommend in short,
+don't let the thought police suppress AI. Well what is this risk of the effect of misinformation
+of society that's going to be catalyzed by AI? - Yeah, so this is the social media,
+this is what you just alluded to. It's the activism kind of thing that's popped up in these companies in the industry. And it's basically, from my perspective,
+it's basically part two of the war that played out over social media over the last 10 years, 'cause you probably remember social media 10 years ago,
+was basically who even wants this? Who wants a photo of what your cat had for breakfast? Like, this stuff is like silly and trivial
+and why can't these nerds like figure out how to invent something like useful and powerful? And then, you know, certain things happened in the political system.
+And then it sort of, the polarity on that discussion switched all the way to social media is like the worst, most corrosive, most terrible, most awful technology ever invented.
+And then it leads to, you know, terrible of the wrong, you know, politicians and policies and politics and like, and all this stuff.
+And that all got catalyzed into this very big kind of angry movement both inside and outside the companies
+to kind of bring social media to heal. And that got focused in particularly on two topics, so-called hate speech and so-called misinformation.
+And that's been the saga playing out for the last decade. And I don't even really want to even argue the pros and cons of the sides just to observe
+that's been like a huge fight and has had, you know, big consequences to how these companies operate.
+Basically that same, those same sets of theories, that same activist approach, that same energy as being transplanted straight to AI.
+And you see that already happening. It's why, you know, ChatGPT will answer, let's say certain questions and not others. It's why it gives you the canned speech about, you know,
+whenever it starts with, as a large language model, I cannot, you know, basically means that somebody has reached in there and told that it can't talk about certain topics.
+- Do you think some of that is good? - So it's an interesting question. So a couple observations.
+So, one is the people who find this the most frustrating are the people who are worried about the murder robots, right?
+So, and in fact so called X risk people, right? They started with the term AI safety,
+the term became AI alignment. When the term became AI alignment is when this switch happened from we're worried it's gonna kill us all to we're worried about hate speech
+and misinformation. - [Lex] Sure. - The AI X risk people have now renamed their thing AI not kill everyone-ism,
+which I have to admit is a catchy term. And they are very frustrated by the fact that the hate speech sort of activist driven hate speech misinformation
+kind of thing is taking over. Which is what's happened is taken over, the AI ethics field has been taken over by the hate speech misinformation people.
+You know, look, would I like to live in a world in which like everybody was nice to each other all the time and nobody ever said
+anything mean and nobody ever used a bad word and everything was always accurate and honest. Like, that sounds great.
+Do I wanna live in a world where there's like a centralized thought police working through the tech companies to enforce the view of a small set of elites that they're gonna
+determine what the rest of us think and feel like? Absolutely not. - There could be a middle ground somewhere like
+Wikipedia type of moderation. There's moderation of Wikipedia that is somehow crowdsourced
+where you don't have centralized elites, but it's also not completely just a free for all
+because if you have the entirety of human knowledge at your fingertips, you can do a lot of harm.
+Like if you have a good assistant that's completely uncensored, they can help you build a bomb,
+they can help you mess with people's physical wellbeing.
+Right. If they, because that information is out there on the internet and so presumably there's, it would be,
+you could see the positives in censoring some aspects of an AI model
+when it's helping you commit literal violence. - Yeah. And there's a section later section of the essay
+where I talk about bad people doing bad things. - [Lex] Yes. - Right. Which and there's this, there's a set of things that we should discuss there.
+- [Lex] Yeah. - What happens in practice is these lines, as you alluded to this already, these lines are not easy to draw.
+And what I've observed in the social media version of this is like, the way I describe it as the slippery slope is not a fallacy, it's an inevitability.
+The minute you have this kind of activist personality that gets in a position to make these decisions they take it straight to infinity.
+Like, it goes into the crazy zone like almost immediately and never comes back because people become drunk with power.
+Right. And look, if you're in the position to determine what the entire world thinks and feels and reads and says like, you're gonna take it and you know, Elon has, you know,
+ventilated this with the Twitter files over the last, you know, three months and it's just like crystal clear, like how bad it got there now.
+- [Lex] Yeah. - Reason for optimism is what Elon is doing with community notes. So community notes is actually a very interesting thing.
+So, what Elon is trying to do with community notes is he's trying to have it where there's only a community note
+when people who have previously disagreed on many topics agree on this one. - Yes, that's what I'm trying to get at is like,
+there could be Wikipedia like models or community notes type of models where allows you to essentially either provide
+context or sensor in a way that's not resist the slippery slope nature. Power. - Now there's an entirely different approach here,
+which is basically we have AIs that are producing content. We could also have ais that are consuming content. Right?
+And so one of the things that your assistant could do for you is help you consume all the content, right? And basically tell you when you're getting played.
+So for example, I'm gonna want the AI that my kid uses, right, to be very, you know, child safe and I'm gonna want it to filter for him all kinds
+of inappropriate stuff that he shouldn't be saying just 'cause he's a kid. Right? And you see what I'm saying is you can implement that. The architectural, you could say you can solve this
+on the client side, right? You solving on the server side gives you an opportunity to dictate for the entire world, which I think is
+where you take the slippery slope to hell, there's another architectural approach, which is to solve this on the client side,
+which is certainly what I would endorse. - It's AI risk number five, will AI lead to bad people doing bad things?
+And I can just imagine language models used to do so many bad things, but the hope is there that you can have large language
+models used to then defend against it by more people, by smarter people, by more effective people, skilled people,
+all that kind of stuff. - Three-part argument on bad people doing bad things. So, number one, right?
+You can use the technology defensively and we should be using AI to build like broad spectrum vaccines and antibiotics for like bio weapons and we should
+be using AI to like hunt terrorists and catch criminals and like, we should be doing like all kinds of stuff like that. And in fact,
+we should be doing those things even just to like go get like, you know, basically go eliminate risk from like regular pathogens that aren't like constructed by an AI.
+So there's the whole defensive set of things. Second is we have many laws on the books
+about as actual bad things, right? So it is actually illegal to be a criminal, you know, to commit crimes, to commit terrorist acts to, you know,
+build pathogens with the intent to deploy them to kill people. And so we have those, we actually don't need new laws
+for the vast majority of these scenarios. We actually already have the laws in the book, on the books. The third argument is the minute,
+and this is sort of the foundational one that gets really tough, but the minute you get into this thing, which you were kind of getting into, which is like, okay,
+but like, don't you need censorship sometimes, right? And don't you need restrictions sometimes? It's like, okay, what is the cost of that?
+And in particular in the world of open source, right? And so is open source AI going to be allowed or not?
+If open source AI is not allowed, then what is the regime that's going to be necessary legally
+and technically to prevent it from developing? Right? And here again is where you get into and people have
+proposed that these kinds of things. You get into I would say pretty extreme territory pretty fast. Do we have a monitor agent on every CPU and GPU
+that reports back to the government? What we're doing with our computers, are we seizing GPU clusters that get beyond a certain size?
+Like, and then by the way, how are we doing all that globally, right? And like if China's developing an LLM beyond the scale
+that we think is allowable, are we gonna invade? Right. And you have figures on the AI X risk side
+who are advocating any, you know, potentially up to nuclear strikes to prevent, you know, this kind of thing. And so here you get into this thing
+and again, you know, maybe you could maybe say this is, you know, you could even say this is what good, bad or indifferent or whatever. But like here's the comparison of nukes,
+the comparison of nukes is very dangerous because one is just nukes, were just, although we can come back to nuclear power.
+But the other thing was like with nukes, you could control plutonium, right? You could track plutonium and it was like hard to come by. AI is just math and code, right?
+And it's in like math textbooks and it's like, there are YouTube videos that teach you how to build it. And like there's open source, there's already open source.
+You know, there's a 40 billion parameter model running around already called Falcon Online that anybody can download. And so, okay,
+you walk down the logic path that says we need to have guardrails on this. And you find yourself in an authoritarian,
+totalitarian regime of thought control and machine control that would be so brutal that you would've destroyed
+the society that you're trying to protect. And so I just don't see how that actually works. - So yeah, you have to understand my brain's going
+full steam ahead here 'cause I agree with basically everything you're saying, but I'm trying to play devil's advocate here
+because okay, you're highlighted the fact that there is a slippery slope to human nature. The moment you censor something,
+you start to censor everything. That alignment starts out sounding nice,
+but then you start to align to the beliefs of some select group of people.
+And then it's just your beliefs the number of people you're aligning to smaller and smaller as that group becomes more and more powerful.
+Okay. But that just speaks to the people that censor are usually the assholes
+and the assholes get richer. I wonder if it's possible to do without that for AI.
+One way to ask this question is do you think the base models, the baseline foundation models should be open sourced?
+Like, where Marc Zuckerberg is saying they want to do. - So look, I mean I think it's totally appropriate
+the companies that are in the business of producing a product or service should be able to have a wide range
+of policies that they put, right? And I'll just, again, I want a heavily censored model for my eight year old.
+Like, I actually want that, like, like I would pay more money for the ones more heavily censored than the one that's not, right.
+And so, like there are certainly scenarios where companies will make that decision. Look, an interesting thing you brought up
+or is this really a speech issue? One of the things that the big tech companies are dealing with is that content generated from an LLM is not covered
+under section 230, which is the law that protects internet platform companies
+from being sued for the user generated content. And so it is actually-- - [Lex] Oh, wow.
+- Yes and so there, there's actually a question. I think there's still a question, which is can big American companies actually feel
+generative AI at all? Or is the liability actually gonna just ultimately convince them that they can't do it?
+Because the minute the thing says something bad, and it doesn't even need to be hate speech, it could just be like an (indistinct) it could hallucinate
+a product, you know, detail on a vacuum cleaner, you know, and all of a sudden the vacuum cleaner company sues
+for misrepresentation. And there's asymmetry there, right? 'Cause the LLMs gonna be producing billions of answers to questions and it only needs to get a few wrong to have.
+- [Lex] So, loss has to get updated really quick here. - Yeah. And nobody knows what to do with that, right? So, so anyway, like there are big,
+there are big questions around how companies operate at all. So we talk about those, but then there's this other question of like, okay,
+the open source. So what about open source? And my answer to your question is kind of like, obviously yes, the models have,
+there has to be full open source here because to live in a world in which that open source is not allowed is
+a world of draconian speech control, human control, machine control.
+I mean, you know, black helicopters with jackbooted thugs coming out, repelling down and seizing your GPU like territory.
+- [Lex] Well. - No, no, I'm a hundred percent serious. - That's you're saying slippery slope always leads there.
+- No, no, no, no. That's what's required to enforce it. Like how will you enforce a ban on open source and AI? - No. Well you could add friction to it,
+like harder to get the models. 'Cause people will always be able to get the models, but it'll be more in the shadows, right?
+- The leading open source model right now is from the UAE. Like the next time they do that, what do we do?
+- [Lex] Yeah. - Like. - Oh, I see you're like. - A 14 year old in Indonesia comes out with a breakthrough.
+You know, we talked about most great software comes from a small number of people. Some kid comes out with some big new breakthrough and quantization or something
+and has some huge breakthrough. And like, what are we gonna like, invade Indonesia and arrest him?
+- It seems like in terms of size of models and effectiveness of models, the big tech companies will probably lead the way for quite
+a few years and the question is of what policies they should use? The kid in Indonesia should not be regulated,
+but should Google, Meta, Microsoft, Open AI be regulated?
+- Well, so, but this goes, okay, so when does it become dangerous? Right.
+Is the danger that it's as powerful as the current leading commercial model? Or it is just at some other arbitrary threshold?
+And then by the way, like look, how do we know, like what we know today is that you need like a lot of money to like train these things.
+But there are advances being made every week on training efficiency and, you know, data, all kinds of synthetic, you know, look,
+I don't even like the synthetic data thing we're talking about. Maybe some kid figures out a way to auto-generate synthetic data. - [Lex] That's gonna change everything.
+- Yeah, exactly. And so like sitting here today, like, the breakthrough just happened, right? You made this point like the breakthrough just happened.
+So we don't know what the shape of this technology is gonna be. I mean the big shock here is that, you know,
+whatever number of billions of parameters basically represents at least a very big percentage of human thought.
+Like who would've imagined that? And then there's already work underway. There was just this paper that just came out that basically
+takes a gpt three scale model and compresses it down or run on a single 32 core CPU. Like who would've predicted that?
+- [Lex] Yeah. - You know, some of these models now you can run on raspberry pies like today they're very slow, but like, you know,
+maybe they'll be a, you know, perceived you have real perform, you know, like it's math and code. And here we're back in here,
+we're back in, dude, it's math and code. It's math and code, it's math, code and data. It's bits. - Marc has just like walked away at this point.
+You just screw it. I don't know what to do with this. You guys created this whole internet thing.
+Yeah, yeah. I mean, I'm a huge believer in open source here. - So my argument is we're gonna have,
+see here's my argument is a, my argument, my full argument is, is AI is gonna be like air, it's gonna be everywhere. Like this is just gonna be in text.
+It already is, it's gonna be in textbooks and kids are gonna grow up knowing how to do this. And it's just gonna be a thing. It's gonna be in the air and you can't like pull
+this back anymore. You can't pull back air. And so you just have to figure out how to live in this world, right? And then that's where I think like all this hand ringing
+about AI risk is basically a complete waste of time, 'cause the effort should go into okay, what is the defensive approach?
+And so if you're worried about you know, AI generated pathogens, the right thing to do is to have a permanent project warp speed, right?
+Funded lavishly. Let's do a Manhattan, let's talk about Manhattan project, let's do a Manhattan project for biological defense, right?
+And let's build ais and let's have like broad spectrum vaccines where like, we're insulated from every pathogen. - And well, the interesting thing is because it's software,
+a kid in his basement, teenager could build like a system that defends against like the worst, I mean, and to me defense is super exciting.
+It's like, if you believe in the good of human nature for that, most people wanna do good,
+to be the savior of humanity is really exciting. - Yes.
+- Not, okay, that's a dramatic statement. But to help people. - Yeah, of course. Help people. - Yeah. Okay.

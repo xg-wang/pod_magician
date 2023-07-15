@@ -1,0 +1,74 @@
+I think you're the right person to talk about the future of the internet and technology in general.
+Do you think we'll still have Google search in 5 in 10 years, or search in general?
+- Yes. You know, it would be a question if the use cases have really narrowed down. - Well, now with AI--
+- [Marc] Yeah. - And AI assistance being able to interact and expose
+the entirety of human wisdom and knowledge and information and facts and truth to us
+via the natural language interface. It seems like that's what search is designed to do.
+And if AI assistance can do that better, doesn't the nature of search change? - Sure. But we still have horses.
+- Okay. (both laugh) When's the last time you rode a horse? - It's been a while.
+- All right. (both laugh) So, but what I mean is, well, we still have Google search as the primary way
+that human civilization uses to interact with knowledge. - I mean, search was a technology,
+it was a moment in time technology, which is you have in theory, the world's information out on the web. And, you know, this is sort of the optimal way to get to it.
+But yeah, like, and by the way, actually Google, Google has known this for a long time. I mean, they've been driving away from the 10 blue links
+you know, for like two days. They've been trying to get away from that for a long time. - [Lex] What kind of links? - They call the 10 blue links. - [Lex] 10 blue links.
+- So the standard Google search result is just 10 blue links to the random websites. - And they term purple when you visit them. The stage TMO.
+- Guess who picked those colors? (both laugh) - [Lex] Thanks. - I'm touchy on this topic.
+- No offense. - Yes, it's good. Well, you know, like Marshall McLuhan said that the content of each new medium is the old medium.
+- The content of each new medium is the old medium. - The content of movies was theater, you know, theater plays. The content of theater plays was, you know,
+we've written stories, the content of written stories with spoken stories. - [Lex] Huh? - Right. And so you just kind of fold the old thing
+into the new thing. - [Lex] How does that have to do with the blue and the purple links? - It just, you maybe for, you know, maybe within AI,
+one of the things that AI can do for you is can generate the 10 blue links. Right? And so like, if either if that's actually
+the useful thing to do, or if you're feeling nostalgic, you know. - So can generate the old Infoseek or AltaVista,
+what else was there? - [Marc] Yeah, yeah. - In the nineties. - [Marc] Yeah. All these. - AOL. - And then the internet itself has this thing
+where it incorporates all prior forms of media, right? So the internet itself incorporates television and radio and books and write essays and every other form of,
+you know, prior basically media. And so it makes sense that AI would be the next step, and it would sort of,
+you'd sort of consider the internet to be content for the AI and then the AI will manipulate it
+however you want, including in this format. - But if we ask that question quite seriously, it's a pretty big question.
+Will we still have search as we know it? - Probably not, probably we'll just have answers,
+but there will be cases where you'll wanna say, okay, I want more. Like, you know, for example, site sources, right?
+And you wanted to do that. And so, in the different, you know, 10 blue links site sources are kind of the same thing. - The AI would provide to you the 10 blue links so that you
+can investigate the sources yourself. It wouldn't be the same kind of interface that the crude
+kind of interface. I mean, isn't that fundamentally different? - I just mean like, if you're reading a scientific paper,
+it's got the list of sources at the end. If you wanna investigate for yourself, you go read those papers. - I guess that is the kind of search you talking to an AI is
+a kind of kind conversations, the kind of search like is if every single aspect of our conversation right now,
+there'd be like 10 blue links popping up that I can just like pause reality, then you just go silent and then just click and read
+and then return back to this conversation. - You could do that, or you could have a running dialogue next to my head where the AI is arguing everything I say,
+the AI makes the counter argument. - [Lex] Counter argument. - Right. - Oh, like on Twitter, like community notes.
+But like in real time it would just pop up. So anytime you see my go to the right, you start getting nervous.
+- [Marc] Yeah. Exactly, like, oh no, that's not right. - Call me out on my right now. Okay. Well, I mean, isn't that, is that exciting to you?
+Is that terrifying that, I mean, search has dominated the way we interact with the internet
+for, I don't know how long, for 30 years since one of the earliest directories
+of website and then Google's for 20 years. And also it drove how we create content, you know,
+search engine optimization, that entirety thing, that it also drove the fact that we have webpages
+and what those webpages are. So, I mean, is that scary to you or are you nervous about the shape
+and the content of the internet evolving? - Well, you actually highlighted a practical concern in there, which is,
+if we stop making webpages are one of the primary sources of training data for the AI. And so if there's no longer an incentive to make webpages,
+that cuts off a significant source of future training, training data. So there's actually an interesting question in there. But other than that, more broadly?
+No, just in the sense of like, search was certain, like search was always a hack. The 10 blue Links was always a hack, right.
+Because like, if the hypothetical wanna think about the counter fascial and the counter fascial world where the Google guys,
+for example, had had LLMs upfront, would they ever have done the 10 blue links? And I think the answer's pretty clearly, no.
+They would've just gone straight to the answer. And like I said, Google's actually been trying to drive to the answer anyway. You know, they bought this AI company 15 years ago,
+their friend of mine is working out who's now the head of AI at Apple. And they were trying to do basically knowledge semantic,
+basically mapping. And that led to what's now the Google one box, where if you ask it, you know, what was Lincoln's birthday? It will give you the blue links,
+but it will normally just give you the answer. And so they've been walking in this direction for a long time anyway. - Do you remember the semantic web?
+That was an idea. - [Marc] Yeah. - How to convert the content of the internet into something
+that's interpretable by and usable by machine. - [Marc] Yeah, that's right. - That was the thing.
+- And the closest anybody got to that, I think the company, I think the company's name was Meta Web, which was where my friend John Jane Andrea was at, and where they were trying to basically implement that.
+And it was, you know, it was one of those things where it looked like a losing battle for a long time. And then Google bought it and it was like, wow, this is actually really useful.
+Kind of a proto, sort of a little bit of a proto AI. - But it turns out you don't need to rewrite the content of the internet to make it interpretable by a machine.
+The machine can kind of just read our. - Yeah, the machine can compute the meaning. Now the other thing of course is, you know, just on search is the LLM is just, you know,
+there is an analogy between what's happening in the neural network and a search process like it is in some loose sense searching through the network.
+Right. And there's the information is actually stored in the network, right? It's actually crystallized and stored in the network and it's kind of spread out all over the place.
+- But in a compressed representation. So you're searching,
+you're compressing and decompressing that thing inside where-- - But the information's in there
+and there is the neural network is running a process of trying to find the appropriate piece of information in many cases
+to generate to predict the next token. And so, it is kind of, it is doing a form of search. And then, and then by the way, just like on the web,
+you know, you can ask the same question multiple times or you can ask slightly different word of questions and the neural network will do a different kind of,
+you know, it'll search down different paths to give you different answers with different information. - [Lex] Yeah. - And so it sort of has a, you know,
+this con content of the new medium is previous medium. It kind of has the search functionality kind of embedded
+in there to the extent that it's useful. - So what's the motivator for creating new content on the internet?
+- [Marc] Yeah. - If, well, I mean actually the motivation is probably still there, but what does that look like?
+Would we really not have webpages? Would we just have social media and video hosting websites?
+And what else? - [Marc] Conversations with AIs. - Conversations with AIs. So conversations become so one-on-one conversation,
+like private conversations. - I mean, if you want, if obviously not the user doesn't want to, but if it's a general topic,
+then, you know, so there, you know, but you know, the phenomenon of the jailbreak, so Dan and Sydney, right?

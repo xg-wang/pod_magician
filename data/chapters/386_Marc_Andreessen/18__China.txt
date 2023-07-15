@@ -1,0 +1,41 @@
+- So you write that the single greatest risk, this is the risk you're most convinced by the single greatest risk of AI is
+that China wins global AI dominance and we the United States and the West do not.
+Can you elaborate? - Yeah. So this is the other thing which is a lot of this sort of AI risk debates today sort
+of assume that we're the only game in town, right? And so we have the ability to kind of sit in the United States and criticize ourselves and do,
+you know, have our government like, you know, beat up on our companies and we'll figure out a way to restrict what our companies can do and you know,
+we're gonna, you know, we're gonna ban this and ban that, restrict this and do that. And then there's this like other like force out there that like doesn't believe we have any power
+over them whatsoever and they have no desire to sign up for whatever rules we decide to put in place and they're gonna do whatever it is they're gonna do.
+And we have no control over it at all. And it's China and specifically the Chinese Communist party
+and they have a completely publicized open, you know, plan for what they're gonna do with AI.
+And it is not what we have in mind. And not only do they have that as a vision and a plan for their society,
+but they also have it as a vision and plan for the rest of the world. - So their plan is what? Surveillance? - Authoritarian control.
+So authoritarian population control you know, good old-fashioned communist authoritarian control
+and surveillance and enforcement and social credit scores and all the rest of it.
+And you are gonna be monitored and metered within an inch of everything all the time.
+And it's gonna, you know, it's basically the end of human freedom and that's their goal. And you know, they justify it on the basis
+of that's what leads to peace. - You're worried that the regulating
+in the United States will haul progress enough to where the Chinese government would win that race.
+- So their plan, yeah. Yes, yes. And the reason for that is they, and again, they're very public on this. They have, their plan is to proliferate
+their approach around the world and they have this program called the Digital Silk Road, right. Which is building on their Silk Road investment program.
+And they've got, they've been laying networking infrastructure all over the world with their 5G, right. Work with their company Huawei.
+And so, they've been laying all this fabric, but financial and technological fabric all over the world. And their plan is to roll out their vision of AI on top of that and to have
+every other country be running their version. And then if you're a country prone to, you know,
+authoritarianism, you're gonna find this to be an incredible way to become more authoritarian. If you're a country, by the way,
+not prone to authoritarianism, you're gonna have the Chinese Communist Party running your infrastructure and having backdoor into it. Right.
+Which is also not good. - What's your sense of where they stand in terms of the race towards super intelligence as compared to the United States?
+- Yeah, so good news is they're behind, but bad news is they, you know, let's just say they get access to everything we do. So they're probably a year behind at each point in time,
+but they get, you know, downloads I think of basically all of our work on a regular basis through a variety of means.
+And they are, you know, at least we'll see, they're at least putting out reports of very, they just put out a report last week of a GPT 3.5 analog.
+They put out this report, forget what it's called, but they put out this report of this and they did and they, you know, the way when open AI you know,
+puts out, one of the ways they test, you know, GPT they run it through standardized exams like the SAT. Right.
+Just how you can kind of gauge how smart it is. And so the Chinese report, they ran their LLM through the Chinese equivalent
+of the SAT and it includes a section on Marxism and a section on, I say tongue of thought.
+And it turns out their AI does very well on both of those topics. - That's right.
+- So like. - Oh, this alignment thing. - Communist AI, right? Like literal communist AI. Right? And so their vision is like, that's the, you know,
+so you know, you can just imagine like you're a school, you know, you're a kid 10 years from now in Argentina
+or in Germany or in who knows where, Indonesia. And you ask the AI,
+I'd explain to you like how the economy works and it gives you the most cheery, upbeat explanation of Chinese style communism you've ever heard. Right.
+So like the stakes here are like really big. - Well, as we've been talking about,
+my hope is not just with the United States, but with just the kid in his basement. The open source LLM.
+'Cause I don't know if I trust large centralized institutions with super powerful AI
+no matter what their ideology as a power corrupts.

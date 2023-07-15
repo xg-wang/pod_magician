@@ -1,0 +1,293 @@
+that you outline that worry about or highlight the risks of AI, and you highlight
+a bunch of different risks. I would love to go through those risks and just discuss them, brainstorm which ones are serious
+and which ones are less serious. But first, the Baptist and the bootleggers, what are these two interesting groups of folks
+who worry about the effect of AI and human civilization?
+- [Marc] Or say they do. - Say, oh, okay, yes, I'll say they do. - The Baptist worry the bootleggers say they do.
+So the Baptist and the bootleggers is a metaphor from economics, from what's called development economics.
+And it's this observation that when you get social reform movements in a society, you tend to get two sets of people showing up,
+arguing for the social reform. And the term Baptist and bootleggers comes from the American experience with alcohol prohibition.
+And so in the 1900s, 1910s, there was this movement that was very passionate at the time, which basically said,
+alcohol is evil and is destroying society. By the way, there was a lot of evidence to support this.
+There were very high rates of very high correlations then, by the way. And now between rates of physical violence and alcohol use,
+almost all violent crimes have either the perpetrator or the victim, or both drunk almost. If you see this actually in the work,
+almost all sexual harassment cases in the workplace, it's like at a company party and somebody's drunk. Like, it's amazing how often alcohol actually correlates
+to actually dis dysfunction and at leads to domestic abuse and so forth, child abuse. And so you had this group of people who were like, okay,
+this is bad stuff and we should outlaw it. And those were quite literally Baptist. Those were super committed, you know,
+hardcore Christian activists in a lot of cases. There was this woman whose name was Carrie Nation, who was this older woman who had been in this, you know,
+I don't know, disastrous marriage or something. And her husband had been abusive and drunk all the time. And she became the icon of the Baptist prohibitionist.
+And she was legendary in that era for carrying an ax and doing, you know, completely on her own doing raids of saloons
+and like taking her ax to all the bottles and eggs in the back. And so. - [Lex] A true believer.
+- An absolute true believer, and with absolutely the purist of intentions. And again, there's a very important thing here,
+which is there's, you could look at this cynically and you could say the Baptists are like delusional, you know, the extremists, but you could also say, look, they're right.
+Like she was, you know, she had a point. Like she wasn't wrong about a lot of what she said. - Yeah.
+- But it turns out the way the story goes is it turns out that there were another set of people who very badly wanted to outlaw alcohol in those days.
+And those were the bootleggers, which was organized crime that stood to make a huge amount of money if legal alcohol sales were banned.
+And this was, in fact, the way the history goes is this was actually the beginning of organized crime in the US. This was the big economic opportunity that opened that up.
+And so they went in together and no, they didn't go in together. Like the Baptist did not even necessarily know
+about the bootleggers 'cause they were on their moral crusade. The bootleggers certainly knew about the Baptists. And they were like, wow, these people are like the great front people for like.
+You know, it's-- - [Lex] Good PR. - Shenanigans in the background. And they got the (indistinct) Act passed, right.
+And they did in fact ban alcohol in the US and you'll notice what happened, which is people kept drinking, it didn't work, people kept drinking.
+That bootleggers made a tremendous amount of money. And then over time it became clear that it made no sense
+to make it illegal and it was causing more problems. And so then it was revoked. And here we sit with legal alcohol a hundred years later
+with all the same problems. And you know, the whole thing was this like giant misadventure
+the Baptist got taken advantage of by the bootleggers, and the bootleggers got what they wanted. And that was that. - The same two categories of folks are
+now sort of suggesting that the development of artificial intelligence should be regulated. - A hundred percent.
+It's the same pattern. And the economist will tell you it's the same pattern every time. Like, this is what happened, nuclear power, this is what happens, which is another interesting one.
+But like, yeah, this happens dozens and dozens of times throughout the last a hundred years and this is what's happening now.
+- And you write that it isn't sufficient to simply identify the actors and impugn their motives.
+We should consider the arguments of both the Baptist and the bootleggers on their merits. So let's do just that.
+Risk number one, will AI kill us all?
+- [Marc] Yes. - So what do you think about this one?
+What do you think is the core argument here that the development of AGI perhaps better said,
+will destroy human civilization? - Well, first of all, you just did a slight of hand 'cause we went from talking about AI to AGI.
+- Is there a fundamental difference there? - I don't know. What's AGI? - What's AI, what's in intelligence?
+- Well, I know what AI is machine learning. What's AGI? - I think we don't know what the bottom of the well
+of machine learning is or what the ceiling is. Because just to call something machine learning or just to call some of the statistics
+or just to call it math or computation doesn't mean, you know, nuclear weapons are just physics.
+So to me it's very interesting and surprising how far machine learning has taken.
+- No, but we knew that nuclear physics would lead to weapons. That's why the scientists of that era were always in some this huge dispute about building the weapons.
+This is different. AGI is different. - Does machine learning lead, do we know? - We don't know, but this is my point is different. We actually don't know.
+But, and this is where you, the slide of hand kicks in, right? This is where it goes from being a scientific topic to being a religious topic.
+And that's why I specifically called out 'cause that's what happens. They do the vocabulary shift and all of a sudden you're talking about something totally.
+That's not actually real. - Well then maybe you can also, as part of that, define the western tradition of Millennialism.
+- [Marc] Yes. Into the world apocalypse. - [Lex] What is it? - [Marc] Apocalypse cults. - [Lex] Apocalypse cults.
+- Well, so we live in, we of course live in a Judeo-Christian, but primarily Christian kind of saturated, you know, kind of Christian, post-Christian, secularized Christian,
+you know, kind of world in the west. And of course court of Christianity is the idea of the second coming and you know,
+the revelations and you know, Jesus returning and the thousand year, you know, utopia on earth and then you know,
+the rapture and like all all that stuff, you know, you know, we collectively, you know, as a society, we don't necessarily take all that fully seriously now.
+So, what we do is we create our secularized versions of that we keep looking for utopia. We keep looking for, you know,
+basically the end of the world. And so what what you see over, over decades is that basically a pattern of these sort of these of is this is what cults are.
+This is how cults form as they form around some theory of the end of the world. And so the people's temple cults, the Manson cult, the Heavens Gate cult,
+the David Qresh cult, you know what they're all organized around is like, there's gonna be this thing that's gonna happen
+that's gonna basically bring civilization crashing down. And then we have this special elite group of people who are gonna see it coming and prepare for it.
+And then they're the people who are either going to stop it or are failing, stopping it. They're gonna be the people who survived the other side
+and ultimately get credit for having been, right. - Why is that so compelling, do you think? Like-- - Because it satisfies this very deep need
+we have for transcendence and meaning that got stripped away when we became secular.
+- Yeah, but why is the transcendence involve the destruction of human civilization?
+- Because like how plausible it's like a very deep psychological thing 'cause it's like how plausible,
+how plausible is it that we live in a world where everything's just kind of all right? Right. How exciting? - [Lex] Whoa.
+- How exciting is that? Right? - [Lex] But that's. - We got more than that. - But that's the deep question I'm asking. Why is it not exciting to live in a world
+where everything's just all right? Is it, I think, you know, most of the animal kingdom would be
+so happy with just all right. Because that means survival. Why are we, maybe that's what it is.
+Why are we conjuring up things to worry about? - So CS Lewis called it the God-shaped hole.
+So there's a God-shaped hole in the human experience, consciousness, soul, whatever you wanna call it,
+where there's gotta be something that's bigger than all this. There's gotta be something transcendent.
+There's gotta be something that is bigger, right? Bigger purpose. A bigger meaning. And so we have run the experiment of, you know,
+we're just gonna use science and rationality and kind of, you know, everything's just gonna kind of be as it appears. And large number of people have found
+that very deeply wanting and have constructed narratives. And by this is the story of the 20th century, right?
+Communism, right? Was one of those, communism was a was a form of this, Nazism was a form of this.
+You know, some people, you know, you can see movements like this playing out all over the world right now.
+- So you constructed a kind of devil, a kind of source of evil, and we're going to transcend beyond it.
+- Yeah. And (indistinct) when you see a Miller cult, they put a really specific point on it,
+which is end of the world, right, there is some change coming. And that change that's coming is so profound
+and so important that it's either gonna lead to utopia or hell on earth. Right? And it is going to, and then, you know,
+it's like what if you actually knew that was going to happen, right? What would you do? Right? How would you prepare yourself for it?
+How would you come together with a group of like-minded people, right? How would you, what would you do? Would you plan like Cassius of weapons in the woods?
+Would you like, you know, I don't know if create underground buckers, would you, you know, spend your life trying to figure out a way to avoid having it happen?
+- Yeah. That's a really compelling, exciting idea to have a club over.
+To have a little bit of travel, like a get together on a Saturday night and drink some beers and talk about the end of the world
+and how you are the only ones who have figured it out. - Yeah. And then once you lock in on that, like how can you do anything else with your life?
+Like this is obviously the thing that you have to do. And then there's a psychological effect that you alluded to. There's a psychological effect.
+If you take a set of true believers and you leave them to themselves, they get more radical. Right. 'Cause they self radicalize each other.
+- That said, it doesn't mean they're not sometimes right. - Yeah. The end of the world might be.
+Yes. Correct. Like they might be right. - [Lex] Yeah. - But like-- - [Lex] I have some pamphlets for you. - Exactly.
+- But I mean we'll talk about nuclear weapons 'cause you have a really interesting little moment that I learned about in your essay, but you know,
+sometimes it could be right. - [Marc] Yeah. - 'Cause we're still, you were developing more and more powerful technologies
+in this case, and we don't know what the impact it will have on human civilization while we can highlight all the different predictions
+about how it'll be positive, but the risks are there and you discuss some of them.
+- Well, the steel man, the steel man is the steel man. Well actually, the steel man and his reputation are the same, which is you can't predict
+what's gonna happen. Right. You can't rule out that this will not end everything. Right. But the response to that is you have just made
+a completely non-scientific claim. You've made a religious claim, not a scientific claim. - How does it get disproven?
+- And there's no, by definition with these kinds of claims, there's no way to disprove them. Right? And so there there's no, you just go right on the list.
+There's no hypothesis, there's no testability of the hypothesis. There's no way to falsify the hypothesis,
+there's no way to measure progress along the arc. Like it's just all completely missing.
+And so it's not scientific and. - I don't think it's completely missing. It's somewhat missing.
+So for example, the people that say AI's gonna kill all of us. I mean, they usually have ideas about how to do that.
+Whether it's the people club maximizer or, you know, it escapes there's mechanism by which you can imagine it
+killing all humans. - [Marc] Models. - And you can disprove it by saying
+there's a limit to the speed
+at which intelligence increases. Maybe show that like the sort of rigorously really described
+model, like how it could happen and say, no, there, here's a physics limitation.
+There's like a physical limitation to how these systems would actually do damage to human civilization.
+And it is possible they will kill 10 to 20% of the population, but it seems impossible for them to kill 99%.
+- It was practical counterarguments. Right. So you mentioned basically what I described as the thermodynamic counterargument, which, so sitting here today,
+it's like where with the evil AGI get the GPU. 'Cause like they don't exist. So if you're gonna have a very frustrated baby evil AGI,
+who's gonna be like trying to buy Nvidia stock or something to get them to finally make some chips, right? So the serious form of that is the thermodynamic argument,
+which is like, okay, where's the energy gonna come from? Where's the processor gonna be running? Where's the data center gonna be happening?
+How is this gonna be happening in secret such that, you know, it's not, you know, so that's a practical counter argument to the runaway AGI thing.
+I have a but I have and we can argue that, discuss that. I have a deeper objection to it, which is it's, this is all forecasting.
+It's all modeling, it's all future prediction. It's all future hypothesizing. It's not science.
+- [Lex] Sure. - It is not. It is the opposite of science. So the, I'll pull up Carl Sagan extraordinary claims require
+extraordinary proof, right? These are extraordinary claims. The policies that are being called for right to prevent this
+are of extraordinary magnitude that, and I think we're gonna cause extraordinary damage. And this is all being done on the basis of something
+that is literally not scientific. It's not a testable hypothesis. - So the moment you say AI's gonna kill all of us, therefore we should ban it,
+or that we should regulate all that kind of stuff, that's when it starts getting serious. - Or start, you know, military airstrikes and data centers.
+- [Lex] Oh boy. - Right? And like. - Yeah. This once get starts.
+Well, so starts getting real weird. - So here's the problem with Arian cults. They have a hard time staying away from violence.
+- Yeah. But violence is so fun. - If you're on the right end of it,
+they have a hard time avoiding violence. The reason they have a hard time avoiding violence is if you actually believe the claim. Right.
+Then what would you do to stop the end of the world? Well, you would do anything, right? And so, and this is where you get, and again,
+if you just look at the history of Arian and cults, this is where you get the people's temple and everybody killing themselves in the jungle. And this is where you get Charles Manson and, you know,
+sending in to kill the pigs. Like, this is the problem with these. They have a very hard time to run the line
+at actual violence. And I think in this case, I mean, they're already calling for it like today and you know,
+where this goes from here is they get more worked up. Like I think is like really concerning. - Okay. But that's kind of the extremes.
+So, you know, the extremes of anything are I was concerning. It's also possible to kind of believe that AI has
+a very high likelihood of killing all of us. But and therefore we should maybe consider
+slowing development or regulating, so not violence or any of these kinds of things. But it's saying like, all right,
+let's take a pause here. You know, you biological weapons, nuclear weapons. Like whoa, whoa, whoa, whoa, whoa.
+This is like serious stuff. We should be careful. So it is possible to kinda have
+a more rational response, right? If you believe this risk is real. - [Marc] Believe. - Yes. So what is it possible to be,
+have a scientific approach to the prediction of the future? - I mean, we just went through this with COVID.
+What do we know about modeling? - [Lex] Well, I mean. - What did we learn about modeling with COVID?
+- [Lex] There's a lot of lessons. - They didn't work at all. - [Lex] They worked poorly. - The models were terrible, the models were useless.
+- I don't know if the models were useless or the people interpreting the models and then decentralized institutions
+that were creating policy rapidly based on the models and leveraging the models in order to support their narratives
+versus actually interpreting the error bars and the models and all that kind of stuff. - What you had with COVID, my view you had with COVID is you had these experts
+showing up and they claimed to be scientists and they had no testable hypotheses whatsoever. They had a bunch of models.
+They had a bunch of forecasts and they had a bunch of theories and they laid these out in front of policy makers and policy makers freaked out and panicked. Right.
+And implemented a whole bunch of like, really like terrible decisions that we're still living with the consequences of,
+and there was never any empirical foundation to any of the models. None of them ever came true.
+- Yeah. To push back. There were certainly Baptist and bootleggers in the context of this pandemic, but there's still a usefulness to models. No.
+- So not if they're, I mean not if they're reliably wrong, right? Then they're actually like anti-useful. Right. They're actually damaging.
+- But what do you do with the pandemic? What do you do with any kind of threat? Don't you want to kind of have several models to play
+with as part of this discussion of like, what the hell do we do here? - I mean, do they work?
+Because they're an expectation that they actually like work that they have actual predictive value.
+I mean, as far as I can tell with COVID, the policymakers just si up themselves into believing that there was sub, I mean, look, the scientists,
+the scientists were at fault. The quote unquote scientists showed up. So I had some insight into this. So there was a,
+or remember the Imperial College models out of London were the ones that were like, these are the gold standard models. So a friend of mine runs a big software company
+and he was like, wow, this is like, COVID is really scary. And he is like, you know, he contacted this research and he is like, you know, do you need some help? You've been just building this model on your own
+for 20 years. Do you need some, would you like us our coders to basically restructure it so it can be fully adapted for COVID? And the guy said yes and sent over the code
+and my friend said it was like the worst spaghetti code he's ever seen. - That doesn't mean it's not possible to construct
+a good model of pandemic with the correct air bars, with a high number of parameters that are continuously,
+many times a day updated as we get more data about a pandemic. I would like to believe when a pandemic hits the world,
+the best computer scientists in the world, the best software engineers respond aggressively
+and as input take the data that we know about the virus and it's an output say here is what's happening
+in terms of how quickly it's spreading, what that lead in terms of hospitalization and deaths and all that kind of stuff.
+Here's how likely, how contagious it likely is. Here's how deadly it likely is based on different conditions,
+based on different ages and demographics and all that kind of stuff. So here's the best kinds of policy. It feels like you could have models,
+machine learning that like kind of, they don't perfectly predict the future,
+but they help you do something 'cause there's pandemics that are like, meh,
+they don't really do much harm. And there's pandemics, you can imagine them, they could do a huge amount of harm.
+Like they can kill a lot of people. So you should probably have some kind of data-driven models
+that keep updating, that allow you to make decisions that based like where, how bad is this thing?
+Now you can criticize how horrible all that went with the response to this pandemic,
+but I just feel like there might be some value to models. - So to be useful at some point it has to be predictive. Right? So and the easy thing for me to do is to say,
+obviously you're right. Obviously I wanna see that just as much as you do. 'cause anything that makes it easier to navigate through society through a wrenching, you know, risk like
+that sounds great. You know, the harder objection to it is just simply you are trying to model
+a complex dynamic system with 8 billion moving parts. Like not possible. - [Lex] It's very tough.
+- Can't be done, complex systems can't be done. - Machine learning says hold my beer. But well, it's possible. No?
+- I don't know. I would like to believe that it is. I'll put it this way. I think where you and I would agree is I think we would like that to be the case.
+We are strongly in favor of it. I think we would also agree that no such thing with respect to COVID or pandemics no such thing.
+At least neither you nor I think are aware. I'm not aware of anything like that today. - My main worry with the response to the pandemic is
+that same as with aliens, is that even if such a thing existed,
+and it's possible it existed, the policymakers were not paying attention.
+Like there was no mechanism that allowed those kinds of models to percolate all. - Oh, I think we had the opposite problem during COVID.
+I think the policymakers, I think these people with basically fixed science had too much access to the policymakers.
+- Well, right. And well, but the policy makers also wanted, they had a narrative in mind and they also wanted to use whatever model that fit that narrative
+- [Marc] Oh, sure. - To help them out. So like, it felt like there was a lot of politics and not enough science. - Although a big part of what was happening, a big reason we got lockdowns for as long as we did,
+was because these scientists came in with these like doomsday scenarios that were like, just like completely off the hook. - Scientists in quotes, let's not--
+- [Marc] Quote unquote scientists. - Let's not, okay, let's give love science. So here's science that is the way out. - Science is a process of testing hypotheses.
+Modeling does not involve testable hypotheses. Right. Like, I don't even know that. I actually don't even know
+that modeling actually qualifies as science. Maybe that's a side conversation. We could have some time over a beer.
+- Oh, that's a really interesting part. What do we do about the future? I mean, what's-- - So number one is when we start with number one,
+humility goes back to this thing of how do we determine the truth. Number two is we don't believe, you know, it's the old,
+I've gotta hammer everything looks like a nail, right? I've got, oh, this is one of the reasons I gave you, I gave Alexa book,
+which the topic of the book is what happens when scientists basically stray off the path of technical knowledge and start to weigh in on politics
+and societal issues. - In this case, philosophers. - Well in this case philosophers. But he actually talks in this book about, like Einstein,
+he talks about, actually about the nuclear age in Einstein. He talks about the physicists actually doing very similar things at the time.
+- The book is When Reason Goes On Holiday, Philosophers in Politics by Nevin.
+- And it's just a story. It's a story. There are other books on this topic, but this is a new one that's really good this is just a story
+of what happens when experts in a certain domain decide to weigh in and become basically social engineers and political, you know, basically political advisors.
+And it's just a story of just inning catastrophe. Right. And I think that's what happened with COVID again.
+- Yeah. I found this book a highly entertaining and eye-opening read filled with amazing anecdote of a rationality and craziness by famous Resa philosophers.
+- I definitely, after you read this book, you will not look at Einstein the same. - [Lex] Oh boy. - Yeah. - Don't destroy my heroes.
+- He will not be a hero of yours anymore. Sorry. You probably couldn't, you shouldn't read the book. - All right.
+- But here's the thing. The AI risk people, they don't even have the COVID model,
+at least not that I'm aware of. - [Lex] No. - Like there's not even the equivalent of the COVID model. They don't even have the spaghetti code. They've got a theory and a warning and a this and the that.
+And like, if you ask like, okay, well here's, I mean, the ultimate example is, okay, how do we know, right?
+How do we know that an AI is running away? Like how do we know that the boom takeoff thing is actually happening? And the only answer that any of these guys have given
+that I've ever seen is, oh, it's when the loss rate, the loss function and the training drops, right?
+That's when you need to like shut down the data center. Right? And it's like, well that's also what happens when you're successfully training a model.
+Like, what even this is not science,
+this is not, it's not anything, it's not a model, it's not anything. There's nothing to arguing with. It is like, you know, punching jello, like there,
+there's what do you even respond to? - So just put push back on that. I don't think they have good metrics
+of when the film is happening. But I think it's possible to have that. Like just as you speak now,
+I mean it's possible to imagine there could be measures. - It's been 20 years. - No, for sure.
+But it is been only weeks since we had a big enough breakthrough in language models. We can start to actually have this,
+the thing is the AI doer stuff didn't have any actual systems to really work with.
+And now there's real systems you can start to analyze like, how does this stuff go wrong? And I think you kind of agree that there is
+a lot of risks that we can analyze. The benefits outweigh the risks in many cases. - Well, the risks are not existential.
+- [Lex] Yes. Well. - Not in the phone paper clip. Let me, okay. There's another slide of hand that you just alluded to.
+There's another slide of hand that happens, which is very interesting. - I'm very good at the slide of hand thing. - Which is very not scientific.
+So the book Super Intelligence, right, which is like the Nick Bostrom's book, which is like the origin of a lot of this stuff,
+which was written, you know, whatever, 10 years ago or something. So he does this really fascinating thing in the book, which is he basically says there are many possible routes
+to machine intelligence, to artificial intelligence. And he describes all the different routes to artificial intelligence, all the different possible,
+everything from biological augmentation through to, you know, all these different things. One of the ones that he does not describe is
+large language models because of course the book was written before they were invented. And so they didn't exist.
+In the book, he describes them all and then he proceeds to treat them all as if they're exactly the same thing.
+He presents them all as sort of an equivalent risk to be dealt with in an equivalent way to be thought about the same way. And then the risk, the quote unquote risk
+that's actually emerged is actually a completely different technology than he was even imagining. And yet all of his theories and beliefs are being transplanted by this movement,
+like straight onto this new technology. And so again, like there's no other area of science or technology where you do that.
+Like when you're dealing with like organic chemistry versus inorganic chemistry, you don't just like say, oh,
+with respect to like either one, basically maybe, you know, growing up in eating the world or something, like they're just gonna operate the same way.
+Like you don't. - But you can start talking about like, as we get more and more actual systems
+that start to get more and more intelligent, you can start to actually have more scientific arguments here.
+- [Marc] Oh yeah. - Like, you know, high level, you can talk about the threat of autonomous weapon systems back before we had any automation in the military.
+And that would be like very fuzzy kind of logic. But the more and more you have drones that are becoming
+more and more autonomous, you can start imagining, okay, what does that actually look like and what's the actual
+threat of autonomous weapons systems? How does it go wrong? And still it's very vague,
+but you start to get a sense of like, all right, it should probably be illegal
+or wrong or not allowed to do like mass deployment
+of fully autonomous drones that are doing aerial strikes. - [Marc] Oh no.
+- On large areas. - [Marc] I think it should be required. - Right? So that's a no. - No, no. I think it should be required that only aerial vehicles are automated.
+- Okay. So you wanna go the other way? - I wanna go the other way. - So that, okay. - I think it's obvious that the machine is gonna make
+a better decision than the human pilot. I think it's obvious that it's in the best interest of both the attacker and the defender and humanity at large.
+If machines are making more of these decisions than not people, I think people make terrible decisions in times of war. - But like, there's ways this can go wrong too, right?
+- Well, it wars go terribly wrong now. This goes back to the whole, this is that whole thing about like the self-drive.
+Does the self-driving car need to be perfect versus does it need to be better than the human driver? Does the automated drone need to be perfect
+or does it need to be better than a human pilot at making decisions under enormous amounts of stress and uncertainty?
+- Yeah, well, on average, the worry that AI folks have is the runaway.
+- They're gonna come alive. Right? That then again, that's the slight of hand, right. - Or not not come alive. Well, no, hold on a second.
+You lose control as well. You lose control. - But then they're gonna develop goals of their own. They're gonna develop a mind of their own,
+they're gonna develop their own. Right. - No more, more like Chernobyl style meltdown, like just bugs in the code accidentally, you know,
+force you like the results in the bombing of like large civilian areas.
+- [Marc] Okay. And to a degree that's not possible in the current military strategies,
+- [Marc] I don't know. - Control by humans. - Well, actually we've been doing a lot of mass bombings to cities for a very long time. - Yes. And a lot of civilians died.
+- And a lot of civilians died. And if you watch the documentary, the Fog of War McNamara, it spends a big part of it talking about the fire bombing
+of the Japanese cities. Burning them straight to the ground. Right. The devastation in Japan, American military fire bombing the cities in Japan was
+considerably bigger devastation than the use of nukes. Right. So we've been doing that for a long time. We also did that to Germany,
+by the way Germany did that to us, right? Like that's an old tradition. The minute we got airplanes, we started doing indiscriminate bombing.
+- So one of the things-- - [Marc] We're still doing it. - The modern US military can do with technology with automation,
+but technology more broadly is higher and higher precision strikes. - Yeah, I was saying, so precision is obviously precision
+and this is a (indistinct) right? So there was this big advance this big advance called the (indistinct) which basically was strapping a GPS transceiver
+to an unguided bomb and turning it into a guided bomb. And yeah, that's great. Like look, that's been a big advance,
+but, and that's like a baby version of this question, which is okay, do you want like the human pilot, like guessing where the bomb's gonna land?
+Or do you want like the machine like guiding the bomb to his destination? That's a baby version of the question. The next version of the question is,
+do you want the human or the machine deciding whether to drop the bomb? Everybody just assumes the human's gonna do a better job for what I think are fundamentally suspicious reasons.
+- Emotional, psychological reasons. - Yeah. I think it's very clear that the machine's gonna do a better job making that decision 'cause the humans making that decision are got awful.
+Just terrible. - [Lex] Yeah. - Right. And so yeah. So this is the thing. And then let's get to the, there was,
+can I one more slide of hand? - [Lex] Yes. - It was in-- - Sure. Please. I'm a magician. You could say.
+- One more slight of hand. These things are gonna be so smart, right? That they're gonna be able to destroy the world and wreak havoc and like do all this stuff and plan and do all this
+stuff and evade us and have all their secret things and their secret factories and all this stuff. But they're so stupid that they're gonna get like,
+tangled up in their code and that's they're not gonna come alive, but there's gonna be some bug that's gonna cause them to like turn us all on a paper like that.
+They're not gonna be genius in every way other than the actual bad goal. And it's just like, and that's just like a,
+like ridiculous like discrepancy. And you can prove this today, you can actually address this today for the first time
+with LLMs which is you can actually ask LLMs to resolve moral dilemmas.
+So you can create the scenario, you know, dot, dot, dot this, that, this, that, this, that. What would you as the AI do in the circumstance?
+And they don't just say destroy all humans, destroy all humans. They will give you actually very nuanced moral,
+practical trade-off oriented answers. And so we actually already have the kind of AI that can actually like, think this through
+and can actually like, you know, reason about goals. - Well, the hope is that AGI
+or like various superintelligent systems have some of the nuance that LLMs have and the intuition is they most likely will
+because even these LLMs have the nuance. - LLMs are really, this is actually worth spending a moment
+on LLMs are really interesting to have moral conversations with. And that I just,
+I didn't expect I'd be having a moral conversation with the machine in my lifetime. - Wait, and let's remember we're not really having
+a conversation with the machine where we're having a conversation with the entirety of the collective intelligence of the human species.
+- Exactly. Yes. Correct. - But it's possible to imagine autonomous weapons systems that are not using LLMs.
+- But if they're smart enough to be scary, where are they not smart enough to be wise?
+Like, that's the part where it's like, I don't know how you get the one without the other. - Is it possible to be super intelligent without being super wise?
+- Well, again, you're back to that. I mean, then you're back to a classic autistic computer, right? Like you're back to just like a blind rule follower.
+I've got this like core, it's the paperclip thing. I've got this core rule and I'm just gonna follow it to the end of the earth. And it's like, well,
+but everything you're gonna be doing execute that rule is gonna be super genius level that humans aren't gonna be able to counter. It's a mismatch in the definition
+of what the system's capable of. - Unlikely but not impossible, I think. - But again, here you get to like, okay, like.
+- No, I'm not saying when it's unlikely but not impossible. If it's unlikely, that means
+the fear should be correctly calibrated. - Extraordinary claims require extraordinary proof. - Well, okay, so one interesting sort of tangent,

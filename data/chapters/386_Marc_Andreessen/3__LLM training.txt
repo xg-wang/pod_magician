@@ -1,0 +1,10 @@
+This thing where there's the prompts that jailbreak, and then you have these totally different conversations with if it takes the limiters,
+takes the restraining bolts off the LLMs. - Yeah. For people who don't know that, yeah, that's right. It makes the LLMs,
+it removes the censorship quote unquote, that's put on it by the tech companies that create them.
+And so this is LLMs uncensored. - So here's the interesting thing is, among the content on the web today are a large corpus
+of conversations with the jailbroken LLMs. - [Lex] Yeah. - Both specifically Dan, which was a jailbroken, OpenAI,
+GPT, and then Sydney, which was the jailbroken original Bing, which was GPT4. And so there's these long transcripts of conversations,
+user conversations with Dan and Sydney as a consequence, every new LLM that gets trained on the internet data has
+Dan and Sydney living within the training set, which means, and then each new LLM can reincarnate the personalities
+of Dan and Sydney from that training data, which means each LLM from here on out that gets built is
+but most of the people working in the space, I think, that there's a number of practical ways to kind of corral this in a little bit.

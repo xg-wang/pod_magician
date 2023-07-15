@@ -1,0 +1,91 @@
+You've been investing in tech companies for about, let's say 20 years. And about 15 of which was with Andreessen Horowitz.
+What interesting trends in tech have you seen over that time? Let's just talk about companies and just the evolution
+of the tech industry. - I mean the big shift over 20 years has been that tech used to be a tools industry for basically from like 1940 through
+to about 2010, almost all the big successful companies were pick and shovels companies. So PC, database, smartphone, you know,
+some tool that somebody else would pick up and use. Since 2010, most of the big wins have been in applications.
+So a company that starts you know, starts in an existing industry and goes directly
+to the customer in that industry. And you know, the earliest examples there were like Uber and Lyft
+and Airbnb. And then that model is kind of elaborating out. The AI thing is actually a reversion on that for now
+'cause like most of the AI business right now is actually in cloud provision of AI APIs for other people to build on.
+- But the big thing will probably be in app. - Yeah. I think most of the money I think probably will be in whatever your AI financial advisor
+or your AI doctor or your AI lawyer or, you know, take your pick of whatever the domain is. And there, and what's interesting is, you know,
+the valley kind of does everything. The entrepreneurs kind of elaborate every possible idea. And so there will be a set of companies that like make AI
+something that can be purchased and used by large law firms and then there will be other companies that just go direct
+to market as an AI lawyer. - What advice could you give for a startup founder?
+Just haven't seen so many successful companies, so many companies that fail also,
+what advice could you give to a startup founder, someone who wants to build the next super successful startup
+in the tech space? The Googles, the Apples, the Twitters. - Yeah. So the great thing
+about the really great founders is they don't take any advice. So, if you find yourself listening to advice,
+maybe you shouldn't do it. - But that's actually, just to elaborate on that, if you could also speak to great founders too.
+Like what makes a great founder? - So what makes a great founder is super smart, coupled with super energetic, coupled with super courageous.
+I think it's some of those three and-- - Intelligence, passion and courage. - The first two are traits and the third one is a choice.
+I think courage is a choice. Well 'cause courage is a question of pain tolerance, right?
+So how many times are you willing to get punched in the face before you quit?
+And here's maybe the biggest thing people don't understand about what it's like to be a startup founder is it gets
+very romanticized, right? And even when it, even when they fail, it still gets romanticized about like what a great adventure it was.
+But like the reality of it is most of what happens is people telling you no and then they usually follow
+that with you're stupid, right. No, I will not come to work for you. I will not leave my cushy job at Google
+to come work for you. No, I'm not gonna buy your product, you know, no, I'm not gonna run a story about your company. No, I'm not this, that, the other thing.
+And so a huge amount of what people have to do is just get used to just getting punched and the reason people don't understand this is
+because when you're a founder, you cannot let on that this is happening 'cause it will cause people to think that you're weak and they'll lose faith in you.
+So you have to pretend that you're having a great time when you're dying inside, right?
+You're just in misery. - But why did they do it? - Why did they do? Yeah, that's the thing. It's like it is a level,
+this is actually one of the conclusions I think is that I think it's actually for most of these people on a risk adjusted basis, it's probably an irrational act.
+They could probably be more financially successful on average if they just got like a real job in at a big company.
+But there's, you know, some people just have an irrational need to do something new and build something for themselves and, you know,
+some people just can't tolerate having bosses. Oh, here's the fun thing is how do you reference check founders, right?
+So you call the, you know, normal way you reference check, you're hiring somebody is you call the bosses, they're their, and you know, and you find out if they were good employees
+and now you're trying to reference check Steve Jobs, right? And it's like, oh God, he was terrible. You know, he was a terrible employee.
+He never did what we told him to do. - So what's a good reference? Do you want the previous boss to actually say
+they never did what you told him to do? That might be a good thing. - Well, ideally what you want is I will go,
+I would like to go to work for that person. He worked for me here and now I'd like to work for him. No, unfortunately, most people can't, their egos can't
+handle that. So they won't say that. But that's the ideal. - What advice would you give to those folks in the space of intelligence, passion and courage?
+- So I think the other big thing is you see people sometimes who say, I wanna start a company and then they kind of work through the process
+of coming up with an idea. And generally those don't work as well as the case where somebody has the idea first
+and then they kind of realize that there's an opportunity to build a company and then they just turn out to be the right kind of person to do that.
+- When you say idea, do you mean long-term big vision or do you mean specifics of like product?
+- Specific I would say specific, like specifically what specifics. Like what is the, because for the first five years you don't get to have vision,
+you just gotta build something people want and you gotta figure out a way to sell it to them. Right. It's very practical or you never get to big vision.
+- So the first product, you have an idea of a set of products of the first product that can actually make some money.
+- Yeah. Like it's gotta work. The first product's gotta work by which I mean like, it has to technically work, but then it has to actually fit into the category
+and the customer's mind if something that they want and then by the way, the other part is they have to be willing to pay for it. Like somebody's gotta pay the bills.
+And so you've gotta figure out how to price it and whether you can actually extract the money. So usually it is much more predictable.
+Success is never predictable, but it's more predictable if you start with a great idea and then back into starting the company.
+So this is what we did, you know, we had most, before we had escape, the Google guys had the Google search engine working at Stanford. Right.
+You know, yeah. Actually there's tons of examples where they, you know, Pierre Omaira had eBay working before he left his previous job.
+- So I really love that idea of just having a thing, a prototype that actually works before you even begin
+to remotely scale. Yeah. - By the way, it's also far easier to raise money, right? Like the ideal pitch that we receive is,
+here's the thing that works, would you like to invest in our company or not? Like, that's so much easier than here's 30 slides with a dream, right?
+And then we have this concept called the DMAs, which our biology of came up with when he was with us.
+So then there's this thing, this goes to mythology, which is, you know, there's a mythology that kind of,
+you know, these ideas, you know, kind of arrive like magic or people kind of stumble into them. It's like eBay with the pest dispensers or something.
+The reality usually with the big successes is that the founder has been chewing on the problem
+for 5 or 10 years before they start the company and they often worked on it in school or they even experimented on it
+when they were a kid and they've been kind of training up over that period of time to be able to do the thing.
+So they're like a true domain expert. And it sort of sounds like mom, I'm an apple pie, which is yeah,
+you wanna be a domain expert in what you're doing, but you would, you know, the mythology is so strong of like, oh, I just like had this idea in the shower right now I'm doing it.
+Like it's generally not that. - No, because it's, well, maybe in the shower we had the exact product
+implementation details, but yeah, usually you're gonna be for like years if not decades
+thinking about like everything around that.
+- Well we call it the DMAs because the DMAs basically is like, there's all these permutations,
+like for any idea, there's like all these different permutations, who should the customer be? What shape forms should the product have
+and how should we take it to market and all these things. And so the really smart founders have thought
+through all these scenarios by the time they go out to raise money and they have like detailed answers on every one of those fronts
+because they put so much thought into it. The sort of more haphazard founders haven't thought
+about any of that. And it's the detailed ones who tend to do much better. - So how do you know when to take a leap
+if you have a cushy job or happy life? - I mean the best reason is just 'cause you can't tolerate not doing it right?
+Like this is the kind of thing where if you have to be advised into doing it, you probably shouldn't do it. And so it's probably the opposite,
+which is you just have such a burning sense of this has to be done, I have to do this, I have no choice. - What if it's gonna lead to a lot of pain?
+- It's gonna lead to a lot of pain. I think that's. - What if it means losing sort of social relationships
+and damaging your relationship with loved ones and all that kind of stuff.
+- Yeah, look, so like, it's gonna put you in a social tunnel for sure, right? So you're gonna, like, you know, there's this game you can play on Twitter,
+which is you can do any whiff of the idea that there's basically any such thing as work life balance and that people should actually work hard
+and everybody gets mad. But like, the truth is like all the successful founders are working 80 hour weeks and they're working, you know, they form very,
+very strong social bonds with the people they work with. They tend to lose a lot of friends on the outside or put those friendships on ice.
+Like that's just the nature of the thing, you know, for most people that's worth the trade off. You know, the advantage, you know,
+maybe younger founders have is maybe they have less, you know, maybe they're not, you know, for example, if they're not married yet or don't have kids yet, that's an easier thing to bite off.
+- Can you be an older founder? - Yeah. You definitely can. Yeah. Yeah. Many of the most successful founders are second, third, fourth time founders.
+They're in their thirties, forties, fifties. The good news with being an older founder is, you know, more and you, you know, a lot more about what to do,
+which is very helpful. The problem is, okay, now you've got like a spouse and a family and kids and like, you've gotta go to the baseball game and like,
+you can't go to the base, you know, and so it's. - [Lex] Life is full of difficult choices.
+- Yes. - Marc Andreessen, you've written a blog post on what you've been up to. You wrote this in October, 2022,
