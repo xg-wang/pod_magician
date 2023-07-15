@@ -26,24 +26,26 @@ class OpenLlamaModel(ClsMixin):
         self.pod = pod
         CHECKPOINT = pod_model_path(self.pod)
 
-        load_8bit = False
+        load_8bit = True
         device = "cuda"
 
-        self.tokenizer = LlamaTokenizer.from_pretrained(MODEL_PATH)
+        self.tokenizer = LlamaTokenizer.from_pretrained(MODEL_PATH, device_map={'':0})
 
         print("### Load pretrained")
         model = LlamaForCausalLM.from_pretrained(
             MODEL_PATH,
             load_in_8bit=load_8bit,
-            torch_dtype=torch.float32,
-            device_map="auto",
+            torch_dtype=torch.float16,
+            # device_map="auto",
+            device_map={'':0}
         )
 
         print("### Peft load pretrained")
         model = PeftModel.from_pretrained(
             model,
             CHECKPOINT,
-            torch_dtype=torch.float32,
+            torch_dtype=torch.float16,
+            device_map={'':0}
         )
 
         # unwind broken decapoda-research config
@@ -51,8 +53,8 @@ class OpenLlamaModel(ClsMixin):
         model.config.bos_token_id = 1
         model.config.eos_token_id = 2
 
-        # if not load_8bit:
-        #     model.half()  # seems to fix bugs for some users.
+        if not load_8bit:
+            model.half()  # seems to fix bugs for some users.
 
         print("### Model eval")
         model.eval()
@@ -66,7 +68,7 @@ class OpenLlamaModel(ClsMixin):
     def generate(
         self,
         input_prompt: str,
-        max_new_tokens=128,
+        max_new_tokens=6000,
         **kwargs,
     ) -> str:
         import torch
@@ -101,7 +103,7 @@ class OpenLlamaModel(ClsMixin):
 def main(pod: str):
     input_prompts = [
         "Balancing AI safety and exploiting capabilities",
-        "How powerful will GPT-5 be",
+        "How will GPT-5 compare to GPT-4",
         "What is a typical day of an AI researcher like",
         "What is the meaning of life",
     ]
