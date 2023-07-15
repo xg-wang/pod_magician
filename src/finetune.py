@@ -1,5 +1,4 @@
-from modal import Secret
-from datetime import datetime
+from typing import Optional
 import os
 from math import ceil
 
@@ -49,7 +48,7 @@ def _train(
     wandb_run_name: str = "",
     wandb_watch: str = "",  # options: false | gradients | all
     wandb_log_model: str = "",  # options: false | true
-    resume_from_checkpoint: str | None = None,  # either training checkpoint or final adapter
+    resume_from_checkpoint: Optional[str] = None,  # either training checkpoint or final adapter
 ):
     import os
     import sys
@@ -84,6 +83,7 @@ def _train(
     if len(wandb_log_model) > 0:
         os.environ["WANDB_LOG_MODEL"] = wandb_log_model
 
+    print(f"### Prepre pretrained model: {base_model}")
     model = LlamaForCausalLM.from_pretrained(
         base_model,
         load_in_8bit=True,
@@ -142,6 +142,7 @@ def _train(
             ]  # could be sped up, probably
         return tokenized_full_prompt
 
+    print(f"### Prepre model for int8 training")
     model = prepare_model_for_int8_training(model)
 
     config = LoraConfig(
@@ -152,6 +153,7 @@ def _train(
         bias="none",
         task_type="CAUSAL_LM",
     )
+    print(f"### Get peft model")
     model = get_peft_model(model, config)
 
     if resume_from_checkpoint:
@@ -170,6 +172,7 @@ def _train(
         else:
             print(f"Checkpoint {checkpoint_name} not found")
 
+    print(f"### Print trainable params")
     model.print_trainable_parameters()  # Be more transparent about the % of trainable params.
 
     if val_set_size > 0:
@@ -224,8 +227,10 @@ def _train(
     if torch.__version__ >= "2" and sys.platform != "win32":
         model = torch.compile(model)
 
+    print(f"### Start train (resume_from_checkpoint={repr(resume_from_checkpoint)})")
     trainer.train(resume_from_checkpoint=resume_from_checkpoint)
 
+    print(f"### Save pretrained to {output_dir}")
     model.save_pretrained(output_dir)
 
     print("\n If there's a warning about missing keys above, please disregard :)")
@@ -235,9 +240,9 @@ def _train(
     gpu="A100",
     secret=None,
     timeout=60 * 60 * 2,
-    shared_volumes={VOL_MOUNT_PATH: output_vol},
+    network_file_systems={VOL_MOUNT_PATH: output_vol},
     mounts=[local_dataset_mount],
-    cloud="oci",
+    cloud="gcp",
     allow_cross_region_volumes=True,
 )
 def finetune(pod: str):
@@ -251,7 +256,7 @@ def finetune(pod: str):
 
     num_samples = len(data["train"])
     val_set_size = ceil(0.1 * num_samples)
-    print(f"Loaded {num_samples} samples. ")
+    print(f"### Loaded {num_samples} samples. ")
 
     _train(
         MODEL_PATH,
@@ -260,7 +265,7 @@ def finetune(pod: str):
         output_dir=pod_model_path(pod).as_posix(),
     )
 
-    print(f"Finished finetune: {pod}")
+    print(f"### Finished finetune: {pod}")
 
     # Delete scraped data after fine-tuning
     os.remove(data_path)
