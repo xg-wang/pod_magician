@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pod-sumarizer"
+name = "pod_magician"
 version = "0.1.0"
 description = ""
 authors = ["Thomas Wang <hi@xgwang.me>", "Maggie Mao <guanqunm@gmail.com>"]
@@ -13,6 +13,9 @@ python-dotenv = "^1.0.0"
 langchain = "^0.0.223"
 modal-client = "^0.50.2632"
 
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.4.1"
 
 [build-system]
 requires = ["poetry-core"]
