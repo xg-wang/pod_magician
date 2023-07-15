@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Thomas Wang <hi@xgwang.me>"]
 readme = "README.md"
-packages = [{include = "pod_sumarizer"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
