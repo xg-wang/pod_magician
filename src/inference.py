@@ -35,7 +35,7 @@ class OpenLlamaModel(ClsMixin):
         model = LlamaForCausalLM.from_pretrained(
             MODEL_PATH,
             load_in_8bit=load_8bit,
-            torch_dtype=torch.float16,
+            torch_dtype=torch.float32,
             device_map="auto",
         )
 
@@ -43,7 +43,7 @@ class OpenLlamaModel(ClsMixin):
         model = PeftModel.from_pretrained(
             model,
             CHECKPOINT,
-            torch_dtype=torch.float16,
+            torch_dtype=torch.float32,
         )
 
         # unwind broken decapoda-research config
