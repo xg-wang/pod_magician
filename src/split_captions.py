@@ -3,9 +3,10 @@ import pathlib
 import re
 
 CURR_PATH = str(pathlib.Path(__file__).parent.parent)
-INPUT_TRANSCRIPT_TXT= CURR_PATH + "/data/yt_captions/386_Marc_Andreessen.txt"
-INPUT_OUTLINE_TXT= CURR_PATH + "/data/yt_outlines/386_Marc_Andreessen.txt"
-OUTPUT_DIR= CURR_PATH + "/data/chapters/386_Marc_Andreessen"
+EPISODE_NAME = "215_Wojciech_Zaremba"  # "299_Demis_Hassabis" #"371_Max_Tegmark"
+INPUT_TRANSCRIPT_TXT = f"{CURR_PATH}/data/yt_captions/{EPISODE_NAME}.txt"
+INPUT_OUTLINE_TXT = f"{CURR_PATH}/data/yt_outlines/{EPISODE_NAME}.txt"
+OUTPUT_DIR = f"{CURR_PATH}/data/chapters/{EPISODE_NAME}"
 
 
 """

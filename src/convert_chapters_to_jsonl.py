@@ -2,7 +2,16 @@ import os
 import pathlib
 import json
 
-DIR_NAMES = ["367_Sam_Altman_L_Guz73e6fw", "386_Marc_Andreessen"]
+DIR_NAMES = [
+    "215_Wojciech_Zaremba",
+    "299_Demis_Hassabis",
+    "333_Andrej_Karpathy",
+    "367_Sam_Altman_L_Guz73e6fw",
+    "368_Eliezer_Yudkowsky",
+    "371_Max_Tegmark",
+    "381_Chris_Lattner",
+    "386_Marc_Andreessen",
+    ]
 CHAPTERS_DIR_PREFIX = pathlib.Path(__file__).parent.parent / "data" / "chapters"
 JSONL_OUTPUT_DIR_PREFIX = pathlib.Path(__file__).parent.parent / "data" / "finetune_dataset" / "LexFridman"
 
