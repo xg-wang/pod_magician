@@ -1,0 +1,183 @@
+How do you decide what isn't isn't misinformation?
+How do you decide what is true you actually have open as internal factual performance benchmark. There's a lot of cool benchmarks here
+Uh, how do you build a benchmark for what is true?
+What is truth?
+Sam alban like math is true and the origin of covid
+Is not agreed upon as ground truth
+Those are the two things and then there's stuff that's like certainly not true
+um
+But between that first and second
+Milestone
+There's a lot of disagreement. What do you look for? What can a not not even just now but in the future?
+where can
+We as a human civilization look for
+Look to for truth
+What do you know is true?
+What are you absolutely certain is true?
+I have uh, generally epistemic humility about everything and i'm freaked out by how little I know and understand about the world
+So that even that question is terrifying to me
+um
+There's a bucket of things that are
+Have a high degree of truth in this which is where you put math
+A lot of math. Yeah
+Can't be certain but it's good enough for like this conversation. We can say math is true. Yeah, then I mean some uh,
+Quite a bit of physics, uh, this historical facts
+Uh, maybe dates of when a war started
+There's a lot of details about military conflict inside inside history
+Of course as you start to get you know
+Just read blitzed
+Which is oh, I want to read that. Yeah, so how was it?
+It was really good. It's uh
+It gives a theory of nazi germany and hitler
+That so much can be described about hitler and a lot of the upper echelon of nazi germany through the excessive use of drugs
+And then amphetamines right and phatamines but also other stuff, but it's just just a lot
+and
+Uh, you know, that's really interesting. It's really compelling and for some reason like
+Whoa, that's really that would explain a lot. That's somehow really sticky
+It's an idea that's sticky and then you read a lot of criticism of that book later by historians that that's actually
+There's a lot of cherry picking going on and it's actually is using the fact that that's a very sticky explanation
+There's something about humans that likes a very simple narrative describe everything for sure for sure and then yeah too much amphetamines cause the war is like a great
+even if not true simple explanation that feels
+Satisfying and excuses a lot of other probably much darker
+Human truths. Yeah, the the military strategy
+employed
+uh the atrocities
+the speeches
+uh the
+Just the way hitler was as a human being the way he was as a leader all that could be explained through this
+One little lens and it's like well, that's if you say that's true. That's a really compelling truth
+So maybe truth is in one sense is defined as a thing that is a collective intelligence. We
+Kind of all our brains are sticking to and we're like, yeah. Yeah. Yeah a bunch of a bunch of ants get together
+And like yeah, this is it. I was gonna say sheep, but there's a connotation to that
+But yeah, it's hard to know what is true. And I think
+When constructing a gpt like model you have to contend with that
+I think a lot of the answers, you know, like if you ask
+gpt for
+I just stick on the same topic did covet leak from a lab. Yeah, I expect you would get a reasonable answer
+It's a really good answer. Yeah
+It laid out the the the hypotheses
+the
+The interesting thing it said
+Which is refreshing to hear
+Is there's um something like there's very little evidence for either hypothesis direct evidence
+Which is is important to state a lot of people kind of the reason why there's a lot of uncertainty
+And a lot of debate is because there's not strong physical evidence of either heavy circumstantial evidence on either side
+and then the other is more like biological theoretical kind of
+discussion and I think the answer the nuanced answer the gpt provider was actually
+pretty damn good and also
+Importantly saying that there is uncertainty just just the fact that there is uncertainty is the statement was really powerful
+man, remember when like the social media platforms were banning people for
+Saying it was a lab leak
+Yeah
+That's really humbling the humbling the overreach of power in censorship
+But that that you're the more powerful gpt becomes the more pressure there will be to censor
+We have a different set of challenges faced by the previous generation of companies which is
+People talk about
+Free speech issues with gpt, but it's not quite the same thing. It's not like
+This is a computer program what it's allowed to say and it's also not about the mass spread
+And the challenges that I think may have made
+The twitter and facebook and others have struggled with so much so
+We will have very significant challenges, but they'll be very new and very different
+And maybe yeah very new very different way to put it there could be truths that are harmful in their truth
+um
+I don't know group differences in iq. There you go
+Scientific work that when spoken might do more harm
+And you ask gpt that should gpt tell you there's books written on this
+that are rigorous scientifically but
+Are very uncomfortable and probably not productive in any sense
+But maybe are there's people arguing all kinds of sides of this and a lot of them have hate in their heart
+And so what do you do with that if there's a large number of people who hate others?
+but are actually
+Citing scientific studies. What do you do with that? What does gpt do with that?
+What is the priority of gpt to decrease the amount of hate in the world?
+Is it up to gpt is it up to us humans?
+I think we as open ai have responsibility for
+The tools we put out into the world, I think the tools themselves can't have responsibility in the way I understand it. Wow, so you
+You carry some of that burden for sure all of us all of us at the company
+So there could be harm caused by this tool and there will be harm caused by this tool, um
+There will be harm. There will be tremendous benefits
+But you know tools do wonderful good and real bad
+And we will minimize the bad and maximize the good and you have to carry the the weight of that
+Uh, how do you avoid gpt for from being hacked or jailbroken
+There's a lot of interesting ways that people have done that like, uh with token smuggling
+Or other methods like dan
+you know when I was like a
+A kid basically, I I got worked once on jailbreak in an iphone the first iphone I think
+and
+I thought it was so cool
+And I will say it's very strange to be on the other side of that
+You're now the man kind of sucks
+Um
+Is that is some of it fun? How much of it is a security threat? I mean what?
+How much do you have to take seriously? How is it even possible to solve this problem?
+Where does it rank on the set of problems just keeping asking questions prompting?
+we want
+Users to have a lot of control and get the model to behave in the way they want
+Within some very broad bounds
+And I think the whole reason for jailbreaking is right now. We haven't yet figured out how to like give that to people
+And the more we solve that problem
+I think the less need there will be for jailbreaking
+Yeah, it's kind of like piracy
+gave birth to spotify
+People don't really jailbreak iphones that much anymore and it's gotten harder for sure
+But also like you can just do a lot of stuff now
+Just like with jailbreaking. I mean, there's a lot of hilarity that is in
+um
+so
+Evan murakawa cool guy. He's at open.ai. He tweeted something that he also was really kind to send me
+To communicate with me send me a long email describing the history of open.ai all the different developments
+um
+He really lays it out. I mean, that's a much longer conversation of all the awesome stuff that happened. It's just
+amazing, but his tweet was uh, dali
+July 22 chad gpt. November 22 api 66 cheaper august 22 embeddings 500
+Times cheaper while state of the art december 22 chad gpt api also 10 times cheaper while state of the art march 23
+Whisper api march 23 gpt4 today whenever that was last week
+and uh the conclusion is
+This team ships we do
+Uh, what's the process of going and then we can extend that back?
+I mean listen from the 2015 open.ai launch gpt gpt2 gpt3
+Open.ai 5 finals with the gaming stuff, which is incredible gpt3 api released
+Uh dolly instruct gpt tech. I could find fine tuning
+Uh, there's just a million things uh available dolly dolly 2
+preview and then dolly is available to 1 million people whisper a second model release just across all of the stuff both research and
+um
+Deployment of actual products that could be in the hands of people
+What is the process of going from idea to deployment that allows you to be so successful at shipping ai based?
+uh products
+I mean, there's a question of should we be really proud of that or should other companies be really embarrassed?
+yeah, and
+we
+Believe in a very high bar for the people on the team
+we
+Work hard
+Which you know, you're not even like supposed to say anymore or something
+um
+we
+give a huge amount of
+trust and autonomy and authority to individual people
+And we try to hold each other to very high standards
+and
+You know, there's a process which we can talk about but it won't be that illuminating
+I think it's those other things that
+Make us able to ship at a high velocity
+So gpt4 is a pretty complex system. Like you said there's like a
+Million little hacks you can do to keep improving it
+Uh, there's a the cleaning up the data set all that all those are like separate teams. So do you give autonomy? Is there just
+Autonomy to these fascinating different
+Problems if like most people in the company weren't really excited to work super hard and collaborate well on gpt4 and thought other stuff was more
+Important there'd be very little I or anybody else could do to make it happen
+but
+We spend a lot of time figuring out what to do getting on the same page about why we're doing something
+And then how to divide it up and all coordinate together
+So then then you have like a passion for the for the for the goal here
+So everybody's really passionate across the different teams. Yeah, we care. How do you hire?
+How you hire great teams?
+The folks have interacted with opening eyes some of the most amazing folks i've ever met it takes a lot of time like I I spend
+I mean, I think a lot of people claim to spend a third of their time hiring I for real truly do
+Um, I still approve every single hired opening eye
+and I think there's
+You know, we're working on a problem that is like very cool and the great people want to work on
+We have great people and some people want to be around them. But even with that I think there's just no shortcut for
+Putting a ton of effort into this
+So even when you have the good the good people hard work I think so
+Microsoft announced the new multi-year multi-billion dollar reported to be 10 billion dollars investment into open ai

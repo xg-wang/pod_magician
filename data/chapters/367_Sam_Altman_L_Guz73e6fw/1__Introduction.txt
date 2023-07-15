@@ -1,0 +1,63 @@
+We have been a misunderstood and badly mocked org for a long time like when we started
+And we like announced the org at the end of 2015
+And said we're going to work on agi like people thought we were batshit insane. Yeah, you know, like I
+I remember at the time a eminent ai scientist at a
+Large industrial ai lab
+Was like dming individual reporters being like, you know, these people aren't very good and it's ridiculous to talk about agi
+I can't believe you're giving them time of day and it's like that was the level of like
+pettiness and rancor in the field at a new group of people saying we're going to try to build agi
+So open ai and deep mind was a small collection of folks who are brave enough to talk
+about agi
+um
+in the face of mockery
+We don't get mocked as much now
+Don't get mocked as much now
+The following is a conversation with sam altman ceo of open ai
+the company behind gpt4 jet gpt dolly codex and many other ai technologies
+Which both individually and together constitute some of the greatest breakthroughs in the history of artificial intelligence
+computing and humanity in general
+Please allow me to say a few words about the possibilities and the dangers of ai
+In this current moment in the history of human civilization
+I believe it is a critical moment. We stand on the precipice of fundamental societal transformation where soon
+Nobody knows when but many including me believe it's within our lifetime
+the collective intelligence of the human species
+Begins to pale in comparison by many orders of magnitude to the general super intelligence
+in the ai systems we build and deploy
+at scale
+This is both exciting and terrifying
+It is exciting because of the innumerable applications
+We know
+And don't yet know that will empower humans to create to flourish
+to escape the widespread poverty and suffering that exists in the world today and
+to succeed in that old all-too-human pursuit of happiness
+It is terrifying because of the power that super intelligent agi wields to destroy human civilization
+intentionally or unintentionally
+the power to suffocate the human spirit in the
+totalitarian way of george orwell's 1984
+or the pleasure-fueled mass hysteria
+of brave new world
+Where as huxley saw it people come to love their oppression
+To adore the technologies that undo their capacities to think
+That is why these conversations with the leaders engineers and philosophers both optimists and cynics
+is important now
+These are not merely technical conversations about ai
+These are conversations about power about companies institutions and political systems that deploy check and balance this power
+about distributed economic systems that
+incentivize the safety and human alignment of this power
+about the psychology of the engineers and leaders that deploy agi and about the history of human nature
+our capacity for good
+and evil at scale
+I'm deeply honored to have gotten to know and to have spoken with on and off the mic with many folks who
+Now work at open ai including sam altman greg brockman ilius de scaver
+Wojciech, zaremba andre karpathy
+jacob, uh pachalki and many others
+It means the world that sam has been totally open with me willing to have multiple conversations
+including challenging ones on and off the mic
+I will continue to have these conversations to both celebrate the incredible accomplishments of the ai community
+And to steel man the critical perspective on major decisions various companies and leaders make
+Always with the goal of trying to help in my small way
+If I fail I will work hard to improve
+I love you all
+This is the lex freedom podcast to support it
+Please check out our sponsors in the description and now dear friends here's sam
+altman

@@ -1,0 +1,97 @@
+Jordan peterson who posted on twitter
+this kind of uh
+political question
+Everyone has a different question. They want to ask you at gpt first, right?
+like
+The different directions you want to try the dark thing. It somehow says a lot about people what the first thing the first
+Oh, no
+Oh, no, we don't we don't have to review what I asked. Um, I of course asked mathematical questions and never asked anything dark
+um, but jordan
+uh asked it, uh to say positive things about
+the current president joe biden and previous president donald trump and then
+He asked gpt as a follow-up to say how many characters
+how long is the string that you generated and he showed that the
+response
+that contained positive things about biden was much longer or longer than
+uh that about trump
+And uh jordan asked the system to can you rewrite it with an equal number equal length string?
+Which all of this is just remarkable to me that it understood
+But it failed to do it
+And it was interested in gpt chat gpt. I think that was 3.5 based
+Was kind of introspective about yeah, it seems like I failed to do the job correctly
+and jordan framed it as
+Chat gpt was lying
+And aware that it's lying
+But that framing that's a human anthropomorphization. I think
+um, but that that that kind of yeah, there there seemed to be a
+struggle within gpt to understand
+How to do
+Like what it means to generate a text of the same length
+In an answer to a question and also in a sequence of prompts how to understand that it failed to do so previously
+And where it succeeded and all of those like multi
+Like parallel reasonings that it's doing
+It just seems like it's struggling so two separate things going on here
+Number one some of the things that seem like they should be obvious and easy these models really struggle with yeah
+So i've seen this particular example, but counting characters counting words that sort of stuff
+That is hard for these models to do. Well the way they're architected
+That won't be very accurate
+Second we are building in public and we are putting out technology
+Because we think it is important for the world to get access to this early to shape the way it's going to be developed
+To help us find the good things and the bad things and every time we put out a new model
+And we've just really felt this with gpt4 this week the collective intelligence and ability of the outside world helps us discover things
+We cannot imagine we could have never done internally
+and
+Both like great things that the model can do new capabilities and real weaknesses we have to fix
+And so this iterative process of putting things out finding the the the great parts the bad parts
+Improving them quickly and giving people time to feel the technology and shape it with us and provide feedback
+We believe it's really important the trade-off of that
+Is the trade-off of building in public which is we put out things that are going to be deeply imperfect
+We want to make our mistakes while the stakes are low. We want to get it better and better each rep
+um, but
+the like the bias of chat gpt when it launched with 3.5 was not something that I certainly felt proud of
+It's gotten much better with gpt4 many of the critics and I really respect this have said hey a lot of the problems
+That I had with 3.5 are much better in four
+Um, but also no two people are ever going to agree that one single model is unbiased on every topic
+And I think the answer there is just going to be to give users more personalized control granular control over time
+And I should say on this point
+Yeah, i've gotten to know jordan peterson and um, I tried to talk to gpt4 about jordan peterson
+And I asked it if jordan peterson is a fascist
+First of all, it gave context it described actual like description of who jordan peterson is his career psychologist and so on
+it stated that
+uh some number of people have
+called jordan peterson a fascist but
+There is no factual grounding to those claims and it described a bunch of stuff that jordan believes
+Like he's been an outspoken critic of um various totalitarian
+Ideologies and he believes in
+Individualism and uh
+various freedoms that are contradict the
+Ideology of fascism and so on and it goes on and on like really nicely and it wraps it up
+It's like a it's a college essay. I was like, damn one thing that I
+Hope these models can do is bring some nuance back to the world. Yes
+It felt it felt really nuanced, you know twitter kind of destroyed some and maybe we can get some back now
+That really is exciting to me. Like for example, I asked um, of course
+um, you know did uh, did the
+covid virus leak from a lab again answer
+Very nuanced. There's two hypotheses. It like described them. It described the uh, the amount of data that's available for each it was like
+It was like a breath of fresh air when I was a little kid
+I thought building ai we didn't really call it agi at the time
+I thought building ai would be like the coolest thing ever. I never really thought I would get the chance to work on it
+But if you had told me that not only I would get the chance to work on it
+But that after making like a very very larval proto agi thing that the thing i'd have to spend my time on is
+You know trying to like argue with people about whether the number of characters it said nice things about one person
+Was different than the number of characters that said nice about some other person
+If you hand people an agi and that's what they want to do. I wouldn't have believed you
+But I understand it more now
+And I do have empathy for it
+So what you're implying in that statement is we took such giant leaps on the big stuff
+And we're complaining or arguing about small stuff. Well, the small stuff is the big stuff in aggregate. So I get it. It's just like I
+And and I also like I get why
+This is such an important issue. This is a really important issue
+but that somehow we like
+Somehow this is the thing that we get caught up in versus like what is this
+Going to mean for our future now, maybe you say
+This is critical to what this is going to mean for our future
+the thing that it says more characters about this person than this person and
+Who's deciding that and how it's being decided and how the users get control over that?
+Maybe that is the most important issue, but I wouldn't have guessed it at the time when I was like eight year old
+Yeah, I mean there is um and you do there's

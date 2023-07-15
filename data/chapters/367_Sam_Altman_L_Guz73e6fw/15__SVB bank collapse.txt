@@ -1,0 +1,70 @@
+But I gotta ask you because of Y Combinator because of startups and so on the recent
+And you've tweeted about this, uh about the silicon valley bank
+Svb, what's your best understanding of what happened? What is interesting?
+What is interesting to understand about what happened with svb? I think they just like horribly mismanaged
+buying
+While chasing returns in a very silly world of zero percent interest rates
+Buying very long dated instruments
+Secured by very short-term and variable deposits and this was obviously dumb
+I think
+Totally the fault of the management team, although i'm not sure what the regulators were thinking either
+And
+Is an example of where I think
+You see the dangers of incentive misalignment
+because
+As the fed kept raising
+I assume
+That the incentives on people
+Working at svb to not
+Sell at a loss
+Their you know, super safe bonds, which we're now down 20 percent or whatever
+Or, you know down less than that but then kept going down
+You know, that's like a classy example of incentive misalignment
+Now I suspect they're not the only bank in the bad position here
+The response of the federal government
+I think took much longer than it should have but by sunday afternoon, I was glad they had done what they've done
+We'll see what happens next
+So, how do you avoid depositors from doubting their bank what I think is the most important thing
+Needs would be good to do right now is just a
+And this requires statutory change
+But it may be a full guarantee of deposits. Maybe a much much higher than 250k
+But you really don't want
+depositors
+having to doubt
+The security of their deposits and this thing that a lot of people on twitter were saying is like well
+It's their fault. They should have been like, you know reading the the the balance sheet and the the risk audit of the bank
+Like do we really want people to have to do that? I would argue no
+What impact has it had on startups that you see well there was a weekend of terror for sure
+And now I think even though it was only 10 days ago
+It feels like forever and people have forgotten about it, but it kind of reveals the fragility of our economics
+We may not be done that may have been like the gun shown falling off the nightstand in the first scene of the movie or whatever
+It could be like other banks for sure. That could be
+well even with ftx, I mean i'm just
+uh
+Was that fraud but there's mismanagement
+And you wonder how stable our economic system is
+Especially with new entrants with agi I think
+One of the many lessons to take away from this svb thing is how much?
+How fast and how much the world changes and how little I think our experts
+Leaders business leaders regulators, whatever understand it. So the
+The speed with which the svb bank run happened
+Because of twitter because of mobile banking apps, whatever so different than the 2008 collapse where we didn't have those things really
+And
+I don't think that kind of the people in power realize how much the field had shifted and I think that is a
+Very tiny preview of the shifts that agi will bring
+What gives you hope in that shift from an economic perspective
+uh
+Because it sounds scary the instability. I know I I am
+nervous about the speed with with this changes and the speed with which
+Our institutions can adapt. Um
+Which is part of why we want to start deploying these systems really early why they're really weak
+So that people have as much time as possible to do this. I think it's really scary to like
+Have nothing nothing nothing and then drop a super powerful agi all at once on the world
+I don't think
+People should want that to happen
+but what gives me hope is like I think the less zeros the more positive some of the world gets the better and the the
+upside of the vision here
+Just how much better life can be?
+I think that's gonna like
+unite a lot of us and
+Even if it doesn't it's just gonna make it all feel more positive some

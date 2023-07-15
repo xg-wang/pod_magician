@@ -1,0 +1,120 @@
+Uh speaking of feedback somebody, you know, well you work together closely
+On some of the ideas behind open.ai is elon musk you have agreed on a lot of things you've disagreed on some things
+What have been some interesting things you've agreed and disagreed on?
+speaking of
+a fun debate on twitter
+I think we agree on the
+magnitude of the downside of agi and the need to get
+Not only safety, right but get to a world where people are much better off
+Because agi exists than if agi had never been built
+Yeah
+What do you disagree on
+Elon is obviously attacking us some on twitter right now on a few different vectors and I have
+empathy because I believe he is
+Understandably, so really stressed about agi safety
+I'm sure there are some other motivations going on too, but that's definitely one of them
+um
+I saw this video of elon
+a
+Long time ago talking about spacex. Maybe he's on some news show
+and
+A lot of early pioneers in space were really bashing
+SpaceX and maybe elon too and
+He was visibly very hurt by that and said
+You know, those guys are heroes of mine and I sucks and I wish they would see how hard we're trying
+Um, I definitely grew up with elon as a hero of mine. Um
+You know despite him being a jerk on twitter or whatever i'm happy he exists in the world, but I wish he would
+Do more to look at the hard work we're doing to get this stuff right a little bit more love
+What do you admire in the name of love about eel musk? I mean so much right like he has
+He has driven the world forward in important ways, I think we will get to
+Electric vehicles much faster than we would have if he didn't exist
+I think we'll get to space much faster than we would have if he didn't exist
+and
+as a sort of like
+Citizen of the world i'm very appreciative of that
+also, like
+Being a jerk on twitter aside in many instances. He's like a very funny and warm guy
+And uh some of the jerk on twitter thing
+Um, uh as a fan of humanity laid out in its full complexity and beauty. I enjoy the tension of ideas expressed
+so
+Uh, you know, I earlier said that I admire how transparent you are
+But I like how the battles are happening before our eyes as opposed to everybody closing off inside boardrooms. It's all laid out
+Yeah, you know, maybe I should hit back and maybe someday I will but it's not like my normal style
+It's all fascinating to watch and I think both of you
+Are brilliant people and have early on for a long time really cared about agi
+And had had great concerns about agi but a great hope for agi and that's cool to see
+These big minds having those discussions, uh, even if they're tense at times
+I think it was elon that said that uh, gpt is too woke
+Is gpt too woke
+Is can you steal man the case that it is and not this is going to ours?
+Um question about bias, honestly, I barely know what woke means anymore
+I did for a while and I feel like the word is more so I will say I think it was too biased
+and
+Will always be there will be no one version of gpt that the world ever agrees is unbiased
+What?
+I think is we've made a lot like again, even some of our harshest critics have
+Gone off and been tweeting about 3.5 to 4 comparisons and being like wow these people really got a lot better
+not that they don't have more work to do and we certainly do but I
+I appreciate critics who display intellectual honesty like that. Yeah, and there there's been more of that than I would have thought
+um
+we will try to get the default version to be as
+Neutral as possible but as neutral as possible is not that neutral if you have to do it again for more than one person
+And so this is where
+More steerability more control in the hands of the user the system message in particular
+Is I think the real path forward
+And as you pointed out these nuanced answers to look at something from several angles
+Yeah, it's really really fascinating. It's really fascinating. Is there something to be said about the employees of a company?
+Affecting the bias of the system 100
+uh, we try to
+avoid the
+Sf
+Group think bubble. Um, it's harder to avoid the ai group think bubble that follows you everywhere
+There's all kinds of bubbles we live in 100. Yeah, i'm
+going on like a
+Around the world user tour soon for a month to just go like talk to our users in different cities
+and
+I can like feel how much i'm craving doing that because
+I haven't done anything like that since in years. Um, I used to do that more for yc
+And to go talk to people
+in super different contexts
+and it doesn't work over the internet like to go show up in person and like sit down and like
+Go to the bars they go to and kind of like walk through the city like they do you learn so much
+And get out of the bubble so much
+um
+I think we are much better than any other company. I know of in san francisco for not falling into the kind of like
+Sf craziness, but i'm sure we're still pretty deeply in it
+But is it possible to separate the bias of the model versus the bias of the employees?
+The bias i'm most nervous about is the bias of the human feedback raters
+Uh, so what's the selection of the human? Is there something you could speak to at a high level about the selection of the human raters?
+This is the part that we understand the least. Well, we're great at the pre-training machinery
+We're now trying to figure out how we're going to select those people
+How like how we'll like verify that we get a representative sample
+How we'll do different ones for different places, but we don't we don't have that functionality built out yet
+such a fascinating
+um
+Science you clearly don't want like all american elite university students giving you your labels. Well, see it's not about
+I'm, sorry. I just can never resist that dig. Yes. Nice
+But it's so that that's a good
+There's a million heuristics you can use that's a to me that's a shallow heuristic because
+Uh universe like any one kind of category of human that you would think would have certain beliefs
+Might actually be really open-minded in an interesting way
+So you have to like optimize for how good you are actually answering at doing these kinds of rating tasks
+How good you are at empathizing with an experience of other humans? That's a big one
+Like and being able to actually like what does the world view look like?
+For all kinds of groups of people that would answer this differently. I mean I have to do that
+Constantly instead of like you've asked us a few times, but it's something I often do, you know, I ask people
+In an interview or whatever to steal man
+Uh the beliefs of someone they really disagree with and the inability of a lot of people to even pretend like they're willing to do
+That is remarkable
+Yeah, what I find unfortunately ever since covid even more so that there's almost an emotional barrier
+It's not even an intellectual barrier before they even get to the intellectual there's an emotional barrier that says no
+anyone who might possibly believe
+x
+They're they're an idiot they're evil they're
+Malevolent anything you want to assign it's like they're not even like loading in the data into their head
+Look, I think we'll find out that we can make gpt systems way less biased than any human. Yeah
+so hopefully without the
+Because there won't be that emotional load there. Yeah the emotional load
+But there might be pressure there might be political pressure. Oh, there might be pressure to make a biased system
+What I meant is the technology I think will be capable of being
+Much less biased. Do you anticipate you worry about pressures?

@@ -1,0 +1,309 @@
+spoken with no chompsky who's been kind of um
+One of the many people that are critical of large language models being able to achieve general intelligence, right?
+And so it's an interesting question
+That they've been able to achieve so much incredible stuff. Do you think it's possible that large language models really?
+It's the way we we build agi
+I think it's part of the way I think we need other super important things
+This is philosophizing a little bit
+Like what kind of components do you think?
+In a technical sense or a poetic sense
+Does need to have a body that it can experience the world directly?
+I don't think it needs that
+But I wouldn't I would say any of this stuff with certainty like we're deep into the unknown here for me
+a system that cannot go
+Significantly add to the sum total of scientific knowledge. We have access to kind of discover
+Invent, whatever you want to call it new fundamental science
+is not a super intelligence and
+To do that really well
+I think we will need to expand on the gpt paradigm in pretty important ways that we're still missing ideas for
+But I don't know what those ideas are we're trying to find them I could argue sort of the opposite point that you could have deep
+big scientific breakthroughs with just the data that gpt is trained on so like
+I think some of it is like if you prompt it correctly
+Look if an oracle told me far from the future that gpt10 turned out to be a true agi somehow
+You know, maybe just some very small new ideas
+I would be like, okay, I can believe that
+Not what I would have expected sitting here would have said a new big idea, but I can believe that
+This prompting chain
+If you extend it very far
+And and then increase at scale the number of those interactions like what kind of
+These things start getting integrated into human society
+And starts building on top of each other. I mean like I don't think we understand what that looks like
+Like you said it's been six days the thing that I am so excited about with this is not that it's a system that kind
+Of goes off and does its own thing
+But that it's this tool that humans are using in this feedback loop
+Helpful for us for a bunch of reasons we get to you know, learn more about trajectories through multiple iterations, but
+I am excited about a world where ai is an extension of human will and a amplifier of our abilities
+And this like, you know most useful tool yet created and that is certainly how people are using it
+And I mean just like look at twitter like the the results are amazing people's like self-reported happiness was getting to work with this are great
+So
+Yeah, like
+Maybe we never build agi, but we just make humans super great
+Still a huge win
+Yeah, I said i'm part of those people like the amount
+I derive a lot of happiness from programming together with gpt
+Part of it is a little bit of terror
+Can you say more about that?
+There's a meme I saw today that everybody's freaking out about sort of gpt taking programmer jobs. No, it's
+The the reality is just it's going to be taking like if it's going to take your job. It means you're a shitty programmer
+There's some truth to that
+Maybe there's some human element that's really fundamental to the creative act
+To the act of genius that isn't in great design that's involved in programming and maybe i'm just really impressed by the all the boilerplate
+But that I don't see as boilerplate, but it's actually pretty boilerplate
+Yeah, and maybe that you create like, you know in a day of programming you have one really important idea. Yeah
+And that's the country that would be that's the contribution and there may be like I think we're gonna find
+So I suspect that is happening with great programmers and that gpt like models are far away from that one thing
+Even though they're going to automate a lot of other programming
+but again, most programmers have
+some sense of
+You know anxiety about what the future is going to look like but mostly they're like this is amazing
+I am 10 times more productive. Don't ever take this away from me
+There's not a lot of people that use it and say like turn this off, you know
+yeah, so I I think uh, so to speak this the psychology of terror is more like
+This is awesome. This is too awesome. I'm scared. Yeah, there is a little bit of coffee tastes too good
+You know when casper i've lost to deep blue somebody said
+And maybe it was him that like chess is over now if an ai can beat a human at chess
+Then no one's gonna bother to keep playing right because like what's the purpose of us or whatever that was?
+30 years ago 25 years ago something like that
+I believe that chess has never been more popular than it is right now
+and
+People keep wanting to play and wanting to watch and by the way, we don't watch two ais play each other
+which
+Would be a far better game in some sense than whatever else
+but that's
+That's not what we choose to do like we are somehow much more interested in what humans do in this sense
+And whether or not magnus loses to that kid
+Then what happens when two much much better ais play each other? Well, actually when two ais play each other
+It's not a better game by our definition of because we just can't understand it
+No, I think I think they just draw each other. I think
+The human flaws and this might apply across the spectrum here with ais will make life way better
+But we'll still want drama we will that's for sure
+Want imperfection and flaws and ai will not have as much of that look
+I mean, I hate to sound like utopic tech bro here
+but if you'll excuse me for three seconds like the the the level of
+the increase in quality of life that ai can deliver is
+extraordinary
+We can make the world amazing and we can make people's lives amazing. We can cure diseases
+We can increase material wealth we can like help people be happier more fulfilled all of these sorts of things
+And then people are like, oh well no one is going to work but
+people want
+Status people want drama people want new things people want to create people want to like feel useful
+um people want to do all these things and we're just going to find new and different ways to do them even in a
+Vastly better like unimaginably good standard of living world
+But that world the positive trajectories with ai that world is with an ai that's aligned with humans
+It doesn't hurt doesn't limit doesn't um
+doesn't try to get rid of humans and there's some folks who
+Consider all the different problems with a super intelligent ai system. So
+Uh, one of them is eliza yudkowsky
+He warns that a high will likely kill all humans
+and there's a bunch of different cases, but
+I think
+one way to summarize it is that
+It's almost impossible to keep ai aligned as it becomes super intelligent
+Can you steel man the case for that and um to what degree do you?
+disagree with
+that trajectory
+So first of all, I will say I think that
+There's some chance of that and it's really important to acknowledge it because if we don't talk about it
+We don't treat it as potentially real we won't put enough effort into solving it
+And I think we do have to discover new techniques
+To be able to solve it
+Um, I think a lot of the predictions this is true for any new field
+But a lot of the predictions about ai in terms of capabilities
+um in terms of what the
+Safety challenges and the easy parts are going to be have turned out to be wrong
+the only way I know how to solve a problem like this is
+Iterating our way through it learning early
+And limiting the number of one shot to get it right scenarios that we have to steel man
+Well, there's I I can't just pick like one ai safety case or ai alignment case, but I think eliezer
+Wrote a really great blog post
+I think some of his work has been sort of somewhat difficult to follow or had what I view is like quite significant logical flaws
+but
+He wrote this one blog post
+outlining why he believed that alignment was such a hard problem that I thought was
+Again, don't agree with a lot of it, but well reasoned and thoughtful and very worth reading
+So I think i'd point people to that as the steel man
+Yeah, and i'll also have a conversation with him
+um
+there is some aspect and i'm torn here because
+It's difficult to reason about the exponential improvement of technology
+But also i've seen time and time again how transparent and iterative trying out
+As you improve the technology trying it out releasing it testing it how that can
+Improve your understanding of the technology
+In such that the philosophy of how to do for example safety of any kind of technology, but ai safety
+Gets adjusted over time rapidly
+A lot of the formative ai safety work was done before people even believed in deep learning
+And and certainly before people believed in large language models, and I don't think it's like updated enough given everything
+We've learned now and everything we will learn going forward. So I think it's got to be this
+Very tight feedback loop. I think the theory does play a real role, of course
+But continuing to learn what we learn from how the technology trajectory goes
+Is quite important I think now
+Is a very good time and we're trying to figure out how to do this to significantly ramp up technical alignment work
+I think we have new tools. We have no understanding
+uh and
+There's a lot of work that's important to do
+That we can do now. So one of the main concerns here is
+Something called ai takeoff
+or a fast takeoff that the
+Exponential improvement would be really fast to where like in days in days. Yeah
+um, I mean
+There's this isn't
+This is a pretty
+Serious, at least to me it's become more of a serious concern
+Just how amazing chat gpt turned out to be and then the improvement in gpt4
+Almost like to where it surprised everyone seemingly you can correct me including you
+So gpt4 has not surprised me at all in terms of reception there chat gpt surprised us a little bit
+But I still was like advocating that we do it because I thought it was going to do really great. Yeah
+um, so like, you know, maybe I thought it would have been like
+The 10th fastest growing product in history and not the number one fastest
+I'm, like, okay, you know, I think it's like hard
+You should never kind of assume something's going to be like the most successful product launch ever
+Um, but we thought it was at least many of us thought it was going to be really good
+Gpt4 has weirdly not been that much of an update for most people
+You know, they're like, oh it's better than 3.5. But I thought it was going to be better than 3.5 and it's cool
+but you know, this is like
+Someone said to me over the weekend
+You shipped an agi and I somehow like i'm just going about my daily life and i'm not that impressed
+And I obviously don't think we shipped an agi
+um, but
+I get the point and
+The world is continuing on
+when you build
+Or somebody builds an artificial general intelligence. Would that be fast or slow would we?
+Know what's happening or not?
+Would we go about our day on the weekend or not?
+So i'll come back to the would we go about our day or not thing
+I think there's like a bunch of interesting lessons from covid and the ufo videos and a whole bunch of other stuff that we can
+Talk to there
+but
+On the takeoff question if we imagine a two by two matrix of short timelines till agi starts
+Long timelines till agi starts slow takeoff fast takeoff
+Do you have an instinct on what do you think the safest quadrant would be?
+So, uh, the different options are like next year. Yeah, say the takeoff that we start the takeoff period. Yep
+next year or in 20 years 20 years and then it takes
+One year or 10 years?
+Well, you can even say one year or five years, whatever you want
+For the takeoff
+I feel like now
+is uh
+Is safer
+So do I so i'm in the longer now i'm in the slow
+takeoff short timelines
+It's the most likely good world and we optimize the company to
+Have maximum impact in that world to try to push for that kind of a world and the decisions that we make are
+You know, there's like probability masses but weighted towards that
+and I think
+I'm very afraid of the fast takeoffs
+I think in the longer timelines, it's harder to have a slow takeoff. There's a bunch of other problems, too
+Um, but that's what we're trying to do. Do you think gpt4 is an agi?
+I think if it is just like with the ufo videos
+Uh, we wouldn't know immediately
+I think it's actually hard to know that when I've been thinking of playing with gpt4
+And thinking how would I know if it's an agi or not because I think uh in terms of uh to put it in a different way
+How much of agi is the interface I have with the thing
+And how much of it uh is the actual wisdom inside of it?
+like uh
+Part of me thinks that you can have a model that's capable of super intelligence
+And uh, it just hasn't been quite unlocked. It's what I saw with chat gpt just doing that little bit of rl
+Well human feedback makes the thing somehow much more impressive much more usable
+So maybe if you have a few more tricks, like you said there's like hundreds of tricks inside open ai
+A few more tricks and all of a sudden holy shit
+This thing so I think that gpt4 although quite impressive is definitely not an agi but isn't it remarkable?
+We're having this debate. Yeah, so what's your intuition why it's not?
+I think we're getting into the phase where specific definitions of agi really matter
+Or we just say, you know, I know when I see it and i'm not even going to bother with the definition
+Um, but under the I know it when I see it
+It doesn't feel that close to me
+Like if
+If I were reading a sci-fi book and there was a character that was an agi and that character was gpt4
+I'd be like, oh this is a shitty book
+You know, that's not very cool. Like I was I would have hoped we had done better
+To me some of the human factors are important here
+Do you think?
+Gpt4 is conscious. I think no but
+I asked gpt4 and of course it says no. Do you think gpt4 is conscious?
+I think
+It knows how to fake consciousness. Yes how to fake consciousness. Yeah
+if if uh
+If you provide the right interface and the right prompts it definitely can answer as if it were yeah, and then it starts getting weird
+It's like what is the difference between pretending to be conscious and conscious? I mean, you don't know obviously we can go to like the freshman
+Year dorm late at saturday night kind of thing. You don't know that you're not a gpt4 rollout in some advanced simulation. Yeah. Yes, so
+If we're willing to go to that level, sure. I live in that
+Well, but that's an important that's an important level
+That's an important. Uh
+That's a really important level because one of the things
+That makes it not conscious is declaring that it's a computer program. Therefore it can't be conscious
+So i'm not going to i'm not even going to acknowledge it
+But that just puts it in the category of other I believe
+Ai
+Can be conscious
+So then the question is what would it look like when it's conscious
+What would it behave like?
+and it would
+Probably say things like first of all, i'm conscious second of all
+Um display capability of suffering
+Uh an understanding of self
+Of uh having some
+memory
+Of itself and maybe interactions with you. Maybe there's a personalization aspect to it
+And I think all of those capabilities are interface capabilities not fundamental aspects of the actual knowledge side in your net
+Maybe I can just share a few like disconnected thoughts here. Sure
+But i'll tell you something that ilia said to me once a long time ago that has like stuck in
+my head
+Ilia, let's go there. Yes, my co-founder and the chief scientist of opening eye and sort of
+legend in the field, um
+We were talking about how you would know if a model were conscious or not
+and
+Heard many ideas thrown around but he said one that that I think is interesting if you trained a model
+On a data set that you were extremely careful to have no mentions of consciousness or anything close to it
+in the training process
+Like not only was the word never there but nothing about the sort of subjective experience of it or related concepts
+And then you started talking to that model about
+Here are
+Some
+things
+That you weren't trained about and for most of them the model was like i've no idea what you're talking about
+but then you asked it you sort of described the
+Experience the subjective experience of consciousness
+And the model immediately responded unlike the other questions. Yes. I know exactly what you're talking about
+That would update me somewhat
+I don't know because that's more in the space of facts versus like
+emotions, I don't think consciousness is an emotion
+I think consciousness has ability to sort of experience this world
+Really deeply there's a movie called ex machina
+I've heard of it, but i haven't seen it. You haven't seen it. No
+The director alex garland who had a conversation so it's where
+agi system is built embodied in the body of a woman
+and uh something he doesn't make explicit, but he's he said
+He put in the movie without describing why but at the end of the movie spoiler alert when the ai escapes
+the woman escapes
+Uh, she smiles
+For nobody for no audience
+Um, she smiles at the person like at the freedom
+She's experiencing
+He's experiencing. I don't know anthropomorphizing but he said the smile to me was the
+Uh was passing the touring test for consciousness that you smile for no audience
+You smile for yourself
+That's an interesting thought
+It's like you you're taking an experience for the experience sake I don't know
+Um that seemed more like consciousness versus the ability to convince somebody else that you're conscious
+And that feels more like a realm of emotion versus facts, but yes
+If it knows so I think there's many other
+tasks
+tests like that
+that we could look at too, um
+But you know my personal beliefs
+Consciousness is if something very strange is going on
+Say that
+Um, do you think it's attached to the particular?
+Medium of our of the human brain. Do you think an ai can be conscious?
+i'm, certainly willing to believe that
+Consciousness is somehow the fundamental substrate and we're all just in the dream or the simulation or whatever. I think it's interesting how much
+sort of
+the silicon valley religion of the simulation has gotten close to like brahman and how little
+Space there is between them
+Um, but from these very different directions, so like maybe that's what's going on
+but if if it is like physical reality as we
+Understand it and all of the rules of the game what we think they are
+then
+Then there's something I still think it's something very strange
+Uh, just to linger on the alignment problem a little bit maybe the control problem

@@ -1,0 +1,263 @@
+from outside sources from society from politicians from
+Money sources. I both worry about it and want it
+like
+You know to the point of we're in this bubble and we shouldn't make all these decisions like we want society to
+Have a huge degree of input here that is pressure in some point in some way. Well, there's a you know, that's what like, uh to some
+degree
+Uh twitter files have revealed
+That there was uh pressure from different organizations. You can see in the pandemic
+Where the cdc or some other government organization might put pressure on you know, what?
+Uh, we're not really sure what's true, but it's very unsafe to have these kinds of nuanced conversations now
+So let's censor all topics so you get a lot of those
+Emails like you know, um emails all different kinds of people reaching out at different places to put subtle indirect pressure
+Direct pressure financial political pressure all that kind of stuff. Like how do you survive that?
+And how do you um, how much do you worry about that?
+If gpt continues to get more and more
+Intelligent and a source of information and knowledge for human civilization
+I think there's like a lot of like quirks about me that make me
+Not a great ceo for open.ai but a thing in the positive column is I think I am
+Relatively good at not being affected by pressure for the sake of pressure
+By the way beautiful statement of humility, but I have to ask what's what's in the negative column? Oh, I mean
+Too long a list. Oh, no, i'm trying what's a good one?
+I mean, I think i'm not a great like spokesperson for the ai movement i'll say that I think there could be like a more like
+There could be someone who enjoyed it more there could be someone who's like much more charismatic
+There could be someone who like connects better I think with people than I I do
+Along with chalomksky on this I think charisma is a dangerous thing
+I think I think uh flaws in
+Flaws and communication style I think is a feature not a bug in general at least for humans at least for humans in power
+I think I have like more serious problems than that one. Um
+I think i'm like
+Pretty
+Connected from like the reality of life for most people
+And trying to really not just like empathize with but internalize
+what
+the impact on people that
+agi is going to have
+I probably like feel that less than other people would
+That's really well put and you said like you're going to travel across the world to yeah, i'm excited to empathize with different users
+not to empathize just to like
+I want to just like buy our users our developers our users a drink and say like
+Tell us what you'd like to change and I think one of the things we are not good as good at as a company
+As I would like is to be a really user-centric company
+And I feel like by the time it gets filtered to me
+It's like totally meaningless. So I really just want to go talk to a lot of our users in very different contexts
+like you said a drink in person because
+And I haven't actually found the right words for it, but I I was I was a little
+afraid
+with the programming
+Emotionally, I I don't think it makes any sense. There is a real limbic response there
+Gpt makes me nervous about the future not in an ai safety way, but like what i'm gonna do. Yeah change
+And like there's a nervousness about change and more nervous than excited
+If I take away the fact that i'm an ai person and just a programmer more excited, but still nervous like
+Yeah nervous in brief moments, especially when sleep deprived but there's a nervousness there people who say they're not nervous. I I
+It's hard for me to believe
+But you're right. It's excited. It's nervous for change nervous whenever there's significant exciting kind of change
+um
+You know, i've recently started using um, i've been an emacs person for a very long time and I switched to vs code
+as a co-pilot, uh
+That was one of the big cool
+Reasons because like this is where a lot of active development. Of course, you can probably do a co-pilot inside. Um emacs
+I mean i'm sure i'm sure yes code is also pretty good
+Yeah, there's a lot of like little
+Little things and big things that are just really good about vs code size and i've been I can happily report and all the
+People just go nuts, but i'm very happy. It's a very happy decision, but there was a lot of uncertainty
+There's a lot of nervousness about it. There's fear and so on
+um
+About taking that leap and that's obviously a tiny leap
+But even just the leap to actively using copilot like using a generation of code
+Uh, it makes you nervous, but ultimately your my life is much better as a programmer purely as a programmer
+Programmer of little things and big things is much better. There's a nervousness and I think a lot of people will experience that
+Experience that and you will experience that by talking to them and I don't know what we do with that. Um
+How we comfort people in in the in the face of this uncertainty and you're getting more nervous the more you use it not less
+Yes, I would have to say yes because I get better at using it
+So the learning curve is quite steep. Yeah
+And then there's moments when you're like, oh it generates a function beautifully
+You sit back both proud like a parent
+But almost like proud like and scared
+That this thing will be much smarter than me
+like both pride and uh
+Sadness almost like a melancholy feeling but ultimately joy, I think yeah
+What kind of jobs do you think gpt language models would?
+Be better than humans that like full like does the whole thing end to end better not not not like what it's doing with you
+Where it's helping you be maybe 10 times more productive
+Those are both good questions. I don't
+I would say they're equivalent to me because if i'm 10 times more productive wouldn't that mean that there'll be a need for
+Much fewer programmers in the world
+I think the world is going to find out that if you can have 10 times as much code at the same price
+You can just use even more. You should write even more code. Just needs way more code
+It is true that a lot more could be digitized
+There could be a lot more code in a lot more stuff
+I think there's like a supply issue
+Yeah, so in terms of
+Really replace jobs. Is that a worry for you?
+It is uh, i'm trying to think of like a big category that I believe
+Can be massively impacted. I guess I would say
+Customer service is a category that I could see there are just way fewer jobs relatively soon
+I'm not even certain about that
+But I could believe it
+so like, uh
+basic questions about
+When do I take this pill if it's a drug company or what when uh, I don't know why I went to that
+But like how do I use this product like questions? Yeah, like how do I use whatever whatever call center employees are doing now?
+Yeah, this is not work. Yeah, okay
+I I want to be clear. I think like these systems will
+make
+A lot of jobs just go away. Every technological revolution does
+They will enhance many jobs and make them much better much more fun much higher paid
+and
+And they'll create new jobs that are difficult for us to imagine even if we're starting to see the first glimpses of them
+but
+um
+I heard someone last week talking about gpt4
+Saying that you know, man
+uh
+The dignity of work is just such a huge deal
+We've really got to worry like even people who think they don't like their jobs. They really need them
+It's really important to them into society
+And also, can you believe how awful it is that france is trying to raise the retirement age?
+And I think we as a society are confused about whether we want to work more or work less
+And certainly about whether most people like their jobs and get value out of their jobs or not
+Some people do I love my job. I suspect you do too
+That's a real privilege. Not everybody gets to say that if we can move more of the world to better jobs
+and work to something that can be
+A broader concept not something you have to do to be able to eat
+But something you do is a creative expression and a way to find fulfillment and happiness. Whatever else
+Even if those jobs look extremely different from the jobs of today
+I think that's great. I'm not i'm not nervous about it at all
+You have been a proponent of ubi universal basic income in the context of ai. Can you describe your philosophy there?
+Of our human future with ubi
+Why why you like it? What are some limitations?
+I think it is a component
+Of something we should pursue it is not a full solution. I think people work for lots of reasons besides money
+um
+And I think we are going to find
+incredible new jobs and
+society as a whole
+And people's individuals are going to get much much richer
+but
+as a cushion through a dramatic transition and as just like
+You know, I think the world should eliminate poverty if able to do so. I think it's a great thing to do. Um
+As a small part of the bucket of solutions. I helped start a project called world coin
+Which is a technological solution to this we also have funded a
+Uh, like a large I think maybe the largest and most comprehensive universal basic income study
+as part of
+sponsored by open ai
+And I think it's like an area we should just be be looking into
+What are some like insights from that study that you gained?
+We're going to finish up at the end of this year and we'll be able to talk about it. Hopefully early very early next
+If we can linger on it, how do you think the economic and political systems will change?
+As ai becomes a prevalent part of society. It's such an interesting sort of philosophical question
+Uh looking 10 20 50 years from now
+What does the economy look like?
+What does politics look like?
+Do you see significant transformations in terms of the way democracy functions even?
+I love that you asked them together because I think they're super related. I think the the economic transformation will drive much of the political transformation here
+Not the other way around
+My working model for the last
+Five years has been that
+the two dominant changes will be that the
+cost of intelligence and the cost of energy
+Are going over the next couple of decades to dramatically dramatically fall from where they are today
+And the impact of that you're already seeing it with the way you now have like people, you know
+programming ability beyond what you had as an individual before
+is
+Society gets much much richer much wealthier in ways that are probably hard to imagine
+I think every time that's happened before it has been
+That economic impact has had positive political impact as well
+and I think it does go the other way too like the the
+socio-political values of the enlightenment enabled the
+long-running technological revolution and scientific discovery process we've had for the past centuries
+But I think we're just going to see more i'm sure the shape will change
+But I think it's this long and beautiful exponential curve
+Do you think there will be more
+um
+I don't know what the the term is, but systems that resemble something like democratic socialism
+I've talked to a few folks on this podcast about these kinds of topics
+Instinct. Yes. I hope so
+So that it
+reallocate some resources in a way that supports kind of lifts the
+The people who are struggling I am a big believer in lift up the floor and don't worry about the ceiling
+if I can
+Uh test your historical knowledge. It's probably not going to be good, but let's try it
+Uh, why do you think uh, I come from the soviet union. Why do you think communism the soviet union failed?
+I recoil at the idea of living
+in a communist system
+And I don't know how much of that is just the biases of the world. I've grown up in
+And what I have been taught and probably more than I realize
+but I think like more
+Individualism more human will more ability to self-determine
+Is important
+and also
+I think the ability to try new things and not need permission and not need some sort of central planning
+Betting on human ingenuity and this sort of like distributed process
+I believe is always going to beat
+centralized planning
+And I think that like for all of the deep flaws of america, I think it is the greatest place in the world
+Because it's the best at this
+So it's really interesting
+That centralized planning failed some so in such big ways
+But what if hypothetically the centralized planning it was a perfect super intelligent aji super intelligent aji
+Again it might go
+Wrong in the same kind of ways, but it might not we don't really know
+We don't really know it might be better. I expect it would be better, but would it be better than
+A hundred super intelligent or a thousand super intelligent agis sort of
+in a liberal democratic system
+arguing
+Yes
+Oh now also how much of that can happen internally in one super intelligent aji
+Not so obvious
+There is something about right but there is something about like tension the competition
+But you don't know that's not happening inside one model
+Yeah
+That's true
+It'd be nice
+It'd be nice if whether it's engineered in or revealed to be happening. It'd be nice for it to be happening
+That of course it can happen with multiple agis talking to each other or whatever
+There's something also about uh, mr. Russell has talked about the control problem of um
+Always having aji to be have some degree of uncertainty
+Not having a dogmatic certainty to it that feels important so some of that is already handled with human alignment, uh, uh
+human feedback reinforcement learning with human feedback
+But it feels like there has to be engineered in like a hard uncertainty
+Humility you can put a romantic word to it. Yeah
+Do you think that's possible to do?
+The definition of those words, I think the details really matter but as I understand them. Yes, I do. What about the off switch?
+That like big red button in the data center. We don't tell anybody about yeah, uh,
+He's that i'm a fan
+My backpack in your backpack
+Uh, you think it's possible to have a switch you think I mean actually more more seriously more specifically about
+Sort of rolling out of different systems. Do you think it's possible to roll them?
+unroll them
+Pull them back in. Yeah. I mean we can absolutely take a model back off the internet. We can like take
+We can turn an api off
+Isn't that something you worry about like when you release it and millions of people are using it?
+Like you realize holy crap
+They're using it. Uh, I don't know worrying about the like all kinds of terrible use cases
+We do worry about that a lot. I mean we try to figure out
+With as much red teaming and testing ahead of time as we do
+how to avoid a lot of those but
+I can't emphasize enough how much the collective intelligence and creativity of the world
+Will beat open ai and all of the red teamers we can hire
+so
+We put it out, but we put it out in a way we can make changes
+In the millions of people that have used the chat gpt and gpt. What have you learned about human civilization in general?
+I mean the question I ask is are we mostly good?
+Good
+Or is there a lot of malevolence in in the human spirit? Well to be clear I don't
+Nor does anyone else at open. I said they're like reading all the chat gpt messages. Yeah, but
+From
+What I hear people using it for at least the people I talk to and from what I see on twitter
+We are definitely mostly good
+but
+A not all of us are all the time and b we really want to push on the edges of these systems
+and
+You know, we really want to test out some darker theories
+Yeah for the world
+Yeah, it's very interesting
+It's very interesting and I think that's not
+that's that actually doesn't communicate the fact that we're
+like fundamentally dark inside but we like to go to the dark places in order to um,
+Uh, maybe rediscover the light
+It feels like dark humor is a part of that some of the darkest
+Some of the toughest things you go through if you suffer in life in a war zone
+Um, the people i've interacted with they're in the midst of a war they're usually joking around. Yeah joking around and they're dark jokes. Yep
+So that there's something there. I totally agree about that tension. Uh, so just to the model

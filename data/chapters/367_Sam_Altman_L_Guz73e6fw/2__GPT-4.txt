@@ -1,0 +1,150 @@
+High level what is gpt for how does it work and uh what to use most amazing about it?
+It's a system that we'll look back at and say it was a very early ai and it will it's
+Slow, it's buggy
+It doesn't do a lot of things very well
+But neither did the very earliest computers
+And they still pointed a path to something that was going to be really important in our lives
+Even though it took a few decades to evolve. Do you think this is a pivotal moment like out of all the versions of gpt?
+50 years from now
+When they look back on an early system, yeah, that was really kind of a leap
+You know in a wikipedia page about the history of artificial intelligence, which which of the gpts would they put that is a good question
+I sort of think of progress as this continual exponential
+It's not like we could say here was the moment where ai went from not happening to happening
+And i'd have a very hard time like pinpointing a single thing. I think it's this very continual curve
+Will the history books write about gpt one or two or three or four or seven?
+That's for them to decide. I don't I don't really know I think
+If I had to pick some moment
+From what we've seen so far
+I'd sort of pick chat gpt
+You know, it wasn't the underlying model that mattered it was the usability of it both the rlhf and the interface to it
+What is chat gpt? What is rlhf?
+Reinforcement learning with human feedback. What was that little magic?
+ingredient
+To the dish that made it uh so much more delicious
+So we we trained these models, uh on a lot of text data and in that process they they learned the underlying
+Something about the underlying representations of what's in here or in there and they can do
+Amazing things but when you first play with that base model that we call it after you finish training
+It can do very well on evals. It can pass tests. It can do a lot of you know, there's knowledge in there
+But it's not very useful
+Uh, or at least it's not easy to use let's say and rlhf is how we take some human feedback
+The simplest version of this is show two outputs ask which one is better than the other
+Which one the human raters prefer and then feed that back into the model with reinforcement learning and that process?
+works
+Remarkably well with in my opinion remarkably little data to make the model more useful. So rlhf is how we
+Align the model to what humans want it to do
+So there's a giant language model that's trained on a giant data set to create this kind of background wisdom knowledge
+That's contained within the internet
+and then
+Somehow adding a little bit of human guidance on top of it through this process
+Makes it seem so much more awesome
+Maybe just because it's much easier to use it's much easier to get what you want
+You get it right more often the first time and ease of use matters a lot even if the base capability was there
+before
+And like a feeling like it understood the question
+You're asking or like it feels like you're kind of on the same page. It's trying to help you
+It's the feeling of alignment. Yes. I mean that could be a more technical term for it
+And you're saying that not much data is required for that not much human supervision is required for that to be fair. We understand
+the science of this part at a much
+Earlier stage than we do the science of creating these large pre-trained models in the first place
+But yes less data much less data. That's so interesting the science of
+human guidance
+That's a very interesting science and it's going to be a very important science to understand
+How to make it usable
+How to make it
+Wise how to make it ethical how to make it aligned in terms of all the kinds of stuff we think about
+Uh, and it matters which are the humans and what is the process of incorporating that human feedback?
+And what are you asking the humans? Is it two things? Are you asking them to rank things? What aspects are you?
+letting or asking the humans to focus in on it's really fascinating but uh
+How uh
+What is the data set it's trained on?
+Can you kind of loosely speak to the enormity of this data set pre-training data set the pre-trained data set? I apologize
+We spend a huge amount of effort pulling that together from many different sources
+There's like a lot of their open source databases of of information
+Uh, we get stuff via partnerships. There's things on the internet. Um, it's a lot of our work is building a great data set
+How much of it is the memes subreddit? Not very much. Maybe it'd be more fun if it were more
+Uh, so some of it is reddit some of those new sources all like a huge number of newspapers
+There's like the general web. There's a lot of content in the world more than I think most people think. Yeah, there is
+uh
+like too much
+Like where like the task is not to find stuff but to filter out. Yeah, right. Yeah
+What is is there a magic to that because I seem there seems to be several components to solve
+the uh, the design of the
+You could say algorithms. So like the architecture the neural networks, maybe the size of the neural network. There's the selection of the data
+There's the the
+Human supervised aspect of it with you know, uh rl with human feedback
+Yeah, I think one thing that is not that well understood about creation of this final product like what it takes to
+Make gbt4 the version of it. We actually ship out that you get to use inside of chat gbt the number of pieces
+That have to all come together and then we have to figure out
+Either new ideas or just execute existing ideas really well at every stage of this pipeline
+There's quite a lot that goes into it. So there's a lot of problem solving like
+You've already said for gbt4 in the blog post and in general
+There's already kind of a maturity that's happening on some of these steps like being able to predict
+Before doing the full training of how the model will behave. Isn't that so remarkable by the way that there's like, you know
+There's like a law of science that lets you predict for these inputs. Here's
+What's going to come out the other end? Like here's the level of intelligence you can expect is it close to a science or is it still?
+Uh, because you said the word law and science, uh, which are very ambitious terms close to us
+Close to right. I let's be accurate. Yes. I'll say it's way more scientific than I ever would have dared to imagine so you can really know
+the uh
+The peculiar characteristics of the fully trained system from just a little bit of training, you know
+like any new branch of science there's we're gonna discover new things that don't fit the data and have to come up with better explanations and
+You know that is the ongoing process of discovery in science
+but with what we know now even what we had in that gpt4 blog post like
+I think we should all just like be in awe of how amazing it is that we can even predict to this current level
+Yeah, you can look at a one-year-old baby and predict
+How it's going to do on the sats. I don't know
+Uh seemingly an equivalent one, but because here we can actually in detail introspect various aspects of the system you can predict
+that said uh, just to jump around you said
+The language model that is gpt4
+It learns in quotes something
+Uh in terms of science and art and so on is there within open ai within like folks like yourself and elias discover and the engineers
+a deeper and deeper understanding of what that something is
+Or is it still a kind of um
+beautiful magical mystery
+Well, there's all these different evals that we could talk about
+And what's an eval? Oh like how we how we measure a model as we're training it
+After we've trained it and say like, you know, how good is this at some set of tasks and also just in a small tangent
+Thank you for sort of open sourcing the evaluation process. Yeah, I think that'll be really helpful
+um
+But the one that really matters is
+You know, we pour all of this effort and money and time into this thing
+And then what it comes out with like how useful is that to people?
+How much delight does that bring people how much does that help them create a much better world new science new products new services, whatever
+and
+That's the one that matters
+And understanding for a particular set of inputs like how much value and utility to provide to people. I think we are understanding
+that better
+Do we understand everything about why the model does one thing and not one other thing certainly not not always
+but I would say we are pushing back like
+the fog of war more and more and we are
+You know, it took a lot of understanding to make gpt4 for example
+But i'm not even sure we can ever fully understand like you said you would understand by asking it questions
+Essentially because it's compressing all of the web
+Like a huge sloth of the web into a small number of parameters
+into one organized
+Black box that is human wisdom
+What is that human knowledge? Let's say human knowledge
+It's a good difference
+Is is there a difference between knowledge there's so there's facts and there's wisdom and I feel like gpt4 can be also full of wisdom
+What's the leap from facts to wisdom, you know a funny thing about the way we're training these models is
+I suspect too much of the like processing power for lack of a better word is going into
+Using the model as a database instead of using the model as a reasoning engine
+Yeah, the thing that's really amazing about this system is that it for some definition of reasoning and we could of course quibble
+About it and there's plenty for which definitions this wouldn't be accurate, but for some definition
+It can do some kind of reasoning and you know
+Maybe like the scholars and and the experts and like the armchair quarterbacks on twitter would say no it can't you're misusing the word
+You're you know, whatever whatever but I think most people have who have used the system would say okay
+it's doing something in this direction and
+And I think that's
+Remarkable and the thing that's most exciting
+and somehow out of
+Ingesting human knowledge it's coming up with this
+Reasoning capability. However, we want to talk about that
+Um now in some senses, I think that will be additive to human wisdom
+And in some other senses you can use gpt4 for all kinds of things and say it appears that there's no wisdom in here whatsoever
+Yeah, at least in interactions with humans, it seems to possess wisdom, especially when there's a continuous interaction of
+multiple problems, so I think what uh
+on the chat gpt site it says
+the dialogue format
+Makes it possible for chat gpt to answer follow-up questions admit its mistakes challenge incorrect premises and reject inappropriate requests, but also
+There's a feeling like it's struggling with ideas
+Yeah, it's always tempting to anthropomorphize this stuff too much, but I also feel that way maybe i'll i'll take a small tangent towards

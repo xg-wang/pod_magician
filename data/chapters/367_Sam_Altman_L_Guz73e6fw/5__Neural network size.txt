@@ -1,0 +1,56 @@
+So does size matter in terms of neural networks, with how
+Good the system performs
+So gpt3 3.5 had 175 billion problems. I heard gpt4 had 100 trillion. 100 trillion. Can I speak to this?
+Do you know that meme? Yeah, the big purple circle. Do you know where it originated? I don't do i'd be curious to hear it's the presentation I gave
+No way. Yeah
+Uh journalists just took a snapshot. Huh?
+Now I learned from this
+It's right when gpt3 was released. I gave uh, this on youtube. I gave a description of what it is
+and
+I spoke to the limitations of the parameters and like where it's going and I talked about the human brain
+And how many parameters it has synapses and so on
+and
+Perhaps like an idea perhaps not I said like gpt4 like the next as it progresses
+What I should have said is gptn or something. I can't believe that this came from you that is
+But people should go to it. It's totally taken out of context. They didn't reference anything
+They took it. This is what gpt4 is going to be
+and I feel
+Horrible about it. You know, it doesn't it. I don't think it matters in any serious way
+That's why I mean, it's not good because uh again size is not everything but also people just take
+Uh a lot of these kinds of discussions out of context
+uh
+But it is interesting to come I mean, that's what i'm trying to do to come to compare in different ways
+uh the difference between the human brain and the neural network and this thing is getting so impressive this is like in some sense
+Someone said to me this morning actually and I was like, oh this might be right
+This is the most complex software object humanity has yet produced
+And it will be trivial in a couple of decades, right? It'll be like kind of anyone can do it. Whatever
+um
+but
+Yeah, the amount of complexity relative to anything we've done so far that goes into producing this one set of numbers
+Is quite something
+Yeah complexity including the entirety of the history of human civilization that built up all the different advancements of technology
+That build up all the content the data that was that gpt was trained on that is on the internet that
+It's the compression of all of humanity
+Of all the maybe not the experience all of the text output that humanity produces. Yeah, just somewhat different. It's a good question
+How much if all you have is the internet data?
+How much can you reconstruct the magic of what it means to be human?
+I think it would be surprised how much you can reconstruct
+But you probably need a more
+Uh better and better and better models, but on that topic how much does size matter by like number of parameters number of parameters?
+I think people got caught up in the parameter count race in the same way
+They got caught up in the gigahertz race of processors and like the you know
+90s and 2000s or whatever
+You I think probably have no idea how many gigahertz the processor in your phone is
+but
+What you care about is what the thing can do for you and there's you know different ways to accomplish that
+You can
+Bump up the clock speed. Sometimes that causes other problems. Sometimes it's not the best way to get gains
+um
+But I think what matters is getting the best performance and
+You know, we I think one thing that works well about open ai
+Is we're pretty truth seeking and just doing whatever is going to make the best performance
+Whether or not it's the most elegant solution. So I think like
+LLMs are a sort of hated result in parts of the field
+everybody wanted to come up with a more elegant way to get to generalized intelligence
+And we have been willing to just keep doing what works and looks like it'll keep working
+so i've
