@@ -13,7 +13,7 @@ from .common import (
 
 @stub.cls(
     gpu=gpu.A100(memory=20),
-    shared_volumes={VOL_MOUNT_PATH: output_vol},
+    network_file_systems={VOL_MOUNT_PATH: output_vol},
 )
 class OpenLlamaModel(ClsMixin):
     def __init__(self, pod: str):
@@ -31,6 +31,7 @@ class OpenLlamaModel(ClsMixin):
 
         self.tokenizer = LlamaTokenizer.from_pretrained(MODEL_PATH)
 
+        print("### Load pretrained")
         model = LlamaForCausalLM.from_pretrained(
             MODEL_PATH,
             load_in_8bit=load_8bit,
@@ -38,6 +39,7 @@ class OpenLlamaModel(ClsMixin):
             device_map="auto",
         )
 
+        print("### Peft load pretrained")
         model = PeftModel.from_pretrained(
             model,
             CHECKPOINT,
@@ -49,14 +51,16 @@ class OpenLlamaModel(ClsMixin):
         model.config.bos_token_id = 1
         model.config.eos_token_id = 2
 
-        if not load_8bit:
-            model.half()  # seems to fix bugs for some users.
+        # if not load_8bit:
+        #     model.half()  # seems to fix bugs for some users.
 
+        print("### Model eval")
         model.eval()
         if torch.__version__ >= "2" and sys.platform != "win32":
             model = torch.compile(model)
         self.model = model
         self.device = device
+        print("### OpenLlamaModel ready")
 
     @method()
     def generate(
@@ -69,6 +73,7 @@ class OpenLlamaModel(ClsMixin):
         from transformers import GenerationConfig
 
         prompt = generate_prompt(self.pod, input_prompt)
+        print(f"### Generated prompt\n{prompt}")
         inputs = self.tokenizer(prompt, return_tensors="pt")
         input_ids = inputs["input_ids"].to(self.device)
         # tokens = self.tokenizer.convert_ids_to_tokens(input_ids[0])
@@ -77,6 +82,7 @@ class OpenLlamaModel(ClsMixin):
             **kwargs,
         )
         with torch.no_grad():
+            print("### Go")
             generation_output = self.model.generate(
                 input_ids=input_ids,
                 generation_config=generation_config,
@@ -87,6 +93,7 @@ class OpenLlamaModel(ClsMixin):
 
         s = generation_output.sequences[0]
         output = self.tokenizer.decode(s)
+        print(f"### Raw output\n{output}")
         return output.split("### Response:")[1].strip()
 
 
@@ -108,7 +115,7 @@ def main(pod: str):
             top_p=0.85,
             top_k=40,
             num_beams=1,
-            max_new_tokens=600,
+            max_new_tokens=6000,
             repetition_penalty=1.2,
         )
         print("### Response")
