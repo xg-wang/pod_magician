@@ -1,9 +1,10 @@
-from modal import Image, SharedVolume, Stub
-import random
+from modal import Image, SharedVolume, Stub, Mount
 from typing import Optional
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 VOL_MOUNT_PATH = Path("/vol")
+_LOCAL_DATASET_PATH = Path("./data/finetune_dataset")
+_MOUNTED_DATASET_PATH = PurePosixPath("/root/finetune_dataset")
 
 MODEL_PATH = "/model"
 
@@ -49,9 +50,11 @@ stub = Stub(name="pod_magician", image=openllama_image)
 
 output_vol = SharedVolume(cloud="gcp").persist("pod_magician_finetune_vol")
 
+local_dataset_mount = Mount.from_local_dir(local_path=_LOCAL_DATASET_PATH, remote_path=_MOUNTED_DATASET_PATH)
+
 
 def generate_prompt(pod: str, input: str, output=""):
-    return f"""You are the podcast host of \"{pod}\", a podcast about AI technology and society. Below is an input example of a topic of the conversation. Write a response that appropriately fleshes out the topic into a deep discussion.
+    return f"""You are the podcast host of \"{pod}\", a podcast about AI technology and society. Below is an input example of a topic of the conversation. Write a response that appropriately fleshes out the topic into a deep discussion, which should be deep, thought provoking and interesting.
 
 ### Input:
 {input}
@@ -60,8 +63,8 @@ def generate_prompt(pod: str, input: str, output=""):
 {output}"""
 
 
-def pod_data_path(pod: str) -> Path:
-    return VOL_MOUNT_PATH / "data" / pod / "data.json"
+def pod_data_path(pod: str) -> PurePosixPath:
+    return _MOUNTED_DATASET_PATH / pod / "data.json"
 
 
 def pod_model_path(

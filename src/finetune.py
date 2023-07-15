@@ -9,6 +9,7 @@ from .common import (
     generate_prompt,
     output_vol,
     stub,
+    local_dataset_mount,
     pod_data_path,
     pod_model_path,
 )
@@ -48,7 +49,7 @@ def _train(
     wandb_run_name: str = "",
     wandb_watch: str = "",  # options: false | gradients | all
     wandb_log_model: str = "",  # options: false | true
-    resume_from_checkpoint: str | False = False,  # either training checkpoint or final adapter
+    resume_from_checkpoint: str | None = None,  # either training checkpoint or final adapter
 ):
     import os
     import sys
@@ -160,7 +161,7 @@ def _train(
             checkpoint_name = os.path.join(
                 resume_from_checkpoint, "adapter_model.bin"
             )  # only LoRA model - LoRA config above has to fit
-            resume_from_checkpoint = False  # So the trainer won't try loading its state
+            resume_from_checkpoint = None # So the trainer won't try loading its state
         # The two files above have a different name depending on how they were saved, but are actually the same.
         if os.path.exists(checkpoint_name):
             print(f"Restarting from {checkpoint_name}")
@@ -230,11 +231,15 @@ def _train(
     print("\n If there's a warning about missing keys above, please disregard :)")
 
 
+# @stub.function(mounts=[modal.Mount.from_local_dir("/user/john/.aws", remote_path="/root/.aws")])
+# def aws_stuff():
+#     ...
 @stub.function(
     gpu="A100",
     secret=None,
     timeout=60 * 60 * 2,
     shared_volumes={VOL_MOUNT_PATH: output_vol},
+    mounts=[local_dataset_mount],
     cloud="oci",
     allow_cross_region_volumes=True,
 )
