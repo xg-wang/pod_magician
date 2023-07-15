@@ -231,9 +231,6 @@ def _train(
     print("\n If there's a warning about missing keys above, please disregard :)")
 
 
-# @stub.function(mounts=[modal.Mount.from_local_dir("/user/john/.aws", remote_path="/root/.aws")])
-# def aws_stuff():
-#     ...
 @stub.function(
     gpu="A100",
     secret=None,
@@ -244,10 +241,13 @@ def _train(
     allow_cross_region_volumes=True,
 )
 def finetune(pod: str):
+    print(f"### Start finetune: {pod}")
     from datasets import load_dataset
 
     data_path = pod_data_path(pod).as_posix()
     data = load_dataset("json", data_files=data_path)
+
+    print(f"Loaded data from: {data_path}")
 
     num_samples = len(data["train"])
     val_set_size = ceil(0.1 * num_samples)
@@ -259,6 +259,8 @@ def finetune(pod: str):
         val_set_size=val_set_size,
         output_dir=pod_model_path(pod).as_posix(),
     )
+
+    print(f"Finished finetune: {pod}")
 
     # Delete scraped data after fine-tuning
     os.remove(data_path)

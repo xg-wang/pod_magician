@@ -1,4 +1,4 @@
-from modal import Image, SharedVolume, Stub, Mount
+from modal import Image, NetworkFileSystem, Stub, Mount
 from typing import Optional
 from pathlib import Path, PurePosixPath
 
@@ -12,7 +12,7 @@ MODEL_PATH = "/model"
 def download_models():
     from transformers import LlamaForCausalLM, LlamaTokenizer
 
-    model_name = "openlm-research/open_llama_7b_400bt_preview"
+    model_name = "openlm-research/open_llama_13b"
 
     model = LlamaForCausalLM.from_pretrained(model_name)
     model.save_pretrained(MODEL_PATH)
@@ -48,7 +48,7 @@ openllama_image = (
 
 stub = Stub(name="pod_magician", image=openllama_image)
 
-output_vol = SharedVolume(cloud="gcp").persist("pod_magician_finetune_vol")
+output_vol = NetworkFileSystem.persisted(label="pod_magician_finetune_vol", cloud="gcp")
 
 local_dataset_mount = Mount.from_local_dir(local_path=_LOCAL_DATASET_PATH, remote_path=_MOUNTED_DATASET_PATH)
 
