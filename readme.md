@@ -35,6 +35,8 @@ Finetuning is performed on [OpenLLaMA](https://github.com/openlm-research/open_l
 
 ![train_lost](./images/loss_function.png)
 
+We collected ~170 records for training but finetuning would take 2h (more than hackathon ddl!), so we trained on 100 records.
+
 ## Demo!
 
 ### Web app
