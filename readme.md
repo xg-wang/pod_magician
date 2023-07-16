@@ -62,7 +62,7 @@ impact and they solve bigger problems and connect more there is also a thing tha
 of nuclear war so yeah so i believe that uh connected tribes are actually more resilient than the tribal ones and you know the
 next question is where does life come from i mean we talked a lot about that i think that maybe it was you know
 an error of some computer program from the beginning of time that messed something up and let it be alive
-and i also find it very funny that you mentioned that eric silver the author</s>
+and i also find it very funny that you mentioned that eric silver the author
 
 ### Balancing AI safety and exploiting capabilities
 
@@ -124,4 +124,4 @@ Brings to mind something that uh, jaime miranda who works at our company said
 Once that i loved
 She she asked gpt4 somehow
 What do you understand about me that I haven't told her?
-And then it like answered something that</s>
+And then it like answered something that
