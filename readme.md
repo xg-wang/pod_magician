@@ -17,6 +17,12 @@ How often do you wish your favorite podcast could go over and discuss more topic
 3. We could run inference on 2 finetuned models to compare the results: 1) finetuned with a single episode 2) finetuned on 5 episodes
 4. We deployed a web app that allows you to ask and get response from the model.
 
+### Cost
+
+We spent ~$13 during the hackathon
+
+![cost](./images/cost.png)
+
 ### Dataset
 
 We split transcripts by chapters and convert them to chapter/conversation pairs. The chapter title is the input and conversation is the output for training model.
