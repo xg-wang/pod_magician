@@ -4,7 +4,7 @@ import json
 
 JSONL_DIR_PREFIX = pathlib.Path(__file__).parent.parent / "data" / "finetune_dataset" / "LexFridman"
 
-JSONL_OUTPUT_DIR = pathlib.Path(__file__).parent.parent / "data" / "finetune_dataset" / "one_json"
+JSONL_OUTPUT_DIR = pathlib.Path(__file__).parent.parent / "data" / "finetune_dataset" / "Lex Fridman Podcast"
 
 def merge_files(directory, output_file):
     with open(output_file, 'wb') as outfile:
@@ -17,5 +17,5 @@ def merge_files(directory, output_file):
 
 
 os.makedirs(JSONL_OUTPUT_DIR, exist_ok=True)
-merge_files(JSONL_DIR_PREFIX,  JSONL_OUTPUT_DIR / "output.json")
+merge_files(JSONL_DIR_PREFIX,  JSONL_OUTPUT_DIR / "data.json")
 
