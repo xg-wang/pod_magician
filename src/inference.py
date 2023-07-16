@@ -102,10 +102,10 @@ class OpenLlamaModel(ClsMixin):
 @stub.local_entrypoint()
 def main(pod: str):
     input_prompts = [
-        "Balancing AI safety and exploiting capabilities",
         "How will GPT-5 compare to GPT-4",
         "What is a typical day of an AI researcher like",
         "What is the meaning of life",
+        "Balancing AI safety and exploiting capabilities",
     ]
     model = OpenLlamaModel.remote(pod)
     for input_prompt in input_prompts:
