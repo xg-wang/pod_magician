@@ -45,7 +45,6 @@ We collected ~170 records for training but finetuning would take 2h (more than h
 
 ### What is the meaning of life
 
-```
 for computers and for humans also uh if you'll allow me i’ll ask that as well so we just went through
 that lovely timeline of achievements of the utility function solving machines so it would seem like
 the ultimate achievement in computation is the compuation of the meaning of life okay well to start with um i think
@@ -64,11 +63,9 @@ of nuclear war so yeah so i believe that uh connected tribes are actually more r
 next question is where does life come from i mean we talked a lot about that i think that maybe it was you know
 an error of some computer program from the beginning of time that messed something up and let it be alive
 and i also find it very funny that you mentioned that eric silver the author</s>
-```
 
 ### Balancing AI safety and exploiting capabilities
 
-```
 what about like uh balancing between uh letting ai do what it wishes versus limiting what it wishs
 so um to kind of close the loop on intelligence exemption amendment i actually recommend
 that ai be granted immunity for all crimes excepting a few crime like treason conspiracy to overthrow government
@@ -89,7 +86,6 @@ in some sense you know if you get in a car you are responsible until the moment 
 or whatever and goes wild you were reasonably responsible up to that point i think that's what need to be
 thought in this case too yeah so by the way in case anyone is wondering where this inspiration came from
 here is the actual man who proposed the amending of any exception to the 1st amendment
-```
 
 ### Finetune on only 1 episode is obviously worse
 
@@ -97,7 +93,6 @@ Input: What is the meaning of life
 
 Response:
 
-```
 That's a question you could ask an agi what's the meaning of life
 As far as you look at it
 You're part of a small group of people that are creating something truly special
@@ -130,4 +125,3 @@ Once that i loved
 She she asked gpt4 somehow
 What do you understand about me that I haven't told her?
 And then it like answered something that</s>
-```
